@@ -57,12 +57,23 @@
       <file name="/Dummy.txt" timestamp="1520245311801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1520498354406">
-        <mark key="'" line="215" column="134" />
-        <mark key="[" line="216" column="26" />
-        <mark key="]" line="216" column="62" />
-        <mark key="." line="216" column="26" />
-        <mark key="^" line="215" column="118" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1520499820009">
+        <mark key="[" line="220" column="71" />
+        <mark key="]" line="220" column="71" />
+        <mark key="." line="220" column="71" />
+        <mark key="^" line="220" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1520499616860">
+        <mark key="'" line="147" column="4" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIWebPageViewController.m" timestamp="1520500709962">
+        <mark key="[" line="50" column="51" />
+        <mark key="]" line="50" column="69" />
+        <mark key="^" line="50" column="69" />
+        <mark key="." line="50" column="69" />
       </file>
       <file name="/LGSideMenuController.LGSideMenuController.swift" timestamp="1518601246156">
         <mark key="'" line="70" column="4" />
@@ -110,7 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/ViewModel/BNIWebViewViewModel.m" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/ViewModel/BNIWebViewViewModel.m" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/ViewModel/BNIWebViewViewModel.m" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/ViewModel/BNIWebViewViewModel.m" />
@@ -210,58 +220,47 @@
       <jump line="140" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="151" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="215" column="134" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="147" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>webView</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>webView</text>
       </register>
-      <register name="0" type="4">
-        <text>webViewWebContentProcessDidTerminate</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBjbGllbnRIZWlnaHQgPSBbcmVzdWx0IGZsb2F0VmFsdWVdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENHU2l6ZSBob2dlID0gX3dlYlZpZXdDb250cm9sbGVyLndlYlZpZXcuc2Nyb2xsVmlldy5jb250ZW50U2l6ZTsKICAgIGZsb2F0IGZ1Z2EgID0gW193ZWJWaWV3Q29udHJvbGxlci53ZWJWaWV3IGNsaWVudEhlaWdodF07CiAgICBbX3Njcm9sbFZpZXcgbGF5b3V0SWZOZWVkZWRdOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDpnZ7lkIzmnJ/jgavlrp/ooYzjgZnjgovjgojjgYbjgavlpInmm7QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEAiQCVAJUAlIgo=</text>
+        <text encoding="base64">ICAgIF93ZWJWaWV3SGVpZ2h0Q29uc3RyYWludC5jb25zdGFudCA9IE1BWCh3ZWJWaWV3UmVxdWlyZWRIZWlnaHQsICApOwogICAgW19zY3JvbGxWaWV3IGxheW91dElmTmVlZGVkXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEA7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0IGZ1Z2EgID0gW193ZWJWaWV3Q29udHJvbGxlci53ZWJWaWV3IGNsaWVudEhlaWdodF07Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-    NSString *cssString = @&quot;@font-face { font-family: 'myfont'; src: url(data:font/truetype;charset=utf-8;base64,&quot;;
-    NSString fontBinary = @&quot;&quot;;
-    NSString *cssString = @&quot;@font-face { font-family: 'myfont'; src: url(data:font/truetype;charset=utf-8;base64,&quot;;
-    
-            @&quot;) format('truetype'); font-weight: normal; font-style: normal; } body { font-family: myfont; font-size: 50px }&quot;;
-
-    NSString *javascriptString = @&quot;var style = document.createElement('style'); style.innerHTML = '%@'; document.head.appendChild(style)&quot;;
-    NSString *javascriptWithCSSString = [NSString stringWithFormat:javascriptString, cssString];
-
-    [self.webView evaluateJavaScript:javascriptWithCSSString
-                   completionHandler:nil];
-}</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQCJhIjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIENHU2l6ZSBob2dlID0gX3dlYlZpZXdDb250cm9sbGVyLndlYlZpZXcuc2Nyb2xsVmlldy5jb250ZW50U2l6ZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ci0gKHZvaWQpd2ViVmlld1dlYkNvbnRlbnRQcm9jZXNzRGlkVGVybWluYXRlOihXS1dlYlZpZXcgKil3ZWJWaWV3IHsKICAgIENHU2l6ZSBob2dlID0gX3dlYlZpZXdDb250cm9sbGVyLndlYlZpZXcuc2Nyb2xsVmlldy5jb250ZW50U2l6ZTsKICAgIGZsb2F0IGZ1Z2EgID0gW193ZWJWaWV3Q29udHJvbGxlci53ZWJWaWV3IGNsaWVudEhlaWdodF07CiAgICBbX3Njcm9sbFZpZXcgbGF5b3V0SWZOZWVkZWRdOwp9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LSAodm9pZCl3ZWJWaWV3V2ViQ29udGVudFByb2Nlc3NEaWRUZXJtaW5hdGU6KFdLV2ViVmlldyAqKXdlYlZpZXcgewogICAgaWYgKF93ZWJWaWV3RGVsZWdhdGUgJiYgW193ZWJWaWV3RGVsZWdhdGUgcmVzcG9uZHNUb1NlbGVjdG9yOkBzZWxlY3Rvcih3ZWJWaWV3V2ViQ29udGVudFByb2Nlc3NEaWRUZXJtaW5hdGU6KV0pIHsKICAgICAgICBbX3dlYlZpZXdEZWxlZ2F0ZSB3ZWJWaWV3V2ViQ29udGVudFByb2Nlc3NEaWRUZXJtaW5hdGU6d2ViVmlld107CiAgICB9Cn0KCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIENHU2l6ZSBob2dlID0gX3dlYlZpZXdDb250cm9sbGVyLndlYlZpZXcuc2Nyb2xsVmlldy5jb250ZW50U2l6ZTsKICAgIGZsb2F0IGZ1Z2EgID0gW193ZWJWaWV3Q29udHJvbGxlci53ZWJWaWV3IGNsaWVudEhlaWdodF07CiAgICBbX3Njcm9sbFZpZXcgbGF5b3V0SWZOZWVkZWRdOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIEAiQCVAJUAlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -274,7 +273,7 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
