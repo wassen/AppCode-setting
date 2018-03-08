@@ -15,11 +15,11 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/Models/WerderdType.swift" timestamp="1520523036769">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/Models/WerderdType.swift" timestamp="1520523812747">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -34,37 +34,37 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlY3Rpb25WaWV3LmRlbGVnYXRlID0gc2VsZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL+OCv+OCsOOCkuaJi+aOm+OBi+OCiuOBq+ODqeODmeODq+OCkueJueWumuOBmeOCiwogICAgICAgIC8vICAgICAgICBsZXQgdGV4dExhYmVsID0gY2VsbC5jb250ZW50Vmlldy52aWV3V2l0aFRhZygxKSBhcyEgVUlMYWJlbAogICAgICAgIC8vICAgICAgICB0ZXh0TGFiZWwudGV4dCA9IG5hbWVzW2luZGV4UGF0aC5yb3ddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1bmMgbnVtYmVyT2ZTZWN0aW9ucygKICAgICAgICBpbiBjb2xsZWN0aW9uVmlldzogVUlDb2xsZWN0aW9uVmlldwogICAgKSAtPiBJbnQgewogICAgICAgIHJldHVybiAxICAgICAvL3JldHVybiBudW1iZXIgb2Ygc2VjdGlvbnMgaW4gY29sbGVjdGlvbiB2aWV3CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvL+OCv+OCsOOCkuaJi+aOm+OBi+OCiuOBq+ODqeODmeODq+OCkueJueWumuOBmeOCiwogICAgICAgIC8vICAgICAgICBsZXQgdGV4dExhYmVsID0gY2VsbC5jb250ZW50Vmlldy52aWV3V2l0aFRhZygxKSBhcyEgVUlMYWJlbAogICAgICAgIC8vICAgICAgICB0ZXh0TGFiZWwudGV4dCA9IG5hbWVzW2luZGV4UGF0aC5yb3ddCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text encoding="base64">ICAgIHZhciB0eXBlczogW10=</text>
       </register>
     </registers>
     <search>
@@ -72,12 +72,15 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w'</entry>
         <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
