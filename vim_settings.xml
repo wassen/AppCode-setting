@@ -3,23 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" timestamp="1520521781706">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1520351664664">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="45" />
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/Models/WerderdType.swift" timestamp="1520523812747">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/Models/WerderdType.swift" timestamp="1520527765947">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -30,41 +24,57 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlY3Rpb25WaWV3LmRlbGVnYXRlID0gc2VsZgo=</text>
+      <register name="0" type="4">
+        <text>(&quot;WerderdTypeModel_types&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBsZXRyIGBkZWZhdWx0YCA9IFdlcmRlcmRUeXBlTW9kZWwoKQogICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0VGl0bGUoIlRhcCBNZSEiLCBmb3JTdGF0ZTogLk5vcm1hbCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>{
+        didSet {
+            NotificationCenter.default.post(
+                name: Notification.Name(&quot;WerderdTypeModel_types&quot;),
+                object: self.werderdTypes
+            )
+            print(&quot;hogee&quot;)
+        }
+    }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+      <register name="5" type="4">
+        <text>{
+        didSet {
+            NotificationCenter.default.post(
+                name: Notification.Name(&quot;WerderdTypeModel_types&quot;),
+                object: self.werderdTypes
+            )
+            print(&quot;hogee&quot;)
+        }
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICBkaWRTZXQgewogICAgICAgICAgICBOb3RpZmljYXRpb25DZW50ZXIuZGVmYXVsdC5wb3N0KAogICAgICAgICAgICAgICAgbmFtZTogTm90aWZpY2F0aW9uLk5hbWUoIldlcmRlcmRUeXBlTW9kZWxfdHlwZXMiKSwKICAgICAgICAgICAgICAgIG9iamVjdDogc2VsZi53ZXJkZXJkVHlwZXMKICAgICAgICAgICAgKQogICAgICAgICAgICBwcmludCgiaG9nZWUiKQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iamVjdDogbmlsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+OCv+OCsOOCkuaJi+aOm+OBi+OCiuOBq+ODqeODmeODq+OCkueJueWumuOBmeOCiwogICAgICAgIC8vICAgICAgICBsZXQgdGV4dExhYmVsID0gY2VsbC5jb250ZW50Vmlldy52aWV3V2l0aFRhZygxKSBhcyEgVUlMYWJlbAogICAgICAgIC8vICAgICAgICB0ZXh0TGFiZWwudGV4dCA9IG5hbWVzW2luZGV4UGF0aC5yb3ddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIHZhciB0eXBlczogW10=</text>
+        <text>let</text>
       </register>
     </registers>
     <search>
