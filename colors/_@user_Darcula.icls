@@ -1,0 +1,12 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-01-23T15:31:46</property>
+    <property name="ide">AppCode</property>
+    <property name="ideVersion">2017.3.0.0</property>
+    <property name="modified">2018-01-24T17:46:47</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="WHITESPACES" value="6aff37" />
+  </colors>
+</scheme>

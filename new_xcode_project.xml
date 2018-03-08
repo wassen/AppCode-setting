@@ -1,0 +1,9 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <boolean key="hasUnitTests" value="true" />
+    <boolean key="coreData" value="false" />
+    <string key="organizationName" value="___FULLUSERNAME___" />
+    <boolean key="hasUITests" value="true" />
+    <string key="languageChoice" value="Swift" />
+  </component>
+</application>
