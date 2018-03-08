@@ -1,9 +1,0 @@
-<application>
-  <component name="AMDeviceDatabase">
-    <option name="deviceTypeToArchitecture">
-      <map>
-        <entry key="iPhone10,1" value="armv6" />
-      </map>
-    </option>
-  </component>
-</application>
