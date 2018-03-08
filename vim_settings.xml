@@ -24,7 +24,7 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" timestamp="1520245499888">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" timestamp="1520498244799">
         <mark key="a" line="147" column="44" />
         <mark key="'" line="154" column="0" />
         <mark key="[" line="148" column="36" />
@@ -57,12 +57,12 @@
       <file name="/Dummy.txt" timestamp="1520245311801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1520496843935">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="219" column="15" />
-        <mark key="]" line="219" column="15" />
-        <mark key="^" line="219" column="15" />
-        <mark key="." line="219" column="15" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1520498354406">
+        <mark key="'" line="215" column="134" />
+        <mark key="[" line="216" column="26" />
+        <mark key="]" line="216" column="62" />
+        <mark key="." line="216" column="26" />
+        <mark key="^" line="215" column="118" />
       </file>
       <file name="/LGSideMenuController.LGSideMenuController.swift" timestamp="1518601246156">
         <mark key="'" line="70" column="4" />
@@ -110,7 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/ViewModel/BNIWebViewViewModel.m" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/ViewModel/BNIWebViewViewModel.m" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/ViewModel/BNIWebViewViewModel.m" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/ViewModel/BNIWebViewViewModel.m" />
@@ -210,27 +209,31 @@
       <jump line="136" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="140" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="151" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
+      <jump line="215" column="134" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>webView</text>
       </register>
       <register name="/" type="4">
         <text>webView</text>
       </register>
       <register name="0" type="4">
-        <text>[_webViewController.webView clientHeight]</text>
+        <text>webViewWebContentProcessDidTerminate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEAiQCVAJUAlIgo=</text>
+        <text encoding="base64">ICAgIENHU2l6ZSBob2dlID0gX3dlYlZpZXdDb250cm9sbGVyLndlYlZpZXcuc2Nyb2xsVmlldy5jb250ZW50U2l6ZTsKICAgIGZsb2F0IGZ1Z2EgID0gW193ZWJWaWV3Q29udHJvbGxlci53ZWJWaWV3IGNsaWVudEhlaWdodF07CiAgICBbX3Njcm9sbFZpZXcgbGF5b3V0SWZOZWVkZWRdOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIEAiQCVAJUAlIgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIEA7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
     NSString *cssString = @&quot;@font-face { font-family: 'myfont'; src: url(data:font/truetype;charset=utf-8;base64,&quot;;
     NSString fontBinary = @&quot;&quot;;
@@ -245,23 +248,20 @@
                    completionHandler:nil];
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQCJhIjsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQCJhIjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -319,6 +319,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>w;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
