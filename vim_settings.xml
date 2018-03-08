@@ -57,8 +57,11 @@
       <file name="/Dummy.txt" timestamp="1520245311801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1520392703716">
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1520493100935">
+        <mark key="[" line="53" column="36" />
+        <mark key="]" line="53" column="35" />
+        <mark key="^" line="53" column="35" />
+        <mark key="." line="53" column="35" />
       </file>
       <file name="/LGSideMenuController.LGSideMenuController.swift" timestamp="1518601246156">
         <mark key="'" line="70" column="4" />
@@ -212,7 +215,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>%@%@</text>
+        <text>torikumiId</text>
       </register>
       <register name="/" type="4">
         <text>webView</text>
