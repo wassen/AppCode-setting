@@ -3,17 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" timestamp="1520520000047">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="20" column="46" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" timestamp="1520521781706">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1520351664664">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="45" />
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/Models/WerderdType.swift" timestamp="1520522140230">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -28,19 +34,19 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlY3Rpb25WaWV3LmRlbGVnYXRlID0gc2VsZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlY3Rpb25WaWV3Py5iYWNrZ3JvdW5kQ29sb3IgPSAuYmxhY2sKCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlY3Rpb25WaWV3IS5yZWdpc3RlcihVSUNvbGxlY3Rpb25WaWV3Q2VsbC5zZWxmLCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjogInJldXNlSWRlbnRpZmllciIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlY3Rpb25WaWV3IS5yZWdpc3RlcihVSUNvbGxlY3Rpb25WaWV3Q2VsbC5zZWxmLCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjogInJldXNlSWRlbnRpZmllciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -49,16 +55,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL+OCv+OCsOOCkuaJi+aOm+OBi+OCiuOBq+ODqeODmeODq+OCkueJueWumuOBmeOCiwogICAgICAgIC8vICAgICAgICBsZXQgdGV4dExhYmVsID0gY2VsbC5jb250ZW50Vmlldy52aWV3V2l0aFRhZygxKSBhcyEgVUlMYWJlbAogICAgICAgIC8vICAgICAgICB0ZXh0TGFiZWwudGV4dCA9IG5hbWVzW2luZGV4UGF0aC5yb3ddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1bmMgbnVtYmVyT2ZTZWN0aW9ucygKICAgICAgICBpbiBjb2xsZWN0aW9uVmlldzogVUlDb2xsZWN0aW9uVmlldwogICAgKSAtPiBJbnQgewogICAgICAgIHJldHVybiAxICAgICAvL3JldHVybiBudW1iZXIgb2Ygc2VjdGlvbnMgaW4gY29sbGVjdGlvbiB2aWV3CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>class</text>
       </register>
     </registers>
     <search>
@@ -67,8 +73,9 @@
     </search>
     <history>
       <history-cmd>
-        <entry>call append(line('.'), '')</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w'</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
@@ -81,6 +88,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
