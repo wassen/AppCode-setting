@@ -32,12 +32,11 @@
         <mark key="." line="171" column="16" />
         <mark key="^" line="171" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/NSURLRequest+BNIUrushiHeader.m" timestamp="1520835987231">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/NSURLRequest+BNIUrushiHeader.m" timestamp="1520836879997">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="29" column="53" />
-        <mark key="]" line="29" column="76" />
-        <mark key="^" line="29" column="27" />
-        <mark key="." line="29" column="27" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" timestamp="1520564242007">
         <mark key="'" line="51" column="0" />
@@ -62,11 +61,11 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1520834538855">
         <mark key="'" line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1520834634810">
-        <mark key="[" line="194" column="62" />
-        <mark key="]" line="195" column="49" />
-        <mark key="." line="195" column="49" />
-        <mark key="^" line="195" column="49" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1520837160663">
+        <mark key="[" line="178" column="34" />
+        <mark key="]" line="178" column="34" />
+        <mark key="." line="178" column="34" />
+        <mark key="^" line="178" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIWebPageViewController.m" timestamp="1520561518944">
         <mark key="[" line="50" column="8" />
@@ -225,40 +224,40 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;true&quot;</text>
+        <text>[NSURLRequest requestWithURL:_viewModel.url]</text>
       </register>
       <register name="/" type="4">
         <text>decide</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;NRMA__isWebViewRequest&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFtzZWxmLndlYlZpZXcgbG9hZFJlcXVlc3Q6W05TVVJMUmVxdWVzdCByZXF1ZXN0V2l0aFVSTDpfdmlld01vZGVsLnVybF1dOwogICAgX3ZpZXdNb2RlbC5sYXN0UmVxdWVzdFVybCA9IF92aWV3TW9kZWwudXJsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBfdmlld01vZGVsLmxhc3RSZXF1ZXN0VXJsID0gX3ZpZXdNb2RlbC51cmw7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE5TU3RyaW5nICphID0gd2ViVmlldy50aXRsZTsK</text>
+        <text encoding="base64">ICAgICAgICByLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLndlYlZpZXcgYnJpbmdTdWJ2aWV3VG9Gcm9udDpdOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghc2VsZi5uYXZpZ2F0aW9uSXRlbS50aXRsZVZpZXcgJiYgIXNlbGYudmlld01vZGVsLnRpdGxlKSB7CiAgICAgICAgW3NlbGYgY29uZmlndXJlVGl0bGVWaWV3V2l0aFRpdGxlOlt3ZWJWaWV3IHRpdGxlXV07Cg==</text>
+        <text encoding="base64">ICAgIFtuZXdSZXF1ZXN0IGFkZFZhbHVlOkAidHJ1ZSIgZm9ySFRUUEhlYWRlckZpZWxkOkAiTlJNQV9faXNXZWJWaWV3UmVxdWVzdCJdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDpnZ7lkIzmnJ/jgavlrp/ooYzjgZnjgovjgojjgYbjgavlpInmm7QK</text>
+        <text encoding="base64">ICAgICAgICBkZWNpc2lvbkhhbmRsZXIoKQogICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF93ZWJWaWV3SGVpZ2h0Q29uc3RyYWludC5jb25zdGFudCA9IE1BWCh3ZWJWaWV3UmVxdWlyZWRIZWlnaHQsICApOwogICAgW19zY3JvbGxWaWV3IGxheW91dElmTmVlZGVkXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IGZ1Z2EgID0gW193ZWJWaWV3Q29udHJvbGxlci53ZWJWaWV3IGNsaWVudEhlaWdodF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -318,8 +317,8 @@
         <entry>set nopaste</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>w;w</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
