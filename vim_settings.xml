@@ -32,10 +32,12 @@
         <mark key="." line="171" column="16" />
         <mark key="^" line="171" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/NSURLRequest+BNIUrushiHeader.m" timestamp="1520389456576">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/NSURLRequest+BNIUrushiHeader.m" timestamp="1520835987231">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="45" />
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="29" column="76" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" timestamp="1520564242007">
         <mark key="'" line="51" column="0" />
@@ -223,40 +225,40 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.webView</text>
+        <text>&quot;true&quot;</text>
       </register>
       <register name="/" type="4">
         <text>decide</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjbGllbnRIZWlnaHQgPSBbcmVzdWx0IGZsb2F0VmFsdWVdOwo=</text>
+      <register name="0" type="4">
+        <text>&quot;NRMA__isWebViewRequest&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE5TU3RyaW5nICphID0gd2ViVmlldy50aXRsZTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLndlYlZpZXcgYnJpbmdTdWJ2aWV3VG9Gcm9udDpdOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghc2VsZi5uYXZpZ2F0aW9uSXRlbS50aXRsZVZpZXcgJiYgIXNlbGYudmlld01vZGVsLnRpdGxlKSB7CiAgICAgICAgW3NlbGYgY29uZmlndXJlVGl0bGVWaWV3V2l0aFRpdGxlOlt3ZWJWaWV3IHRpdGxlXV07Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDpnZ7lkIzmnJ/jgavlrp/ooYzjgZnjgovjgojjgYbjgavlpInmm7QK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIF93ZWJWaWV3SGVpZ2h0Q29uc3RyYWludC5jb25zdGFudCA9IE1BWCh3ZWJWaWV3UmVxdWlyZWRIZWlnaHQsICApOwogICAgW19zY3JvbGxWaWV3IGxheW91dElmTmVlZGVkXTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IGZ1Z2EgID0gW193ZWJWaWV3Q29udHJvbGxlci53ZWJWaWV3IGNsaWVudEhlaWdodF07Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIE5TU3RyaW5nICphID0gd2ViVmlldy50aXRsZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFtzZWxmLndlYlZpZXcgYnJpbmdTdWJ2aWV3VG9Gcm9udDpdOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICghc2VsZi5uYXZpZ2F0aW9uSXRlbS50aXRsZVZpZXcgJiYgIXNlbGYudmlld01vZGVsLnRpdGxlKSB7CiAgICAgICAgW3NlbGYgY29uZmlndXJlVGl0bGVWaWV3V2l0aFRpdGxlOlt3ZWJWaWV3IHRpdGxlXV07Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDpnZ7lkIzmnJ/jgavlrp/ooYzjgZnjgovjgojjgYbjgavlpInmm7QK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIF93ZWJWaWV3SGVpZ2h0Q29uc3RyYWludC5jb25zdGFudCA9IE1BWCh3ZWJWaWV3UmVxdWlyZWRIZWlnaHQsICApOwogICAgW19zY3JvbGxWaWV3IGxheW91dElmTmVlZGVkXTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENHU2l6ZSBob2dlID0gX3dlYlZpZXdDb250cm9sbGVyLndlYlZpZXcuc2Nyb2xsVmlldy5jb250ZW50U2l6ZTsK</text>
+        <text encoding="base64">ICAgIGZsb2F0IGZ1Z2EgID0gW193ZWJWaWV3Q29udHJvbGxlci53ZWJWaWV3IGNsaWVudEhlaWdodF07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
