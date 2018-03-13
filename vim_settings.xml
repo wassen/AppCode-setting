@@ -72,7 +72,7 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1520838265867">
         <mark key="'" line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1520921711537">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1520930502252">
         <mark key="[" line="182" column="2" />
         <mark key="]" line="182" column="32" />
         <mark key="." line="228" column="4" />
@@ -281,14 +281,10 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Timer</entry>
-        <entry>toggle</entry>
-        <entry>tmer</entry>
-        <entry>timer</entry>
         <entry>pullto</entry>
         <entry>uiweb</entry>
         <entry>wassen</entry>
