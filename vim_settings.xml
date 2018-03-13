@@ -72,6 +72,12 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1520838265867">
         <mark key="'" line="175" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1520920683895">
+        <mark key="[" line="227" column="15" />
+        <mark key="]" line="228" column="4" />
+        <mark key="." line="228" column="4" />
+        <mark key="^" line="228" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIWebPageViewController.m" timestamp="1520561518944">
         <mark key="[" line="50" column="8" />
         <mark key="]" line="50" column="8" />
@@ -234,8 +240,8 @@
       <register name="/" type="4">
         <text>decide</text>
       </register>
-      <register name="0" type="4">
-        <text>decidePolicyForNavigationResponse</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g44Oq44Oz44Kv44Kv44Oq44OD44Kv44KS5qSc5Ye644GX44Gf44KJ5paw44GX44GEVmlld0NvbnRyb2xsZXLjgafplovjgY8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG5hdmlnYXRpb25BY3Rpb24ubmF2aWdhdGlvblR5cGUgPT0gV0tOYXZpZ2F0aW9uVHlwZUxpbmtBY3RpdmF0ZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVJVmlld0NvbnRyb2xsZXIgKnZpZXdDb250cm9sbGVyID0gW19yb3V0ZXIgdmlld0NvbnRyb2xsZXJXaXRoVXJsOnRhcHBlZExpbmtdOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZpZXdDb250cm9sbGVyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVUlOYXZpZ2F0aW9uQ29udHJvbGxlciAqbmF2aWdhdGlvbkNvbnRyb2xsZXIgPSBzZWxmLm5hdmlnYXRpb25Db250cm9sbGVyOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtuYXZpZ2F0aW9uQ29udHJvbGxlciBwdXNoVmlld0NvbnRyb2xsZXI6dmlld0NvbnRyb2xsZXIgYW5pbWF0ZWQ6WUVTXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g6YG356e744GM55m655Sf44GX44Gq44GE44K/44Kk44OX44Gu44OK44OT44Ky44O844K344On44Oz44Gq44KJd2ViVmlld+WGheOBp+mBt+enuwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoW3NlbGYgaXNJbm5lck5hdmlnYXRpb25UeXBlOm5hdmlnYXRpb25BY3Rpb24ubmF2aWdhdGlvblR5cGVdKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbkhhbmRsZXIoV0tOYXZpZ2F0aW9uQWN0aW9uUG9saWN5QWxsb3cpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbkhhbmRsZXIoV0tOYXZpZ2F0aW9uQWN0aW9uUG9saWN5Q2FuY2VsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
