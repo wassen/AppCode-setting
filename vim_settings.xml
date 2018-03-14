@@ -35,11 +35,12 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" timestamp="1520995829388">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" timestamp="1521006500142">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" timestamp="1520498244799">
         <mark key="a" line="147" column="44" />
@@ -148,17 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="59" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="143" column="30" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="185" column="33" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="176" column="46" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="59" column="14" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="65" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="157" column="7" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="162" column="7" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
       <jump line="172" column="6" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
       <jump line="180" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
       <jump line="181" column="9" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
@@ -248,46 +238,59 @@
       <jump line="77" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>WKWebView</text>
+        <text>initialize</text>
       </register>
       <register name="/" type="4">
         <text>decide</text>
       </register>
       <register name="0" type="4">
-        <text>decidePolicyForNavigationAction</text>
+        <text>loadWebView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtbV0tXZWJWaWV3IGFwcGVhcmFuY2VXaGVuQ29udGFpbmVkSW46W0JOSU5hdmlnYXRpb25Db250cm9sbGVyIGNsYXNzXSwgbmlsXSBzZXRCYWNrZ3JvdW5kQ29sb3I6W0JOSUNvbG9yIGNvbW1vbkJhY2tncm91bmRDb2xvcl1dOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtbV0tXZWJWaWV3IGFwcGVhcmFuY2VXaGVuQ29udGFpbmVkSW46W0JOSU5hdmlnYXRpb25Db250cm9sbGVyIGNsYXNzXSwgbmlsXSBzZXRCYWNrZ3JvdW5kQ29sb3I6W0JOSUNvbG9yIGNvbW1vbkJhY2tncm91bmRDb2xvcl1dOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndlYlZpZXcgPSBXS1dlYlZpZXcoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE5TU3RyaW5nICphID0gbmF2aWdhdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hdmlnYXRpb24uampkCg==</text>
+      <register name="5" type="4">
+        <text>() {
+        super.initialize()
+    }</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8tIChOU1N0cmluZyAqKXRpdGxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8tIChOU1N0cmluZyAqKXRpdGxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vLSAoTlNTdHJpbmcgKil0aXRsZSB7Ci8vICAgIF9fYmxvY2sgTlNTdHJpbmcgKnRpdGxlOwovLyAgICBkaXNwYXRjaF9zZW1hcGhvcmVfdCBzZW1hcGhvcmUgPSBkaXNwYXRjaF9zZW1hcGhvcmVfY3JlYXRlKDApOwovLyAgICBbc2VsZiBldmFsdWF0ZUphdmFTY3JpcHQ6QCJkb2N1bWVudC5ib2R5LmNsaWVudEhlaWdodDsiIGNvbXBsZXRpb25IYW5kbGVyOl4oTlNTdHJpbmcgKnJlc3VsdCwgTlNFcnJvciogZXJyb3IpewovLyAgICAgICAgdGl0bGUgPSByZXN1bHQ7Ci8vICAgICAgICBkaXNwYXRjaF9zZW1hcGhvcmVfc2lnbmFsKHNlbWFwaG9yZSk7Ci8vICAgIH1dOwovLyAgICBkaXNwYXRjaF9zZW1hcGhvcmVfd2FpdChzZW1hcGhvcmUsIERJU1BBVENIX1RJTUVfRk9SRVZFUik7Ci8vICAgIHJldHVybiB0aXRsZTsKLy99Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -345,6 +348,7 @@
         <entry>wq</entry>
         <entry>w;w</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>bn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
