@@ -88,8 +88,11 @@
       <file name="/Dummy.txt" timestamp="1521008601972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1520838265867">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1521010278506">
         <mark key="'" line="174" column="0" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1520995115444">
         <mark key="[" line="273" column="4" />
@@ -126,7 +129,8 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/List/ColumnListViewController.swift" timestamp="1520233686145">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" timestamp="1521008643655">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" timestamp="1521009745044">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="31" column="36" />
         <mark key="]" line="31" column="38" />
         <mark key="." line="31" column="38" />
@@ -155,19 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="6" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="180" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="181" column="9" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="188" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="195" column="18" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="200" column="5" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="201" column="5" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="205" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="212" column="5" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="150" column="25" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="62" column="18" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="138" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
-      <jump line="144" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
       <jump line="146" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
       <jump line="152" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
       <jump line="154" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" />
@@ -255,42 +246,55 @@
       <jump line="11" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Maintenance/BNIMaintenanceViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>init</text>
+        <text>clientHeight</text>
       </register>
       <register name="/" type="4">
         <text>decide</text>
       </register>
       <register name="0" type="4">
-        <text>addConstraintToWebView</text>
+        <text>[result floatValue]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZFN1YnZpZXcoc2VsZi53ZWJWaWV3KQo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBjbGllbnRIZWlnaHQgPSA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZFN1YnZpZXcoc2VsZi53ZWJWaWV3KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndlYlZpZXcgPSBXS1dlYlZpZXcoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLndlYlZpZXcgPSBXS1dlYlZpZXcoKQo=</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>() {
         super.initialize()
     }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
