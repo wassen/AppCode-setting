@@ -50,6 +50,10 @@
         <mark key="." line="171" column="16" />
         <mark key="^" line="171" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" timestamp="1521013293780">
+        <mark key="'" line="56" column="33" />
+        <mark key="." line="147" column="107" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/NSURLRequest+BNIUrushiHeader.m" timestamp="1520836879997">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="28" column="0" />
@@ -160,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/List/ColumnListViewController.swift" />
       <jump line="84" column="44" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="110" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
@@ -260,6 +263,7 @@
       <jump line="68" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="234" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
+      <jump line="56" column="33" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -314,7 +318,7 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
