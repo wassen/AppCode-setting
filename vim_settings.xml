@@ -3,11 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/Constants/Colors.swift" timestamp="1521048179102">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" timestamp="1521044230043">
         <mark key="[" line="83" column="45" />
         <mark key="]" line="83" column="50" />
         <mark key="^" line="83" column="50" />
         <mark key="." line="83" column="50" />
+      </file>
+      <file name="/a.dummy" timestamp="1521045115468">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/UIKit.UIColor.swift" timestamp="1521046209987">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1520351664664">
         <mark key="[" line="20" column="32" />
@@ -34,49 +47,43 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBXZXJkZXJkVHlwZU1vZGVsLmRlZmF1bHQudHlwZXMgPSBbIndhc3NlbiJdCg==</text>
+      <register name="0" type="4">
+        <text>CGFloat</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBXZXJkZXJkVHlwZU1vZGVsLmRlZmF1bHQudHlwZXMgPSBbIndhc3NlbiJdCg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndlcmRlcmRUeXBlcy5hcHBlbmQoIm5leHQiKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgVUludDgoaGV4OiApCg==</text>
+      </register>
+      <register name="4" type="8">
+        <text>l
+l
+l</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBsZXRyIGBkZWZhdWx0YCA9IFdlcmRlcmRUeXBlTW9kZWwoKQogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIGhleFswLi4uMV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0VGl0bGUoIlRhcCBNZSEiLCBmb3JTdGF0ZTogLk5vcm1hbCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        didSet {
-            NotificationCenter.default.post(
-                name: Notification.Name(&quot;WerderdTypeModel_types&quot;),
-                object: self.werderdTypes
-            )
-            print(&quot;hogee&quot;)
-        }
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gWyJ3YXNzZW4iXQ==</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
@@ -88,9 +95,9 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w'</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>q</entry>
         <entry>';w</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -111,6 +118,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
