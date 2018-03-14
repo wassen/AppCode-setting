@@ -35,12 +35,12 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" timestamp="1521006500142">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" timestamp="1521007360022">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="39" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" timestamp="1520498244799">
         <mark key="a" line="147" column="44" />
@@ -255,33 +255,33 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>initialize</text>
+        <text>addWebView</text>
       </register>
       <register name="/" type="4">
         <text>decide</text>
       </register>
       <register name="0" type="4">
-        <text>loadWebView</text>
+        <text>addConstraintToWebView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZFN1YnZpZXcoc2VsZi53ZWJWaWV3KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndlYlZpZXcgPSBXS1dlYlZpZXcoKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLndlYlZpZXcgPSBXS1dlYlZpZXcoKQo=</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>() {
         super.initialize()
     }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
