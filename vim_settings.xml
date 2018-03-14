@@ -99,12 +99,12 @@
         <mark key="." line="217" column="135" />
         <mark key="^" line="217" column="135" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521014484527">
-        <mark key="'" line="307" column="0" />
-        <mark key="[" line="273" column="4" />
-        <mark key="]" line="273" column="30" />
-        <mark key="." line="273" column="30" />
-        <mark key="^" line="273" column="30" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521015919014">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="85" column="3" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIWebPageViewController.m" timestamp="1520561518944">
         <mark key="[" line="50" column="8" />
@@ -165,10 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="21" column="15" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIHoshitoriHyoViewController.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIHoshitoriHyoViewController.m" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIHoshitoriHyoViewController.m" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIHoshitoriHyoViewController.m" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIHoshitoriHyoViewController.m" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIHoshitoriHyoViewController.m" />
@@ -265,45 +261,52 @@
       <jump line="297" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="303" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="307" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="81" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="75" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="80" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>clientHeight</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>decide</text>
       </register>
       <register name="0" type="4">
-        <text>[result floatValue]</text>
+        <text>self</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8vLyAgICAgICAgW19zY3JvbGxWaWV3IGxheW91dElmTmVlZGVkXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBjbGllbnRIZWlnaHQgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZFN1YnZpZXcoc2VsZi53ZWJWaWV3KQo=</text>
+      <register name="3" type="8">
+        <text>_
+_
+_
+_</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="8">
+        <text>_
+_
+_</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndlYlZpZXcgPSBXS1dlYlZpZXcoKQo=</text>
+        <text encoding="base64">ICAgIF93ZWJWaWV3ID0gd2ViVmlldzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFtzZWxmLnZpZXcgYWRkU3Vidmlldzp3ZWJWaWV3XTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>() {
-        super.initialize()
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEJOSVdlYlZpZXcgKndlYlZpZXcgPSA7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -363,8 +366,8 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w;w</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>bn</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
