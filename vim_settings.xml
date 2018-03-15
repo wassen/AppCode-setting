@@ -142,6 +142,10 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" timestamp="1521098504608">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="46" />
+      </file>
       <file name="/WebKit.WKWebView.swift" timestamp="1520995071392" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/dwangoplayer/worktree/workspace/PlayerTests/data/billListSingleMusicAndPackageMusic.json" timestamp="1518783608464">
         <mark key="'" line="146" column="36" />
@@ -277,7 +281,7 @@
         <text>decide</text>
       </register>
       <register name="0" type="4">
-        <text>WKNavigationTypeLinkActivated</text>
+        <text>-webView:shouldStartLoadWithRequest:</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGltcG9ydCBXZWJLaXQuV0tOYXZpZ2F0aW9uVHlwZTsK</text>
