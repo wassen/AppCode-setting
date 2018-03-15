@@ -99,10 +99,10 @@
         <mark key="." line="217" column="135" />
         <mark key="^" line="217" column="135" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521083146926">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521093467661">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="172" column="97" />
-        <mark key="]" line="175" column="12" />
+        <mark key="[" line="160" column="108" />
+        <mark key="]" line="160" column="122" />
         <mark key="." line="175" column="12" />
         <mark key="^" line="175" column="12" />
       </file>
@@ -122,9 +122,9 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationAction.h" timestamp="1519804601339">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="54" column="30" />
+      <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationAction.h" timestamp="1521095012538">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Base/ColumnTableViewSection.swift" timestamp="1520235311943">
         <mark key="[" line="23" column="15" />
@@ -141,6 +141,12 @@
         <mark key="]" line="31" column="38" />
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" timestamp="1521095016287">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="75" />
+        <mark key="^" line="27" column="61" />
+        <mark key="." line="27" column="46" />
       </file>
       <file name="/WebKit.WKWebView.swift" timestamp="1520995071392" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/dwangoplayer/worktree/workspace/PlayerTests/data/billListSingleMusicAndPackageMusic.json" timestamp="1518783608464">
@@ -271,40 +277,40 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>completion</text>
+        <text>WKNavigationType</text>
       </register>
       <register name="/" type="4">
         <text>decide</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZiBwX2hvZ2U6bmF2aWdhdGlvbkFjdGlvbl07Cg==</text>
+      <register name="0" type="4">
+        <text>WKNavigationTypeLinkActivated</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g44Oq44Oz44Kv44Kv44Oq44OD44Kv44KS5qSc5Ye644GX44Gf44KJ5paw44GX44GEVmlld0NvbnRyb2xsZXLjgafplovjgY8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG5hdmlnYXRpb25BY3Rpb24ubmF2aWdhdGlvblR5cGUgPT0gV0tOYXZpZ2F0aW9uVHlwZUxpbmtBY3RpdmF0ZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVJVmlld0NvbnRyb2xsZXIgKnZpZXdDb250cm9sbGVyID0gW19yb3V0ZXIgdmlld0NvbnRyb2xsZXJXaXRoVXJsOnRhcHBlZExpbmtdOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZpZXdDb250cm9sbGVyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVUlOYXZpZ2F0aW9uQ29udHJvbGxlciAqbmF2aWdhdGlvbkNvbnRyb2xsZXIgPSBzZWxmLm5hdmlnYXRpb25Db250cm9sbGVyOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtuYXZpZ2F0aW9uQ29udHJvbGxlciBwdXNoVmlld0NvbnRyb2xsZXI6dmlld0NvbnRyb2xsZXIgYW5pbWF0ZWQ6WUVTXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g6YG356e744GM55m655Sf44GX44Gq44GE44K/44Kk44OX44Gu44OK44OT44Ky44O844K344On44Oz44Gq44KJd2ViVmlld+WGheOBp+mBt+enuwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoW3NlbGYgaXNJbm5lck5hdmlnYXRpb25UeXBlOm5hdmlnYXRpb25BY3Rpb24ubmF2aWdhdGlvblR5cGVdKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbkhhbmRsZXIoV0tOYXZpZ2F0aW9uQWN0aW9uUG9saWN5QWxsb3cpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbkhhbmRsZXIoV0tOYXZpZ2F0aW9uQWN0aW9uUG9saWN5Q2FuY2VsKTsK</text>
+        <text encoding="base64">QGltcG9ydCBXZWJLaXQuV0tOYXZpZ2F0aW9uVHlwZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIOODquODs+OCr+OCr+ODquODg+OCr+OCkuaknOWHuuOBl+OBn+OCieaWsOOBl+OBhFZpZXdDb250cm9sbGVy44Gn6ZaL44GPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEKICAgICAgICAgICAgICAgICAgICAgICAgX3Jlc3VsdCA9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgZGQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Jlc3VsdCA9IFtfd2ViVmlld0NvbnRyb2xsZXIgd2ViVmlldzpfd2ViVmlld0NvbnRyb2xsZXIud2ViVmlldyBkZWNpZGVQb2xpY3lGb3JOYXZpZ2F0aW9uQWN0aW9uOiBkZWNpc2lvbkhhbmRsZXI6XigpIHsKICAgICAgICAgICAgfV07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g44Oq44Oz44Kv44Kv44Oq44OD44Kv44KS5qSc5Ye644GX44Gf44KJ5paw44GX44GEVmlld0NvbnRyb2xsZXLjgafplovjgY8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG5hdmlnYXRpb25BY3Rpb24ubmF2aWdhdGlvblR5cGUgPT0gV0tOYXZpZ2F0aW9uVHlwZUxpbmtBY3RpdmF0ZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVJVmlld0NvbnRyb2xsZXIgKnZpZXdDb250cm9sbGVyID0gW19yb3V0ZXIgdmlld0NvbnRyb2xsZXJXaXRoVXJsOnRhcHBlZExpbmtdOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZpZXdDb250cm9sbGVyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVUlOYXZpZ2F0aW9uQ29udHJvbGxlciAqbmF2aWdhdGlvbkNvbnRyb2xsZXIgPSBzZWxmLm5hdmlnYXRpb25Db250cm9sbGVyOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtuYXZpZ2F0aW9uQ29udHJvbGxlciBwdXNoVmlld0NvbnRyb2xsZXI6dmlld0NvbnRyb2xsZXIgYW5pbWF0ZWQ6WUVTXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g6YG356e744GM55m655Sf44GX44Gq44GE44K/44Kk44OX44Gu44OK44OT44Ky44O844K344On44Oz44Gq44KJd2ViVmlld+WGheOBp+mBt+enuwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoW3NlbGYgaXNJbm5lck5hdmlnYXRpb25UeXBlOm5hdmlnYXRpb25BY3Rpb24ubmF2aWdhdGlvblR5cGVdKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbkhhbmRsZXIoV0tOYXZpZ2F0aW9uQWN0aW9uUG9saWN5QWxsb3cpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbkhhbmRsZXIoV0tOYXZpZ2F0aW9uQWN0aW9uUG9saWN5Q2FuY2VsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8g44Kz44Oh44Oz44OI44Gr44CBZGlkQ29tbWl044Gn44Gq44GE44Go6KGM44GR44Gq44GE55CG55Sx44KS5pu444GN44Gf44GL44Gj44GfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gVE9ETzog44KC44GG44Gh44KH44Gj44Go6ICD44GI44KLCg==</text>
+        <text encoding="base64">ICAgIC8vIOODquODs+OCr+OCr+ODquODg+OCr+OCkuaknOWHuuOBl+OBn+OCieaWsOOBl+OBhFZpZXdDb250cm9sbGVy44Gn6ZaL44GPCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -317,7 +323,7 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -356,13 +362,15 @@
         <entry>x</entry>
         <entry>d</entry>
         <entry>e</entry>
-        <entry>nohlsearch</entry>
-        <entry>set nopaste</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w;w</entry>
-        <entry>bn</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>bn</entry>
+        <entry>nohlsearch</entry>
+        <entry>set nopaste</entry>
+        <entry>25</entry>
+        <entry>28</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
