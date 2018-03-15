@@ -104,12 +104,13 @@
         <mark key="." line="217" column="135" />
         <mark key="^" line="217" column="135" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521093467661">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="160" column="108" />
-        <mark key="]" line="160" column="122" />
-        <mark key="." line="175" column="12" />
-        <mark key="^" line="175" column="12" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521107471261">
+        <mark key="'" line="198" column="3" />
+        <mark key="k" line="198" column="3" />
+        <mark key="[" line="197" column="13" />
+        <mark key="]" line="197" column="15" />
+        <mark key="." line="197" column="15" />
+        <mark key="^" line="197" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIWebPageViewController.m" timestamp="1520561518944">
         <mark key="[" line="50" column="8" />
@@ -130,6 +131,12 @@
       <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationAction.h" timestamp="1521095012538">
         <mark key="[" line="49" column="4" />
         <mark key="]" line="49" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1521107362128">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Base/ColumnTableViewSection.swift" timestamp="1520235311943">
         <mark key="[" line="23" column="15" />
@@ -174,19 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="14" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="107" column="37" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="235" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
-      <jump line="233" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
-      <jump line="228" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
-      <jump line="215" column="134" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="147" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
       <jump line="285" column="95" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
@@ -274,46 +268,59 @@
       <jump line="327" column="23" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/CommonFramework/Module/Environment/BNIEnvironment.m" />
       <jump line="292" column="23" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/CommonFramework/Module/Environment/BNIEnvironment.m" />
       <jump line="311" column="23" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/CommonFramework/Module/Environment/BNIEnvironment.m" />
+      <jump line="316" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="196" column="30" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="176" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="315" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="212" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="317" column="30" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="206" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="203" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="197" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="199" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="201" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="44" column="21" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="193" column="3" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>WKNavigationType</text>
+        <text>仕</text>
       </register>
       <register name="/" type="4">
         <text>kUrushiBaseUrl</text>
       </register>
       <register name="0" type="4">
-        <text>kUrushiBaseUrl</text>
+        <text>policyForNavigationJustCancel;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCBXZWJLaXQuV0tOYXZpZ2F0aW9uVHlwZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYgcF9wdXNoVG9OYXZpZ2F0aW9uQ29udHJvbGxlcjpuYXZpZ2F0aW9uQWN0aW9uLnJlcXVlc3QuVVJMXTsKICAgICAgICAgICAgZGVjaXNpb25IYW5kbGVyKFdLTmF2aWdhdGlvbkFjdGlvblBvbGljeUNhbmNlbCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYgcF9wdXNoVG9OYXZpZ2F0aW9uQ29udHJvbGxlcjpuYXZpZ2F0aW9uQWN0aW9uLnJlcXVlc3QuVVJMXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVUlWaWV3Q29udHJvbGxlciAqdmlld0NvbnRyb2xsZXIgPSBbX3JvdXRlciB2aWV3Q29udHJvbGxlcldpdGhVcmw6dGFwcGVkTGlua107CiAgICAgICAgICAgIGlmICh2aWV3Q29udHJvbGxlcikgewogICAgICAgICAgICAgICAgVUlOYXZpZ2F0aW9uQ29udHJvbGxlciAqbmF2aWdhdGlvbkNvbnRyb2xsZXIgPSBzZWxmLm5hdmlnYXRpb25Db250cm9sbGVyOwogICAgICAgICAgICAgICAgW25hdmlnYXRpb25Db250cm9sbGVyIHB1c2hWaWV3Q29udHJvbGxlcjp2aWV3Q29udHJvbGxlciBhbmltYXRlZDpZRVNdOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGEKICAgICAgICAgICAgICAgICAgICAgICAgX3Jlc3VsdCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTlNVUkwgKnRhcHBlZExpbmsgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Jlc3VsdCA9IFtfd2ViVmlld0NvbnRyb2xsZXIgd2ViVmlldzpfd2ViVmlld0NvbnRyb2xsZXIud2ViVmlldyBkZWNpZGVQb2xpY3lGb3JOYXZpZ2F0aW9uQWN0aW9uOiBkZWNpc2lvbkhhbmRsZXI6XigpIHsKICAgICAgICAgICAgfV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYgcF9wdXNoVG9OYXZpZ2F0aW9uQ29udHJvbGxlcjpdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g44Oq44Oz44Kv44Kv44Oq44OD44Kv44KS5qSc5Ye644GX44Gf44KJ5paw44GX44GEVmlld0NvbnRyb2xsZXLjgafplovjgY8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG5hdmlnYXRpb25BY3Rpb24ubmF2aWdhdGlvblR5cGUgPT0gV0tOYXZpZ2F0aW9uVHlwZUxpbmtBY3RpdmF0ZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVJVmlld0NvbnRyb2xsZXIgKnZpZXdDb250cm9sbGVyID0gW19yb3V0ZXIgdmlld0NvbnRyb2xsZXJXaXRoVXJsOnRhcHBlZExpbmtdOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZpZXdDb250cm9sbGVyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVUlOYXZpZ2F0aW9uQ29udHJvbGxlciAqbmF2aWdhdGlvbkNvbnRyb2xsZXIgPSBzZWxmLm5hdmlnYXRpb25Db250cm9sbGVyOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtuYXZpZ2F0aW9uQ29udHJvbGxlciBwdXNoVmlld0NvbnRyb2xsZXI6dmlld0NvbnRyb2xsZXIgYW5pbWF0ZWQ6WUVTXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g6YG356e744GM55m655Sf44GX44Gq44GE44K/44Kk44OX44Gu44OK44OT44Ky44O844K344On44Oz44Gq44KJd2ViVmlld+WGheOBp+mBt+enuwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoW3NlbGYgaXNJbm5lck5hdmlnYXRpb25UeXBlOm5hdmlnYXRpb25BY3Rpb24ubmF2aWdhdGlvblR5cGVdKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbkhhbmRsZXIoV0tOYXZpZ2F0aW9uQWN0aW9uUG9saWN5QWxsb3cpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbkhhbmRsZXIoV0tOYXZpZ2F0aW9uQWN0aW9uUG9saWN5Q2FuY2VsKTsK</text>
+        <text encoding="base64">ICAgIE5TVVJMICp0YXBwZWRMaW5rID0gbmF2aWdhdGlvbkFjdGlvbi5yZXF1ZXN0LlVSTDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVUlWaWV3Q29udHJvbGxlciAqdmlld0NvbnRyb2xsZXIgPSBbX3JvdXRlciB2aWV3Q29udHJvbGxlcldpdGhVcmw6dGFwcGVkTGlua107CiAgICAgICAgICAgIGlmICh2aWV3Q29udHJvbGxlcikgewogICAgICAgICAgICAgICAgVUlOYXZpZ2F0aW9uQ29udHJvbGxlciAqbmF2aWdhdGlvbkNvbnRyb2xsZXIgPSBzZWxmLm5hdmlnYXRpb25Db250cm9sbGVyOwogICAgICAgICAgICAgICAgW25hdmlnYXRpb25Db250cm9sbGVyIHB1c2hWaWV3Q29udHJvbGxlcjp2aWV3Q29udHJvbGxlciBhbmltYXRlZDpZRVNdOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOODquODs+OCr+OCr+ODquODg+OCr+OCkuaknOWHuuOBl+OBn+OCieaWsOOBl+OBhFZpZXdDb250cm9sbGVy44Gn6ZaL44GPCg==</text>
+        <text encoding="base64">Ci0gKHZvaWQpcF9kZWNpZGVQb2xpY3k6KFdLTmF2aWdhdGlvbkFjdGlvbiAqKW5hdmlnYXRpb25BY3Rpb24gZGVjaXNpb25IYW5kbGVyOih2b2lkICheKShXS05hdmlnYXRpb25BY3Rpb25Qb2xpY3kpKWRlY2lzaW9uSGFuZGxlciB7CiAgICBOU1VSTCAqdGFwcGVkTGluayA9IG5hdmlnYXRpb25BY3Rpb24ucmVxdWVzdC5VUkw7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -371,12 +378,12 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w;w</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>bn</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
         <entry>25</entry>
         <entry>28</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
