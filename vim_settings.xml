@@ -3,12 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/TopViewController.swift" timestamp="1521295373674">
-        <mark key="[" line="64" column="34" />
-        <mark key="]" line="64" column="35" />
-        <mark key="." line="64" column="35" />
-        <mark key="^" line="64" column="35" />
-      </file>
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/TopViewController.swift" timestamp="1521295373674" />
       <file name="$USER_HOME$/workspace/Werderd/Werderd/Constants/Colors.swift" timestamp="1521048179102">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="19" column="21" />
@@ -28,11 +23,11 @@
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" timestamp="1521299299468">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="22" column="35" />
-        <mark key="^" line="18" column="37" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" timestamp="1521312495842">
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1520351664664">
         <mark key="[" line="20" column="32" />
@@ -85,7 +80,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>&quot;button&quot;</text>
@@ -102,8 +97,8 @@
         <entry>q</entry>
         <entry>';w</entry>
         <entry>call append(line('.'), '')</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
