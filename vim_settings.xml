@@ -28,11 +28,11 @@
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" timestamp="1521298382934">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="58" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" timestamp="1521299299468">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="18" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1520351664664">
         <mark key="[" line="20" column="32" />
@@ -85,10 +85,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>&quot;button&quot;</text>
       </register>
     </registers>
     <search>
@@ -98,12 +98,12 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>w'</entry>
         <entry>q</entry>
         <entry>';w</entry>
         <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
