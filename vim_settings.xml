@@ -28,11 +28,11 @@
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" timestamp="1521294279479">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" timestamp="1521298382934">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1520351664664">
         <mark key="[" line="20" column="32" />
@@ -58,25 +58,25 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm1vZGFsUHJlc2VudGF0aW9uU3R5bGUgPSAuY3VycmVudENvbnRleHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZpZXcuYWRkU3Vidmlldyhva0J1dHRvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9rQnV0dG9uLnRvcEFuY2hvci5jb25zdHJhaW50RXF1YWxUb1N5c3RlbVNwYWNpbmdCZWxvdyhzZWxmLnZpZXcudG9wQW5jaG9yLCBtdWx0aXBsaWVyOiAwLjUpCiAgICAgICAgc2VsZi5va0J1dHRvbi5yaWdodEFuY2hvci5jb25zdHJhaW50RXF1YWxUb1N5c3RlbVNwYWNpbmdBZnRlcihzZWxmLnZpZXcucmlnaHRBbmNob3IsIG11bHRpcGxpZXI6IDAuNSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -88,7 +88,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>PresentationStyle</text>
+        <text>self</text>
       </register>
     </registers>
     <search>
