@@ -9,10 +9,11 @@
         <mark key="." line="62" column="16" />
         <mark key="^" line="62" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/Constants/Colors.swift" timestamp="1521375106140">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="19" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/Constants/Colors.swift" timestamp="1521376987434">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" timestamp="1521128086597">
         <mark key="[" line="14" column="35" />
@@ -27,11 +28,12 @@
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1521375243081">
-        <mark key="[" line="20" column="69" />
-        <mark key="]" line="20" column="69" />
-        <mark key="." line="20" column="69" />
-        <mark key="^" line="20" column="69" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" timestamp="1521378317111" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1521376295426">
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="20" column="66" />
+        <mark key="." line="20" column="66" />
+        <mark key="^" line="20" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/Models/WerderdType.swift" timestamp="1521127751210" />
       <file name="/UIKit.UIBarButtonItem.swift" timestamp="1521041934689">
@@ -81,7 +83,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>cyan</text>
       </register>
     </registers>
     <search>
