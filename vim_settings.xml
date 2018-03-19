@@ -28,6 +28,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNITanimachiViewController.m" timestamp="1521432716402">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="68" column="22" />
+        <mark key="]" line="68" column="28" />
+        <mark key="^" line="68" column="28" />
+        <mark key="." line="68" column="28" />
+      </file>
       <file name="/fragment.m" timestamp="1516347650225">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,14 +48,6 @@
         <mark key="]" line="37" column="39" />
         <mark key="." line="37" column="17" />
         <mark key="^" line="21" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/BashoTop/BNIBashoTopViewController.m" timestamp="1520498244799">
-        <mark key="a" line="147" column="44" />
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="148" column="36" />
-        <mark key="]" line="171" column="16" />
-        <mark key="." line="171" column="16" />
-        <mark key="^" line="171" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" timestamp="1521013293780">
         <mark key="'" line="56" column="33" />
@@ -104,6 +103,12 @@
         <mark key="." line="217" column="135" />
         <mark key="^" line="217" column="135" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521432283369">
+        <mark key="[" line="158" column="3" />
+        <mark key="]" line="158" column="2" />
+        <mark key="^" line="158" column="2" />
+        <mark key="." line="158" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIWebPageViewController.m" timestamp="1520561518944">
         <mark key="[" line="50" column="8" />
         <mark key="]" line="50" column="8" />
@@ -124,11 +129,11 @@
         <mark key="[" line="49" column="4" />
         <mark key="]" line="49" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1521107362128">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1521432375097">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Base/ColumnTableViewSection.swift" timestamp="1520235311943">
         <mark key="[" line="23" column="15" />
@@ -173,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIView+LoadingAnimation.m" />
       <jump line="285" column="95" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="184" column="28" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
@@ -273,19 +277,20 @@
       <jump line="201" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="44" column="21" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="193" column="3" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="178" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNITanimachiViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>shouldStartLoadWithRequest</text>
+        <text>Cancel</text>
       </register>
       <register name="/" type="4">
-        <text>kUrushiBaseUrl</text>
+        <text>policy</text>
       </register>
       <register name="0" type="4">
-        <text>decidePolicyForNavigationAction</text>
+        <text>NavigationDesictionTypeJustCancel</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW3NlbGYgcF9wdXNoVG9OYXZpZ2F0aW9uQ29udHJvbGxlcjpuYXZpZ2F0aW9uQWN0aW9uLnJlcXVlc3QuVVJMXTsKICAgICAgICAgICAgZGVjaXNpb25IYW5kbGVyKFdLTmF2aWdhdGlvbkFjdGlvblBvbGljeUNhbmNlbCk7Cg==</text>
@@ -319,13 +324,13 @@
       </register>
     </registers>
     <search>
-      <last-search>kUrushiBaseUrl</last-search>
+      <last-search>policy</last-search>
       <last-offset />
-      <last-pattern>kUrushiBaseUrl</last-pattern>
+      <last-pattern>policy</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -336,7 +341,6 @@
         <entry>webViewHeight</entry>
         <entry>constraint</entry>
         <entry>decision</entry>
-        <entry>policy</entry>
         <entry>request</entry>
         <entry>delegate</entry>
         <entry>self.</entry>
@@ -349,6 +353,7 @@
         <entry>dev</entry>
         <entry>dev-</entry>
         <entry>kUrushiBaseUrl</entry>
+        <entry>policy</entry>
       </history-search>
       <history-cmd>
         <entry>d2</entry>
