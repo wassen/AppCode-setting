@@ -3,10 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/UIWebView+BNIWebInfo.m" timestamp="1519810478766">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/Service/BNITanimachiStatusManagerSpec.m" timestamp="1521453275603">
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="94" />
       </file>
       <file name="/a.dummy" timestamp="1510810738506">
         <mark key="[" line="0" column="0" />
@@ -25,11 +24,6 @@
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/dwangoplayer/Player/Services/Player/DPAudioPlayer.m" timestamp="1513851423408">
         <mark key="[" line="154" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/WKWebView+BNIWebInfo.h" timestamp="1520843527763">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNITanimachiViewController.m" timestamp="1521438386529">
         <mark key="'" line="190" column="0" />
@@ -80,18 +74,14 @@
       <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationDelegate.h" timestamp="1521438244998">
         <mark key="'" line="73" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Common/BNIFont.m" timestamp="1520241502266">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Purchase/BNITanimachiStatusRepository.m" timestamp="1521453247524" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1520995050045">
         <mark key="[" line="128" column="43" />
         <mark key="]" line="128" column="41" />
         <mark key="^" line="128" column="41" />
         <mark key="." line="128" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521449134531">
+      <file name="/Dummy.txt" timestamp="1521453118254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1521012564986">
@@ -107,20 +97,10 @@
         <mark key="." line="191" column="91" />
         <mark key="^" line="191" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIWebPageViewController.m" timestamp="1520561518944">
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="8" />
-        <mark key="." line="50" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Util/Http/BNIJsonHttpRequest.m" timestamp="1521449378558">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1519633320381">
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
       </file>
       <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationAction.h" timestamp="1521095012538">
         <mark key="[" line="49" column="4" />
@@ -267,7 +247,7 @@
         <text>mock</text>
       </register>
       <register name="0" type="4">
-        <text>cancel navigation</text>
+        <text>updateTanimachiStatusWithReceipt:untanimachizable:error:</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIFVJ44Gr6Zai44KP44KL44KC44Gu44KS6YCa5L+h44KS6KGM44GG44Kv44Op44K544Gn44KE44Gj44Gm44GE44KL44Gf44KB44CB44OG44K544OI44Gn6JC944Gh44KLCg==</text>
