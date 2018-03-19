@@ -101,10 +101,10 @@
         <mark key="." line="217" column="135" />
         <mark key="^" line="217" column="135" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521442455671">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="110" />
-        <mark key="." line="191" column="23" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
+        <mark key="[" line="191" column="91" />
+        <mark key="]" line="191" column="91" />
+        <mark key="." line="191" column="91" />
         <mark key="^" line="191" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIWebPageViewController.m" timestamp="1520561518944">
@@ -121,10 +121,10 @@
         <mark key="[" line="49" column="4" />
         <mark key="]" line="49" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1521442498075">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1521444841926">
+        <mark key="[" line="58" column="91" />
+        <mark key="]" line="58" column="91" />
+        <mark key="." line="58" column="91" />
         <mark key="^" line="12" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Base/ColumnTableViewSection.swift" timestamp="1520235311943">
@@ -140,11 +140,11 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" timestamp="1521444146935">
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="30" />
-        <mark key="^" line="24" column="29" />
-        <mark key="." line="33" column="13" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" timestamp="1521445109111">
+        <mark key="[" line="30" column="75" />
+        <mark key="]" line="30" column="101" />
+        <mark key="." line="30" column="101" />
+        <mark key="^" line="30" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIBashoWebPageViewController.m" timestamp="1520332874991">
         <mark key="[" line="13" column="16" />
@@ -262,7 +262,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>returns NO</text>
+        <text>JustCancel</text>
       </register>
       <register name="/" type="4">
         <text>policy</text>
