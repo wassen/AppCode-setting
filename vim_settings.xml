@@ -104,11 +104,11 @@
         <mark key="." line="217" column="135" />
         <mark key="^" line="217" column="135" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521107471261">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521427483144">
         <mark key="'" line="198" column="3" />
         <mark key="k" line="198" column="3" />
-        <mark key="[" line="197" column="13" />
-        <mark key="]" line="197" column="15" />
+        <mark key="[" line="198" column="57" />
+        <mark key="]" line="198" column="87" />
         <mark key="." line="197" column="15" />
         <mark key="^" line="197" column="15" />
       </file>
@@ -154,11 +154,12 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" timestamp="1521099854562">
-        <mark key="[" line="21" column="102" />
-        <mark key="]" line="21" column="124" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" timestamp="1521427508380">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="17" />
       </file>
-      <file name="/WebKit.WKWebView.swift" timestamp="1520995071392" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/dwangoplayer/worktree/workspace/PlayerTests/data/billListSingleMusicAndPackageMusic.json" timestamp="1518783608464">
         <mark key="'" line="146" column="36" />
       </file>
@@ -287,13 +288,13 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>仕</text>
+        <text>shouldStartLoadWithRequest</text>
       </register>
       <register name="/" type="4">
         <text>kUrushiBaseUrl</text>
       </register>
       <register name="0" type="4">
-        <text>policyForNavigationJustCancel;</text>
+        <text>decidePolicyForNavigationAction</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW3NlbGYgcF9wdXNoVG9OYXZpZ2F0aW9uQ29udHJvbGxlcjpuYXZpZ2F0aW9uQWN0aW9uLnJlcXVlc3QuVVJMXTsKICAgICAgICAgICAgZGVjaXNpb25IYW5kbGVyKFdLTmF2aWdhdGlvbkFjdGlvblBvbGljeUNhbmNlbCk7Cg==</text>
@@ -333,13 +334,10 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pullto</entry>
-        <entry>uiweb</entry>
-        <entry>wassen</entry>
         <entry>UIWeb</entry>
         <entry>webview</entry>
         <entry>Torikumi</entry>
@@ -362,9 +360,6 @@
         <entry>kUrushiBaseUrl</entry>
       </history-search>
       <history-cmd>
-        <entry>a</entry>
-        <entry>sp</entry>
-        <entry>bp</entry>
         <entry>d2</entry>
         <entry>85</entry>
         <entry>dw</entry>
