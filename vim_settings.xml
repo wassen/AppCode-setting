@@ -140,11 +140,11 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" timestamp="1521445109111">
-        <mark key="[" line="30" column="75" />
-        <mark key="]" line="30" column="101" />
-        <mark key="." line="30" column="101" />
-        <mark key="^" line="30" column="101" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" timestamp="1521446647700">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="26" column="101" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIBashoWebPageViewController.m" timestamp="1520332874991">
         <mark key="[" line="13" column="16" />
@@ -156,8 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="34" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
-      <jump line="110" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="118" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="120" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="125" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
@@ -256,6 +254,8 @@
       <jump line="182" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="188" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="196" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" />
+      <jump line="1" column="11" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/UI/View/ViewController/Base/BNIWebViewControllerSpec.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -265,50 +265,50 @@
         <text>JustCancel</text>
       </register>
       <register name="/" type="4">
-        <text>policy</text>
+        <text>mock</text>
       </register>
       <register name="0" type="4">
         <text>cancel navigation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKCBeewogICAgICAgICAgICBOU1VSTFJlcXVlc3QgKnJlcXVlc3QgPSBbW05TVVJMUmVxdWVzdCBhbGxvY10gaW5pdFdpdGhVUkw6W1tOU1VSTCBhbGxvY10gaW5pdFdpdGhTdHJpbmc6QCIiXV07CiAgICAgICAgICAgIFtbX21vY2tBcHBsaWNhdGlvbiBleHBlY3RdIG9wZW5VUkw6W09DTUFyZyBhbnldXTsKCiAgICAgICAgICAgIF9yZXN1bHQgPSBbX3dlYlZpZXdDb250cm9sbGVyIHdlYlZpZXc6X3dlYlZpZXdDb250cm9sbGVyLndlYlZpZXcgc2hvdWxkU3RhcnRMb2FkV2l0aFJlcXVlc3Q6cmVxdWVzdCBuYXZpZ2F0aW9uVHlwZTpVSVdlYlZpZXdOYXZpZ2F0aW9uVHlwZUxpbmtDbGlja2VkXTsKICAgICAgICB9KTsKICAgICAgICBpdChAInJldHVybnMgTk8iLCBeewogICAgICAgICAgICBbW3RoZVZhbHVlKF9yZXN1bHQpIHNob3VsZF0gYmVOb107CiAgICAgICAgfSk7CiAgICAgICAgaXQoQCJjYWxscyBvcGVuVVJMIiwgXnsKICAgICAgICAgICAgW1t0aGVCbG9jayggXnsKICAgICAgICAgICAgICAgIFtfbW9ja0FwcGxpY2F0aW9uIHZlcmlmeV07CiAgICAgICAgICAgIH0pIHNob3VsZE5vdF0gcmFpc2VdOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">I2ltcG9ydCAiQk5JRW52aXJvbm1lbnQuaCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdChAInJldHVybnMgTk8iLCBeewogICAgICAgICAgICBbW3RoZVZhbHVlKF9yZXN1bHQpIHNob3VsZF0gYmVOb107CiAgICAgICAgfSk7CiAgICAgICAgaXQoQCJjYWxscyBvcGVuVVJMIiwgXnsKICAgICAgICAgICAgW1t0aGVCbG9jayggXnsK</text>
+        <text encoding="base64">I2ltcG9ydCA8T0NNb2NrL09DTW9jay5oPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtfbW9ja0FwcGxpY2F0aW9uIHZlcmlmeV07CiAgICAgICAgICAgIH0pIHNob3VsZE5vdF0gcmFpc2VdOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZCBtb2NrRW52aXJvbm1lbnQgPSBbT0NNb2NrT2JqZWN0IG1vY2tGb3JDbGFzczpbQk5JRW52aXJvbm1lbnQgY2xhc3NdXTsKICAgICAgICBbW1ttb2NrRW52aXJvbm1lbnQgc3R1Yl0gYW5kUmV0dXJuOkAic3Vtby5kd2FuZ28uanAiXSB3ZWJQYWdlSG9zdF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZCBtb2NrRW52aXJvbm1lbnQgPSBbT0NNb2NrT2JqZWN0IG1vY2tGb3JDbGFzczpbQk5JRW52aXJvbm1lbnQgY2xhc3NdXTsKICAgICAgICBbW1ttb2NrRW52aXJvbm1lbnQgc3R1Yl0gYW5kUmV0dXJuOkAic3Vtby5kd2FuZ28uanAiXSB3ZWJQYWdlSG9zdF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdChAInJldHVybnMgTk8iLCBeewogICAgICAgICAgICBbW3RoZVZhbHVlKF9yZXN1bHQpIHNob3VsZF0gYmVOb107CiAgICAgICAgfSk7CiAgICAgICAgaXQoQCJjYWxscyBvcGVuVVJMIiwgXnsKICAgICAgICAgICAgW1t0aGVCbG9jayggXnsKICAgICAgICAgICAgICAgIFtfbW9ja0FwcGxpY2F0aW9uIHZlcmlmeV07CiAgICAgICAgICAgIH0pIHNob3VsZE5vdF0gcmFpc2VdOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKCBeewogICAgICAgICAgICBOU1VSTFJlcXVlc3QgKnJlcXVlc3QgPSBbW05TVVJMUmVxdWVzdCBhbGxvY10gaW5pdFdpdGhVUkw6W1tOU1VSTCBhbGxvY10gaW5pdFdpdGhTdHJpbmc6QCIiXV07CiAgICAgICAgICAgIFtbX21vY2tBcHBsaWNhdGlvbiBleHBlY3RdIG9wZW5VUkw6W09DTUFyZyBhbnldXTsKCiAgICAgICAgICAgIF9yZXN1bHQgPSBbX3dlYlZpZXdDb250cm9sbGVyIHdlYlZpZXc6X3dlYlZpZXdDb250cm9sbGVyLndlYlZpZXcgc2hvdWxkU3RhcnRMb2FkV2l0aFJlcXVlc3Q6cmVxdWVzdCBuYXZpZ2F0aW9uVHlwZTpVSVdlYlZpZXdOYXZpZ2F0aW9uVHlwZUxpbmtDbGlja2VkXTsKICAgICAgICB9KTsKICAgICAgICBpdChAInJldHVybnMgTk8iLCBeewogICAgICAgICAgICBbW3RoZVZhbHVlKF9yZXN1bHQpIHNob3VsZF0gYmVOb107CiAgICAgICAgfSk7CiAgICAgICAgaXQoQCJjYWxscyBvcGVuVVJMIiwgXnsKICAgICAgICAgICAgW1t0aGVCbG9jayggXnsKICAgICAgICAgICAgICAgIFtfbW9ja0FwcGxpY2F0aW9uIHZlcmlmeV07CiAgICAgICAgICAgIH0pIHNob3VsZE5vdF0gcmFpc2VdOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKCBeewogICAgICAgICAgICBfcmVzdWx0ID0gW193ZWJWaWV3Q29udHJvbGxlciB3ZWJWaWV3Ol93ZWJWaWV3Q29udHJvbGxlci53ZWJWaWV3IHNob3VsZFN0YXJ0TG9hZFdpdGhSZXF1ZXN0OnJlcXVlc3QgbmF2aWdhdGlvblR5cGU6XTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBpdChAInJldHVybnMgTk8iLCBeewogICAgICAgICAgICBbW3RoZVZhbHVlKF9yZXN1bHQpIHNob3VsZF0gYmVOb107CiAgICAgICAgfSk7CiAgICAgICAgaXQoQCJjYWxscyBvcGVuVVJMIiwgXnsKICAgICAgICAgICAgW1t0aGVCbG9jayggXnsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTlNVUkxSZXF1ZXN0ICpyZXF1ZXN0ID0gW1tOU1VSTFJlcXVlc3QgYWxsb2NdIGluaXRXaXRoVVJMOltbTlNVUkwgYWxsb2NdIGluaXRXaXRoU3RyaW5nOkAiIl1dOwogICAgICAgICAgICBbW19tb2NrQXBwbGljYXRpb24gZXhwZWN0XSBvcGVuVVJMOltPQ01BcmcgYW55XV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtfbW9ja0FwcGxpY2F0aW9uIHZlcmlmeV07CiAgICAgICAgICAgIH0pIHNob3VsZE5vdF0gcmFpc2VdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTlNVUkxSZXF1ZXN0ICpyZXF1ZXN0ID0gW1tOU1VSTFJlcXVlc3QgYWxsb2NdIGluaXRXaXRoVVJMOltbTlNVUkwgYWxsb2NdIGluaXRXaXRoU3RyaW5nOkAiIl1dOwogICAgICAgICAgICBbW19tb2NrQXBwbGljYXRpb24gZXhwZWN0XSBvcGVuVVJMOltPQ01BcmcgYW55XV07Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpdChAInJldHVybnMgTk8iLCBeewogICAgICAgICAgICBbW3RoZVZhbHVlKF9yZXN1bHQpIHNob3VsZF0gYmVOb107CiAgICAgICAgfSk7CiAgICAgICAgaXQoQCJjYWxscyBvcGVuVVJMIiwgXnsKICAgICAgICAgICAgW1t0aGVCbG9jayggXnsKICAgICAgICAgICAgICAgIFtfbW9ja0FwcGxpY2F0aW9uIHZlcmlmeV07CiAgICAgICAgICAgIH0pIHNob3VsZE5vdF0gcmFpc2VdOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>policy</last-search>
+      <last-search>mock</last-search>
       <last-offset />
-      <last-pattern>policy</last-pattern>
+      <last-pattern>mock</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -332,6 +332,7 @@
         <entry>dev-</entry>
         <entry>kUrushiBaseUrl</entry>
         <entry>policy</entry>
+        <entry>mock</entry>
       </history-search>
       <history-cmd>
         <entry>d2</entry>
