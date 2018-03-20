@@ -51,22 +51,10 @@
         <mark key="'" line="56" column="33" />
         <mark key="." line="147" column="107" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/NSURLRequest+BNIUrushiHeader.m" timestamp="1520836879997">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/CommonFramework/Module/Environment/BNIEnvironment.m" timestamp="1521099507675">
         <mark key="'" line="311" column="23" />
         <mark key="[" line="251" column="23" />
         <mark key="]" line="251" column="36" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" timestamp="1520993395739">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521537624598">
         <mark key="'" line="44" column="0" />
@@ -135,6 +123,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="85" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Repository/BNIUrushiApiRepository.m" timestamp="1521538436391" />
     </filemarks>
     <jumps>
       <jump line="175" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
