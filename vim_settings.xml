@@ -33,6 +33,10 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="21" column="103" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-sharing-on-ipad/CommonFramework/Resource/ja.lproj/Localizable.strings" timestamp="1521712903209">
+        <mark key="[" line="207" column="1" />
+        <mark key="]" line="207" column="15" />
+      </file>
       <file name="/fragment.m" timestamp="1516347650225">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,7 +75,7 @@
         <mark key="^" line="128" column="41" />
         <mark key="." line="128" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521453118254">
+      <file name="/Dummy.txt" timestamp="1521713616257">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1521012564986">
@@ -123,6 +127,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="85" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-sharing-on-ipad/sumo/Error/BNIError.m" timestamp="1521713017428" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Repository/BNIUrushiApiRepository.m" timestamp="1521538436391" />
     </filemarks>
     <jumps>
@@ -238,7 +243,7 @@
         <text>playHistoryExpire</text>
       </register>
       <register name="0" type="4">
-        <text>updateTanimachiStatusWithReceipt:untanimachizable:error:</text>
+        <text>ErrorMiscFormat</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIFVJ44Gr6Zai44KP44KL44KC44Gu44KS6YCa5L+h44KS6KGM44GG44Kv44Op44K544Gn44KE44Gj44Gm44GE44KL44Gf44KB44CB44OG44K544OI44Gn6JC944Gh44KLCg==</text>
