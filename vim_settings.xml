@@ -3,17 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/TopViewController.swift" timestamp="1521738142653">
-        <mark key="[" line="134" column="39" />
-        <mark key="]" line="134" column="39" />
-        <mark key="." line="134" column="39" />
-        <mark key="^" line="134" column="7" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/TopViewController.swift" timestamp="1521739179736">
+        <mark key="[" line="131" column="39" />
+        <mark key="]" line="131" column="46" />
+        <mark key="." line="131" column="46" />
+        <mark key="^" line="131" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/Constants/Colors.swift" timestamp="1521376987434">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/Extension/UINavigationController+extension.swift" timestamp="1521739120267">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" timestamp="1521128086597">
         <mark key="[" line="14" column="35" />
@@ -28,18 +34,19 @@
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" timestamp="1521737774337">
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" timestamp="1521739854363">
         <mark key="a" line="17" column="45" />
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="44" />
-        <mark key="^" line="17" column="44" />
-        <mark key="." line="17" column="44" />
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+        <mark key="^" line="29" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1521386810025">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="7" />
-        <mark key="." line="24" column="7" />
-        <mark key="^" line="24" column="7" />
+      <file name="$USER_HOME$/workspace/Werderd/Werderd/AppDelegate.swift" timestamp="1521739015816">
+        <mark key="[" line="19" column="108" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="/UIKit.UIBarButtonItem.swift" timestamp="1521041934689">
         <mark key="[" line="92" column="28" />
@@ -52,43 +59,50 @@
       <jump line="15" column="0" filename="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/Werderd/Werderd/TopViewController.swift" />
+      <jump line="20" column="8" filename="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" />
+      <jump line="26" column="8" filename="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" />
+      <jump line="28" column="8" filename="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" />
+      <jump line="31" column="8" filename="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/Werderd/Werderd/ViewControllers/AddWordViewController.swift" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>#a882f6</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dEZpZWxkLmNlbnRlclggPT0gb2tCdXR0b24uY2VudGVyWAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbmMgPSBVSU5hdmlnYXRpb25Db250cm9sbGVyKHJvb3RWaWV3Q29udHJvbGxlcjogdmMpCg==</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhY2tncm91bmRDb2xvciA9IC53aGl0ZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhciBwcmVmZXJyZWRTdGF0dXNCYXJTdHlsZTogVUlTdGF0dXNCYXJTdHlsZSB7CiAgICAgICAgcmV0dXJuIC5saWdodENvbnRlbnQKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uVmlld0NvbnRyb2xsZXIubmF2aWdhdGlvbkJhci5iYXJUaW50Q29sb3IgPSAubWFpbgogICAgICAgIG5hdmlnYXRpb25WaWV3Q29udHJvbGxlci5uYXZpZ2F0aW9uQmFyLmlzVHJhbnNsdWNlbnQgPSBmYWxzZTsKICAgICAgICBsZXQgdGV4dEF0dHJpYnV0ZXMgPSBbCiAgICAgICAgICAgIE5TQXR0cmlidXRlZFN0cmluZ0tleS5mb3JlZ3JvdW5kQ29sb3I6IFVJQ29sb3Iud2hpdGUKICAgICAgICBdCgogICAgICAgIG5hdmlnYXRpb25WaWV3Q29udHJvbGxlci5uYXZpZ2F0aW9uQmFyLnRpdGxlVGV4dEF0dHJpYnV0ZXMgPSB0ZXh0QXR0cmlidXRlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhciBwcmVmZXJyZWRTdGF0dXNCYXJTdHlsZTogVUlTdGF0dXNCYXJTdHlsZSB7CiAgICAgICAgcmV0dXJuIC5saWdodENvbnRlbnQKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbmEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>black</text>
       </register>
     </registers>
     <search>
@@ -101,9 +115,9 @@
         <entry>w'</entry>
         <entry>q</entry>
         <entry>';w</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
