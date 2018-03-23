@@ -91,6 +91,9 @@
         <mark key="." line="191" column="91" />
         <mark key="^" line="191" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" timestamp="1521796856070">
+        <mark key="'" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Util/Http/BNIJsonHttpRequest.m" timestamp="1521449378558">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -127,12 +130,8 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-sharing-on-ipad/sumo/Error/BNIError.m" timestamp="1521713017428" />
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Repository/BNIUrushiApiRepository.m" timestamp="1521538436391" />
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
-      <jump line="60" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
@@ -231,6 +230,8 @@
       <jump line="56" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -283,12 +284,10 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>webview</entry>
-        <entry>Torikumi</entry>
         <entry>WebViewHeight</entry>
         <entry>webViewHeight</entry>
         <entry>constraint</entry>
