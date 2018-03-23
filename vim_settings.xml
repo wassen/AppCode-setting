@@ -8,12 +8,6 @@
         <mark key="[" line="48" column="39" />
         <mark key="]" line="48" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuTableViewLayoutSpec.m" timestamp="1521798693346">
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="9" column="53" />
-        <mark key="^" line="9" column="53" />
-        <mark key="." line="9" column="53" />
-      </file>
       <file name="/a.dummy" timestamp="1510810738506">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,8 +91,8 @@
         <mark key="." line="191" column="91" />
         <mark key="^" line="191" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" timestamp="1521796856070">
-        <mark key="'" line="27" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" timestamp="1521799324271">
+        <mark key="'" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Util/Http/BNIJsonHttpRequest.m" timestamp="1521449378558">
         <mark key="[" line="18" column="0" />
@@ -138,15 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
-      <jump line="82" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
-      <jump line="77" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
-      <jump line="75" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/BNIAppDelegate.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" />
@@ -236,48 +221,57 @@
       <jump line="56" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>HTTPのモデルから行うから悪い</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text>playHistoryExpire</text>
       </register>
       <register name="0" type="4">
-        <text>ErrorMiscFormat</text>
+        <text>[UIScreen mainScreen].bounds.size.height</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFVJ44Gr6Zai44KP44KL44KC44Gu44KS6YCa5L+h44KS6KGM44GG44Kv44Op44K544Gn44KE44Gj44Gm44GE44KL44Gf44KB44CB44OG44K544OI44Gn6JC944Gh44KLCg==</text>
+        <text encoding="base64">c3RhdGljIENHRmxvYXQgY29uc3Qga1RhYmxlVmlld1BvcnRyYWl0SGVpZ2h0UGFkID0gW1VJU2NyZWVuIG1haW5TY3JlZW5dLmJvdW5kcy5zaXplLmhlaWdodDsKc3RhdGljIENHRmxvYXQgY29uc3Qga1RhYmxlVmlld0xhbmRzY2FwZUhlaWdodFBhZCA9IFtVSVNjcmVlbiBtYWluU2NyZWVuXS5ib3VuZHMuc2l6ZS5oZWlnaHQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFVJ44Gr6Zai44KP44KL44KC44Gu44KS6YCa5L+h44KS6KGM44GG44Kv44Op44K544Gn44KE44Gj44Gm44GE44KLCg==</text>
+        <text encoding="base64">ICAgICBbVUlTY3JlZW4gbWFpblNjcmVlbl0uYm91bmRzLnNpemUuaGVpZ2h0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2ltcG9ydCAiQk5JRW52aXJvbm1lbnQuaCIK</text>
+        <text encoding="base64">ICAgIEZsbyBoZWlnaHQgPSBbVUlTY3JlZW4gbWFpblNjcmVlbl0uYm91bmRzLnNpemUuaGVpZ2h0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2ltcG9ydCA8T0NNb2NrL09DTW9jay5oPgo=</text>
+        <text encoding="base64">ICAgIHRhYmxlVmlld0xheW91dFNwZWMucG9ydHJhaXRIZWlnaHQgPSBrVGFibGVWaWV3UG9ydHJhaXRIZWlnaHRQYWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZCBtb2NrRW52aXJvbm1lbnQgPSBbT0NNb2NrT2JqZWN0IG1vY2tGb3JDbGFzczpbQk5JRW52aXJvbm1lbnQgY2xhc3NdXTsKICAgICAgICBbW1ttb2NrRW52aXJvbm1lbnQgc3R1Yl0gYW5kUmV0dXJuOkAic3Vtby5kd2FuZ28uanAiXSB3ZWJQYWdlSG9zdF07Cg==</text>
+        <text encoding="base64">ICAgIGxldCBoZWlnaHQgPSBVSVNjcmVlbi5tYWluLmJvdW5kcy5zaXplLmhlaWdodAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZCBtb2NrRW52aXJvbm1lbnQgPSBbT0NNb2NrT2JqZWN0IG1vY2tGb3JDbGFzczpbQk5JRW52aXJvbm1lbnQgY2xhc3NdXTsKICAgICAgICBbW1ttb2NrRW52aXJvbm1lbnQgc3R1Yl0gYW5kUmV0dXJuOkAic3Vtby5kd2FuZ28uanAiXSB3ZWJQYWdlSG9zdF07Cg==</text>
+        <text encoding="base64">ICAgIC8vIFVJ44Gr6Zai44KP44KL44KC44Gu44KS6YCa5L+h44KS6KGM44GG44Kv44Op44K544Gn44KE44Gj44Gm44GE44KL44Gf44KB44CB44OG44K544OI44Gn6JC944Gh44KLCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKCBeewogICAgICAgICAgICBOU1VSTFJlcXVlc3QgKnJlcXVlc3QgPSBbW05TVVJMUmVxdWVzdCBhbGxvY10gaW5pdFdpdGhVUkw6W1tOU1VSTCBhbGxvY10gaW5pdFdpdGhTdHJpbmc6QCIiXV07CiAgICAgICAgICAgIFtbX21vY2tBcHBsaWNhdGlvbiBleHBlY3RdIG9wZW5VUkw6W09DTUFyZyBhbnldXTsKCiAgICAgICAgICAgIF9yZXN1bHQgPSBbX3dlYlZpZXdDb250cm9sbGVyIHdlYlZpZXc6X3dlYlZpZXdDb250cm9sbGVyLndlYlZpZXcgc2hvdWxkU3RhcnRMb2FkV2l0aFJlcXVlc3Q6cmVxdWVzdCBuYXZpZ2F0aW9uVHlwZTpVSVdlYlZpZXdOYXZpZ2F0aW9uVHlwZUxpbmtDbGlja2VkXTsKICAgICAgICB9KTsKICAgICAgICBpdChAInJldHVybnMgTk8iLCBeewogICAgICAgICAgICBbW3RoZVZhbHVlKF9yZXN1bHQpIHNob3VsZF0gYmVOb107CiAgICAgICAgfSk7CiAgICAgICAgaXQoQCJjYWxscyBvcGVuVVJMIiwgXnsKICAgICAgICAgICAgW1t0aGVCbG9jayggXnsKICAgICAgICAgICAgICAgIFtfbW9ja0FwcGxpY2F0aW9uIHZlcmlmeV07CiAgICAgICAgICAgIH0pIHNob3VsZE5vdF0gcmFpc2VdOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIC8vIFVJ44Gr6Zai44KP44KL44KC44Gu44KS6YCa5L+h44KS6KGM44GG44Kv44Op44K544Gn44KE44Gj44Gm44GE44KLCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdChAInJldHVybnMgTk8iLCBeewogICAgICAgICAgICBbW3RoZVZhbHVlKF9yZXN1bHQpIHNob3VsZF0gYmVOb107CiAgICAgICAgfSk7CiAgICAgICAgaXQoQCJjYWxscyBvcGVuVVJMIiwgXnsKICAgICAgICAgICAgW1t0aGVCbG9jayggXnsK</text>
+        <text encoding="base64">I2ltcG9ydCAiQk5JRW52aXJvbm1lbnQuaCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtfbW9ja0FwcGxpY2F0aW9uIHZlcmlmeV07CiAgICAgICAgICAgIH0pIHNob3VsZE5vdF0gcmFpc2VdOwo=</text>
+        <text encoding="base64">I2ltcG9ydCA8T0NNb2NrL09DTW9jay5oPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
