@@ -149,9 +149,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/BNITanimachiViewController.m" timestamp="1522062107120">
-        <mark key="[" line="106" column="52" />
-        <mark key="]" line="106" column="60" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/BNITanimachiViewController.m" timestamp="1522063316664">
+        <mark key="[" line="72" column="5" />
+        <mark key="]" line="72" column="26" />
+        <mark key="." line="72" column="5" />
+        <mark key="^" line="70" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadSubmenuViewController.m" timestamp="1522043984035">
         <mark key="'" line="52" column="0" />
@@ -266,40 +268,40 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>NSURLRequest</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>viewdid</text>
       </register>
       <register name="0" type="4">
-        <text>successBlock</text>
+        <text>receiptRefreshRequest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXMgPSBbU0tSZWNlaXB0UmVmcmVzaFJlcXVlc3QgbmV3XTsKICAgIFtyZXF1ZXMgc3RhcnRdOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgO3cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QKICAgIHJlcXVlc3QuZGVsZWdhdGUgPSBzZWxmCg==</text>
+        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXMgPSBbU0tSZWNlaXB0UmVmcmVzaFJlcXVlc3QgbmV3XTsKICAgIFtyZXF1ZXMgc3RhcnRdOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOTzsK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QKICAgIHJlcXVlc3QuZGVsZWdhdGUgPSBzZWxmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtzZWxmIHBfdmVyaWZ5Vm90ZUNvbmRpdGlvbl07CiAgICByZXR1cm4gTk87Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBOTzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFtzZWxmIHBfdmVyaWZ5Vm90ZUNvbmRpdGlvbl07CiAgICByZXR1cm4gTk87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci0gKHZvaWQpcF92ZXJpZnlWb3RlQ29uZGl0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">Ci0gKHZvaWQpcF92ZXJpZnlWb3RlQ29uZGl0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAp9Cg==</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
