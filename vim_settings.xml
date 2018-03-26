@@ -62,6 +62,12 @@
         <mark key="[" line="251" column="23" />
         <mark key="]" line="251" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuTableViewAppearanceSpec.m" timestamp="1522055256067">
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="39" column="46" />
+        <mark key="." line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521539862151">
         <mark key="'" line="44" column="0" />
       </file>
@@ -77,7 +83,7 @@
         <mark key="^" line="128" column="41" />
         <mark key="." line="128" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522051020135">
+      <file name="/Dummy.txt" timestamp="1522055038489">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1521012564986">
@@ -93,7 +99,7 @@
         <mark key="." line="191" column="91" />
         <mark key="^" line="191" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522050342344">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522055022725">
         <mark key="'" line="150" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -135,11 +141,11 @@
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" timestamp="1522054064475">
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="67" column="14" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" timestamp="1522054735852">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
         <mark key="^" line="67" column="14" />
-        <mark key="." line="67" column="14" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIInformationViewController.m" timestamp="1520231007300">
         <mark key="[" line="21" column="0" />
@@ -258,7 +264,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>estimatedRowHeight = 400;</text>
+        <text>NO</text>
       </register>
       <register name="/" type="4">
         <text>playHistoryExpire</text>
@@ -267,31 +273,31 @@
         <text encoding="base64">ICAgIHNlbGYudGFibGVWaWV3LmVzdGltYXRlZFJvd0hlaWdodCA9IDQwMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBzZWxmLnRhYmxlVmlldy5lc3RpbWF0ZWRSb3dIZWlnaHQgPSA0MDA7CiAgICBzZWxmLnRhYmxlVmlldy5yb3dIZWlnaHQgPSBVSVRhYmxlVmlld0F1dG9tYXRpY0RpbWVuc2lvbjsKCiAgICBzZWxmLnRhYmxlVmlldy5jZWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9zdGF0aWMgQ0dGbG9hdCBjb25zdCBrVGFibGVWaWV3UG9ydHJhaXRIZWlnaHRQYWQgPSBbVUlTY3JlZW4gbWFpblNjcmVlbl0uYm91bmRzLnNpemUud2lkdGggLyA5OwovL3N0YXRpYyBDR0Zsb2F0IGNvbnN0IGtUYWJsZVZpZXdMYW5kc2NhcGVIZWlnaHRQYWQgPSBbVUlTY3JlZW4gbWFpblNjcmVlbl0uYm91bmRzLnNpemUuaGVpZ2h0IC8gOTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8g44GE44KE44GT44KM44Gv44Kv44K944GZ44GO44Gn44GX44KH44GGCg==</text>
+        <text encoding="base64">Ly9zdGF0aWMgQ0dGbG9hdCBjb25zdCBrVGFibGVWaWV3UG9ydHJhaXRIZWlnaHRQYWQgPSBbVUlTY3JlZW4gbWFpblNjcmVlbl0uYm91bmRzLnNpemUud2lkdGggLyA5OwovL3N0YXRpYyBDR0Zsb2F0IGNvbnN0IGtUYWJsZVZpZXdMYW5kc2NhcGVIZWlnaHRQYWQgPSBbVUlTY3JlZW4gbWFpblNjcmVlbl0uYm91bmRzLnNpemUuaGVpZ2h0IC8gOTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW1VJU2NyZWVuIG1haW5TY3JlZW5dLmJvdW5kcy5zaXplLndpZHRoIC8gOTsK</text>
+        <text encoding="base64">Ly8g44GE44KE44GT44KM44Gv44Kv44K944GZ44GO44Gn44GX44KH44GGCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW1VJU2NyZWVuIG1haW5TY3JlZW5dLmJvdW5kcy5zaXplLmhlaWdodCAvIDk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW1VJU2NyZWVuIG1haW5TY3JlZW5dLmJvdW5kcy5zaXplLndpZHRoIC8gOTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENHRmxvYXQgaCA9IFtVSVNjcmVlbiBtYWluU2NyZWVuXS5ib3VuZHMuc2l6ZS5oZWlnaHQgLyA5OwogICAgQ0dGbG9hdCB3ID0gW1VJU2NyZWVuIG1haW5TY3JlZW5dLmJvdW5kcy5zaXplLndpZHRoIC8gOTsKICAgIHJldHVybiBNSU4oaCwgdyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW1VJU2NyZWVuIG1haW5TY3JlZW5dLmJvdW5kcy5zaXplLmhlaWdodCAvIDk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBNQVgoaCwgdyk7Cg==</text>
+        <text encoding="base64">ICAgIENHRmxvYXQgaCA9IFtVSVNjcmVlbiBtYWluU2NyZWVuXS5ib3VuZHMuc2l6ZS5oZWlnaHQgLyA5OwogICAgQ0dGbG9hdCB3ID0gW1VJU2NyZWVuIG1haW5TY3JlZW5dLmJvdW5kcy5zaXplLndpZHRoIC8gOTsKICAgIHJldHVybiBNSU4oaCwgdyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBNQVgoaCwgdyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENHRmxvYXQgdyA9IFtVSVNjcmVlbiBtYWluU2NyZWVuXS5ib3VuZHMuc2l6ZS53aWR0aCAvIDk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
