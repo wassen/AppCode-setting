@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522132744023">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522134527934">
         <mark key="'" line="98" column="26" />
-        <mark key="[" line="88" column="30" />
-        <mark key="]" line="88" column="50" />
-        <mark key="^" line="89" column="18" />
-        <mark key="." line="91" column="83" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="99" column="62" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/Service/BNITanimachiStatusManagerSpec.m" timestamp="1521513933058">
         <mark key="'" line="46" column="0" />
@@ -99,7 +99,7 @@
         <mark key="^" line="128" column="41" />
         <mark key="." line="128" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522121401314">
+      <file name="/Dummy.txt" timestamp="1522134335395">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
@@ -280,7 +280,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>jsonData</text>
       </register>
       <register name="/" type="4">
         <text>receipt</text>
@@ -289,31 +289,31 @@
         <text>updateStatusWithError</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXN0ID0gW3NlbGYgcF9yZWNlaXB0UmVmcmVzaFJlcXVlc3RdOwogICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGY7CiAgICBbcmVxdWVzdCBzdGFydF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGYK</text>
+        <text encoding="base64">ICAgIHJlY2VpcHQuYmFzZTY0RW5jb2RpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHdhc3Nlbgo=</text>
+        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXN0ID0gW3NlbGYgcF9yZWNlaXB0UmVmcmVzaFJlcXVlc3RdOwogICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGY7CiAgICBbcmVxdWVzdCBzdGFydF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBTS1JlY2VpcHRSZWZyZXNoUmVxdWVzdCAqcmVxdWVzdCA9IFtzZWxmIHBfcmVjZWlwdFJlZnJlc2hSZXF1ZXN0XTsKICAgIHJlcXVlc3QuZGVsZWdhdGUgPSBzZWxmOwogICAgW3JlcXVlc3Qgc3RhcnRdOwoK</text>
+        <text encoding="base64">Ly8gICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgU0tSZWNlaXB0UmVmcmVzaFJlcXVlc3QgKnJlcXVlc3QgPSBbc2VsZiBwX3JlY2VpcHRSZWZyZXNoUmVxdWVzdF07CiAgICByZXF1ZXN0LmRlbGVnYXRlID0gc2VsZjsKICAgIFtyZXF1ZXN0IHN0YXJ0XTsK</text>
+        <text encoding="base64">ICAgIC8vIHdhc3Nlbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgO3cK</text>
+        <text encoding="base64">CiAgICBTS1JlY2VpcHRSZWZyZXNoUmVxdWVzdCAqcmVxdWVzdCA9IFtzZWxmIHBfcmVjZWlwdFJlZnJlc2hSZXF1ZXN0XTsKICAgIHJlcXVlc3QuZGVsZWdhdGUgPSBzZWxmOwogICAgW3JlcXVlc3Qgc3RhcnRdOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXMgPSBbU0tSZWNlaXB0UmVmcmVzaFJlcXVlc3QgbmV3XTsKICAgIFtyZXF1ZXMgc3RhcnRdOwoK</text>
+        <text encoding="base64">ICAgIAogICAgU0tSZWNlaXB0UmVmcmVzaFJlcXVlc3QgKnJlcXVlc3QgPSBbc2VsZiBwX3JlY2VpcHRSZWZyZXNoUmVxdWVzdF07CiAgICByZXF1ZXN0LmRlbGVnYXRlID0gc2VsZjsKICAgIFtyZXF1ZXN0IHN0YXJ0XTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QKICAgIHJlcXVlc3QuZGVsZWdhdGUgPSBzZWxmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgO3cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOTzsK</text>
+        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXMgPSBbU0tSZWNlaXB0UmVmcmVzaFJlcXVlc3QgbmV3XTsKICAgIFtyZXF1ZXMgc3RhcnRdOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
