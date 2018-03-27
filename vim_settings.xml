@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522119102610">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522121446541">
         <mark key="'" line="98" column="26" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="89" column="18" />
         <mark key="^" line="89" column="18" />
-        <mark key="." line="90" column="0" />
+        <mark key="." line="89" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/Service/BNITanimachiStatusManagerSpec.m" timestamp="1521513933058">
         <mark key="'" line="46" column="0" />
@@ -67,7 +67,7 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" timestamp="1522062041027">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" timestamp="1522120924158">
         <mark key="'" line="139" column="0" />
         <mark key="[" line="159" column="4" />
         <mark key="]" line="159" column="12" />
@@ -99,7 +99,7 @@
         <mark key="^" line="128" column="41" />
         <mark key="." line="128" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522119986748">
+      <file name="/Dummy.txt" timestamp="1522121401314">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
@@ -326,15 +326,10 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>WebViewHeight</entry>
-        <entry>webViewHeight</entry>
-        <entry>constraint</entry>
-        <entry>decision</entry>
-        <entry>request</entry>
         <entry>delegate</entry>
         <entry>self.</entry>
         <entry>loading</entry>
