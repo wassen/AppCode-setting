@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522129608615">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522132744023">
         <mark key="'" line="98" column="26" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="83" />
+        <mark key="[" line="88" column="30" />
+        <mark key="]" line="88" column="50" />
         <mark key="^" line="89" column="18" />
         <mark key="." line="91" column="83" />
       </file>
@@ -285,8 +285,8 @@
       <register name="/" type="4">
         <text>receipt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZWNlaXB0UmVmcmVzaFJlcXVlc3QgPSBbU0tSZWNlaXB0UmVmcmVzaFJlcXVlc3QgbmV3XTsKLy8gICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGYKICAgIFtyZWNlaXB0UmVmcmVzaFJlcXVlc3Qgc3RhcnRdOwo=</text>
+      <register name="0" type="4">
+        <text>updateStatusWithError</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXN0ID0gW3NlbGYgcF9yZWNlaXB0UmVmcmVzaFJlcXVlc3RdOwogICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGY7CiAgICBbcmVxdWVzdCBzdGFydF07Cg==</text>
