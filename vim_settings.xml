@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522134527934">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522142182995">
         <mark key="'" line="98" column="26" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="99" column="62" />
-        <mark key="." line="100" column="0" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/Service/BNITanimachiStatusManagerSpec.m" timestamp="1521513933058">
         <mark key="'" line="46" column="0" />
@@ -48,6 +48,12 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-sharing-on-ipad/CommonFramework/Resource/ja.lproj/Localizable.strings" timestamp="1521712903209">
         <mark key="[" line="207" column="1" />
         <mark key="]" line="207" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.h" timestamp="1522142219994">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
       </file>
       <file name="/fragment.m" timestamp="1516347650225">
         <mark key="[" line="0" column="0" />
@@ -99,7 +105,7 @@
         <mark key="^" line="128" column="41" />
         <mark key="." line="128" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522134335395">
+      <file name="/Dummy.txt" timestamp="1522142150133">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
@@ -280,13 +286,13 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>jsonData</text>
+        <text encoding="base64">OiBOU09iamVjdCA=</text>
       </register>
       <register name="/" type="4">
         <text>receipt</text>
       </register>
       <register name="0" type="4">
-        <text>updateStatusWithError</text>
+        <text encoding="base64">TlNPYmplY3Q8U0tSZXF1ZXN0RGVsZWdhdGU+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
