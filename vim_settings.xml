@@ -21,9 +21,6 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="9" column="54" />
       </file>
-      <file name="/a.dummy" timestamp="1510810738506">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Extension/WKWebView+BNIWebInfo.m" timestamp="1520843514181">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="17" column="0" />
@@ -35,9 +32,6 @@
         <mark key="]" line="12" column="113" />
         <mark key="^" line="12" column="113" />
         <mark key="." line="12" column="113" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/dwangoplayer/Player/Services/Player/DPAudioPlayer.m" timestamp="1513851423408">
-        <mark key="[" line="154" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" timestamp="1522060254850">
         <mark key="[" line="75" column="0" />
@@ -51,9 +45,6 @@
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.h" timestamp="1522142219994">
         <mark key="[" line="8" column="33" />
-      </file>
-      <file name="/fragment.m" timestamp="1516347650225">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/Pods/ViewDeck/ViewDeck/IIWrapController.m" timestamp="1519959241982">
         <mark key="[" line="2" column="4" />
@@ -78,9 +69,6 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521539862151">
         <mark key="'" line="44" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1511849808691">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.h" timestamp="1522058029702">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -102,8 +90,10 @@
         <mark key="^" line="128" column="41" />
         <mark key="." line="128" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522219152752">
+      <file name="/Dummy.txt" timestamp="1522227824490">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
         <mark key="[" line="191" column="91" />
@@ -171,6 +161,11 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="70" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" timestamp="1522227832162">
+        <mark key="'" line="220" column="20" />
+        <mark key="[" line="211" column="8" />
+        <mark key="]" line="211" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadSubmenuViewController.m" timestamp="1522043984035">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="9" column="44" />
@@ -178,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
-      <jump line="67" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
@@ -278,19 +270,22 @@
       <jump line="101" column="22" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="99" column="30" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="98" column="26" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
+      <jump line="211" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" />
+      <jump line="227" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" />
+      <jump line="220" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBOU09iamVjdCA=</text>
+        <text>*.xcconfig,*.deb</text>
       </register>
       <register name="/" type="4">
-        <text>receipt</text>
+        <text>SVProgressHUD</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">TlNPYmplY3Q8U0tSZXF1ZXN0RGVsZWdhdGU+</text>
+        <text>SVProgressHUD</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -324,13 +319,13 @@
       </register>
     </registers>
     <search>
-      <last-search>receipt</last-search>
+      <last-search>SVProgressHUD</last-search>
       <last-offset />
-      <last-pattern>receipt</last-pattern>
+      <last-pattern>SVProgressHUD</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -354,6 +349,7 @@
         <entry>SKRReceit</entry>
         <entry>SKRReceipt</entry>
         <entry>receipt</entry>
+        <entry>SVProgressHUD</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
