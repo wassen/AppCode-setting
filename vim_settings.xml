@@ -80,7 +80,7 @@
         <mark key="^" line="128" column="41" />
         <mark key="." line="128" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522227824490">
+      <file name="/Dummy.txt" timestamp="1522231697350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,9 +160,10 @@
         <mark key="[" line="211" column="8" />
         <mark key="]" line="211" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" timestamp="1522230208997">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="40" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" timestamp="1522231553598">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -281,31 +282,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSBzZWxmPy51bnJlZ2lzdGVyKGlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTVlByb2dyZXNzSFVELnNob3cod2l0aFN0YXR1czogQk5JTG9jYWxpemVkU3RyaW5nLmdvaGlpa2lVbnJlZ2lzdGVyKCksIG1hc2tUeXBlOiAuYmxhY2spCiAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlY2VpcHQuYmFzZTY0RW5jb2RpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTVlByb2dyZXNzSFVELmRpc21pc3MoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXN0ID0gW3NlbGYgcF9yZWNlaXB0UmVmcmVzaFJlcXVlc3RdOwogICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGY7CiAgICBbcmVxdWVzdCBzdGFydF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTVlByb2dyZXNzSFVELmRpc21pc3MoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHdhc3Nlbgo=</text>
+        <text encoding="base64">ICAgIHJlY2VpcHQuYmFzZTY0RW5jb2RpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBTS1JlY2VpcHRSZWZyZXNoUmVxdWVzdCAqcmVxdWVzdCA9IFtzZWxmIHBfcmVjZWlwdFJlZnJlc2hSZXF1ZXN0XTsKICAgIHJlcXVlc3QuZGVsZWdhdGUgPSBzZWxmOwogICAgW3JlcXVlc3Qgc3RhcnRdOwoK</text>
+        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXN0ID0gW3NlbGYgcF9yZWNlaXB0UmVmcmVzaFJlcXVlc3RdOwogICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGY7CiAgICBbcmVxdWVzdCBzdGFydF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgU0tSZWNlaXB0UmVmcmVzaFJlcXVlc3QgKnJlcXVlc3QgPSBbc2VsZiBwX3JlY2VpcHRSZWZyZXNoUmVxdWVzdF07CiAgICByZXF1ZXN0LmRlbGVnYXRlID0gc2VsZjsKICAgIFtyZXF1ZXN0IHN0YXJ0XTsK</text>
+        <text encoding="base64">Ly8gICAgcmVxdWVzdC5kZWxlZ2F0ZSA9IHNlbGYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgO3cK</text>
+        <text encoding="base64">ICAgIC8vIHdhc3Nlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNLUmVjZWlwdFJlZnJlc2hSZXF1ZXN0ICpyZXF1ZXMgPSBbU0tSZWNlaXB0UmVmcmVzaFJlcXVlc3QgbmV3XTsKICAgIFtyZXF1ZXMgc3RhcnRdOwoK</text>
+        <text encoding="base64">CiAgICBTS1JlY2VpcHRSZWZyZXNoUmVxdWVzdCAqcmVxdWVzdCA9IFtzZWxmIHBfcmVjZWlwdFJlZnJlc2hSZXF1ZXN0XTsKICAgIHJlcXVlc3QuZGVsZWdhdGUgPSBzZWxmOwogICAgW3JlcXVlc3Qgc3RhcnRdOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -364,8 +365,8 @@
         <entry>bp</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
-        <entry>w</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
