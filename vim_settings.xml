@@ -10,11 +10,6 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumoTests/Service/BNITanimachiStatusManagerSpec.m" timestamp="1521513933058">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="48" column="94" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuTableViewLayoutSpec.m" timestamp="1522047151385">
         <mark key="[" line="9" column="52" />
         <mark key="]" line="9" column="54" />
@@ -33,7 +28,7 @@
         <mark key="^" line="12" column="113" />
         <mark key="." line="12" column="113" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Help/BNIHelpCenterViewControllerFactory.m" timestamp="1522236716270">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Help/BNIHelpCenterViewControllerFactory.m" timestamp="1522237425675">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="44" />
@@ -54,11 +49,6 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/Pods/ViewDeck/ViewDeck/IIWrapController.m" timestamp="1519959241982">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/CommonFramework/Module/Environment/BNIEnvironment.m" timestamp="1521099507675">
-        <mark key="'" line="311" column="23" />
-        <mark key="[" line="251" column="23" />
-        <mark key="]" line="251" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuTableViewAppearanceSpec.m" timestamp="1522055972789">
         <mark key="[" line="39" column="44" />
@@ -178,11 +168,6 @@
         <mark key="'" line="149" column="20" />
         <mark key="[" line="211" column="8" />
         <mark key="]" line="211" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadSubmenuViewController.m" timestamp="1522043984035">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="9" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" timestamp="1522231553598">
         <mark key="[" line="211" column="0" />
