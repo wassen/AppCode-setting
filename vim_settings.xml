@@ -31,13 +31,6 @@
         <mark key="[" line="207" column="1" />
         <mark key="]" line="207" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" timestamp="1522308603820">
-        <mark key="'" line="203" column="19" />
-        <mark key="[" line="218" column="48" />
-        <mark key="]" line="218" column="48" />
-        <mark key="." line="218" column="48" />
-        <mark key="^" line="218" column="132" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/Pods/ViewDeck/ViewDeck/IIWrapController.m" timestamp="1519959241982">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="13" />
@@ -170,7 +163,7 @@
         <mark key="^" line="44" column="46" />
         <mark key="." line="44" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522308431506">
+      <file name="/Dummy.txt" timestamp="1522310128869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -347,7 +340,7 @@
         <text encoding="base64">ICAgIE5TVVJMICp6ZW5kZXNrVVJMID0gW05TVVJMIFVSTFdpdGhTdHJpbmc6QCJzdW1vLWR3YW5nby1qcC1pb3MuemVuZGVzay5jb20iXTsKICAgIFNGU2FmYXJpVmlld0NvbnRyb2xsZXIgKnYgPSBbW1NGU2FmYXJpVmlld0NvbnRyb2xsZXIgYWxsb2NdIGluaXRXaXRoVVJMOnplbmRlc2tVUkxdOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -404,7 +397,6 @@
         <entry>x</entry>
         <entry>d</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w;w</entry>
         <entry>bn</entry>
@@ -415,6 +407,7 @@
         <entry>set nopaste</entry>
         <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
