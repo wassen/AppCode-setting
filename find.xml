@@ -5,19 +5,11 @@
     <option name="defaultScopeName" value="Project and Frameworks" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Frameworks" />
+    <option name="FILE_MASK" value="" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
-      <mask>*.m</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xc</mask>
       <mask>*.xccon</mask>
@@ -36,6 +28,15 @@
       <mask>*.xcconfig,*.debug</mask>
       <mask>ug</mask>
       <mask>g</mask>
+      <mask>*.m</mask>
+      <mask>*.m,</mask>
+      <mask>*.m, *</mask>
+      <mask>*.m, *,h</mask>
+      <mask>*.m, *,</mask>
+      <mask>*.m,</mask>
+      <mask>*.m</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
