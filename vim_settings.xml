@@ -56,6 +56,12 @@
         <mark key="^" line="128" column="41" />
         <mark key="." line="128" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/Router/BNIUrlRouter.m" timestamp="1522314209845">
+        <mark key="[" line="30" column="70" />
+        <mark key="]" line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
         <mark key="[" line="191" column="91" />
         <mark key="]" line="191" column="91" />
@@ -67,6 +73,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/Router/BNIUrlRouter.h" timestamp="1522314514440">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Error/BNIErrorCode.h" timestamp="1522219161542" />
       <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationAction.h" timestamp="1521095012538">
@@ -138,9 +148,6 @@
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="44" />
         <mark key="." line="63" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.h" timestamp="1522142219994">
-        <mark key="[" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuTableViewAppearanceSpec.m" timestamp="1522055972789">
         <mark key="[" line="39" column="44" />
@@ -310,7 +317,7 @@
         <text>image</text>
       </register>
       <register name="0" type="4">
-        <text>BNIPullToRefreshContentView</text>
+        <text>viewControllerWithPath</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">IAog</text>
