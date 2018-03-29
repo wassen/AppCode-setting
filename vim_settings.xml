@@ -100,8 +100,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPhoneMenuViewController.m" timestamp="1522321755559">
-        <mark key="^" line="36" column="48" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPhoneMenuViewController.m" timestamp="1522325901717">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="24" column="54" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Extension/ViewController/UIViewController+Error.m" timestamp="1522229862848">
         <mark key="'" line="46" column="0" />
@@ -134,11 +138,6 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="70" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" timestamp="1522230025493">
-        <mark key="'" line="149" column="20" />
-        <mark key="[" line="211" column="8" />
-        <mark key="]" line="211" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" timestamp="1522231553598">
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
@@ -151,6 +150,7 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuCellAppearanceSpec.m" timestamp="1522325343216" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Help/BNIHelpCenterViewControllerFactory.m" timestamp="1522289542173">
         <mark key="'" line="98" column="33" />
         <mark key="[" line="23" column="11" />
@@ -162,11 +162,6 @@
         <mark key="]" line="39" column="46" />
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" timestamp="1522120924158">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="159" column="4" />
-        <mark key="]" line="159" column="12" />
       </file>
       <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationDelegate.h" timestamp="1521438244998">
         <mark key="'" line="73" column="77" />
@@ -183,10 +178,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522322374800">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522326411617">
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="60" column="10" />
+        <mark key="^" line="60" column="10" />
+        <mark key="." line="60" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1522303205370">
         <mark key="'" line="9" column="25" />
@@ -216,9 +212,13 @@
         <mark key="[" line="48" column="30" />
         <mark key="]" line="48" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/BNIAppDelegate.m" timestamp="1522325102106">
+        <mark key="[" line="302" column="57" />
+        <mark key="]" line="302" column="58" />
+        <mark key="." line="302" column="58" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" />
       <jump line="167" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" />
       <jump line="162" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" />
       <jump line="158" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" />
@@ -318,59 +318,60 @@
       <jump line="217" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
       <jump line="202" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPhoneMenuViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[BN]</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>@available</text>
+        <text>p_confi</text>
       </register>
-      <register name="0" type="4">
-        <text>BNIMenuViewController</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNlY3Rpb25IZWFkZXJWaWV3LmJhY2tncm91bmRDb2xvciA9IFtCTklDb2xvciBtZW51U2VjdGlvbkJhY2tncm91bmRDb2xvcl07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlY3Rpb25IZWFkZXJWaWV3LmJhY2tncm91bmRDb2xvciA9IFVJQ29sb3IucmVkQ29sb3I7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlVmlldy5iYWNrZ3JvdW5kQ29sb3IgPSBVSUNvbG9yLmN5YW5Db2xvcjsKICAgICAgICBzZWxmLnZpZXcuYmFja2dyb3VuZENvbG9yID0gVUlDb2xvci5ncmVlbkNvbG9yOwovLyAgICAgICAgW1VJQXBwbGljYXRpb24gc2hhcmVkQXBwbGljYXRpb25dLnN0YXR1c0JhclZpZXcuYmFja2dyb3VuZENvbG9yID0gVUlDb2xvci5ncmVlbkNvbG9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlVmlldy5iYWNrZ3JvdW5kQ29sb3IgPSBVSUNvbG9yLmN5YW5Db2xvcjsKICAgICAgICBzZWxmLnZpZXcuYmFja2dyb3VuZENvbG9yID0gVUlDb2xvci5ncmVlbkNvbG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlVmlldy5iYWNrZ3JvdW5kQ29sb3IgPSBVSUNvbG9yLmN5YW5Db2xvcjsKICAgICAgICBzZWxmLnZpZXcuYmFja2dyb3VuZENvbG9yID0gVUlDb2xvci5ncmVlbkNvbG9yOwovLyAgICAgICAgW1VJQXBwbGljYXRpb24gc2hhcmVkQXBwbGljYXRpb25dLnN0YXR1c0JhclZpZXcuYmFja2dyb3VuZENvbG9yID0gVUlDb2xvci5ncmVlbkNvbG9yOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0uc3RhdHVzQmFyVmlldy5iYWNrZ3JvdW5kQ29sb3IgPSBVSUNvbG9yLmdyZWVuQ29sb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlVmlldy5iYWNrZ3JvdW5kQ29sb3IgPSBVSUNvbG9yLmN5YW5Db2xvcjsKICAgICAgICBzZWxmLnZpZXcuYmFja2dyb3VuZENvbG9yID0gVUlDb2xvci5ncmVlbkNvbG9yOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgXTsK</text>
+        <text encoding="base64">ICAgICAgICBbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0uc3RhdHVzQmFyVmlldy5iYWNrZ3JvdW5kQ29sb3IgPSBVSUNvbG9yLmdyZWVuQ29sb3I7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGcudG9wQW5jaG9yLmNvb3JkaQo=</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgXTsK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGcudG9wQW5jaG9yLmNvb3JkaQo=</text>
       </register>
       <register name="8" type="8">
         <text encoding="base64">IAog</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">I2ltcG9ydCAiVUlJbWFnZVZpZXcrVUlBY3Rpdml0eUluZGljYXRvckZvclNEV2ViSW1hZ2UuaCIK</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAog</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
-      <last-search>@available</last-search>
+      <last-search>p_confi</last-search>
       <last-offset />
-      <last-pattern>@available</last-pattern>
+      <last-pattern>p_confi</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -407,6 +408,8 @@
         <entry>pullTo</entry>
         <entry>image</entry>
         <entry>@available</entry>
+        <entry>p_</entry>
+        <entry>p_confi</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
@@ -429,6 +432,7 @@
         <entry>set nopaste</entry>
         <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
