@@ -175,12 +175,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522318651325">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="105" column="87" />
-        <mark key="]" line="105" column="92" />
-        <mark key="." line="105" column="92" />
-        <mark key="^" line="105" column="92" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522319733238">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="62" column="28" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1522303205370">
         <mark key="'" line="9" column="25" />
@@ -327,31 +327,31 @@
         <text encoding="base64">ICAgIHNlbGYudGFibGVWaWV3LmJhY2tncm91bmRDb2xvciA9IF90YWJsZVZpZXdBcHBlYXJhbmNlU3BlYy5iYWNrZ3JvdW5kQ29sb3I7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgXTsK</text>
+        <text encoding="base64">ICAgICAgICBbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0uc3RhdHVzQmFyVmlldy5iYWNrZ3JvdW5kQ29sb3IgPSBVSUNvbG9yLmdyZWVuQ29sb3I7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGcudG9wQW5jaG9yLmNvb3JkaQo=</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgXTsK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGcudG9wQW5jaG9yLmNvb3JkaQo=</text>
       </register>
       <register name="4" type="8">
         <text encoding="base64">IAog</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2ltcG9ydCAiVUlJbWFnZVZpZXcrVUlBY3Rpdml0eUluZGljYXRvckZvclNEV2ViSW1hZ2UuaCIK</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAog</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LlVSTC5iYXNlVVJMID09ICJzdW1vLWR3YW5nby1qcC1pb3MuemVuZGVzay5jb20iKSB7CiAgICAgICAgTlNVUkwgKnplbmRlc2tVUkwgPSBbTlNVUkwgVVJMV2l0aFN0cmluZzpAInN1bW8tZHdhbmdvLWpwLWlvcy56ZW5kZXNrLmNvbSJdOwogICAgICAgIFNGU2FmYXJpVmlld0NvbnRyb2xsZXIgKnYgPSBbW1NGU2FmYXJpVmlld0NvbnRyb2xsZXIgYWxsb2NdIGluaXRXaXRoVVJMOnplbmRlc2tVUkxdOwogICAgICAgIEBpbXBvcnQgU2FmYXJpU2VydmljZXMuU0ZTYWZhcmlWaWV3Q29udHJvbGxlcgogICAgfQo=</text>
+        <text encoding="base64">I2ltcG9ydCAiVUlJbWFnZVZpZXcrVUlBY3Rpdml0eUluZGljYXRvckZvclNEV2ViSW1hZ2UuaCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCBTYWZhcmlTZXJ2aWNlcy5TRlNhZmFyaVZpZXdDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LlVSTC5iYXNlVVJMID09ICJzdW1vLWR3YW5nby1qcC1pb3MuemVuZGVzay5jb20iKSB7CiAgICAgICAgTlNVUkwgKnplbmRlc2tVUkwgPSBbTlNVUkwgVVJMV2l0aFN0cmluZzpAInN1bW8tZHdhbmdvLWpwLWlvcy56ZW5kZXNrLmNvbSJdOwogICAgICAgIFNGU2FmYXJpVmlld0NvbnRyb2xsZXIgKnYgPSBbW1NGU2FmYXJpVmlld0NvbnRyb2xsZXIgYWxsb2NdIGluaXRXaXRoVVJMOnplbmRlc2tVUkxdOwogICAgICAgIEBpbXBvcnQgU2FmYXJpU2VydmljZXMuU0ZTYWZhcmlWaWV3Q29udHJvbGxlcgogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGltcG9ydCBTYWZhcmlTZXJ2aWNlcy5TRlNhZmFyaVZpZXdDb250cm9sbGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkBpbXBvcnQgU0ZTYWZhdGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
