@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522142182995">
+        <mark key="'" line="98" column="26" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuTableViewLayoutSpec.m" timestamp="1522047151385">
         <mark key="[" line="9" column="52" />
         <mark key="]" line="9" column="54" />
@@ -21,6 +28,12 @@
         <mark key="^" line="12" column="113" />
         <mark key="." line="12" column="113" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Help/BNIHelpCenterViewControllerFactory.m" timestamp="1522289542173">
+        <mark key="'" line="98" column="33" />
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="63" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" timestamp="1522060254850">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -35,6 +48,12 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuTableViewAppearanceSpec.m" timestamp="1522055972789">
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="39" column="46" />
+        <mark key="." line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521539862151">
         <mark key="'" line="44" column="0" />
       </file>
@@ -43,6 +62,15 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
+      </file>
+      <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationDelegate.h" timestamp="1521438244998">
+        <mark key="'" line="73" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Service/BNIUserService.m" timestamp="1522058833693">
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="44" column="46" />
+        <mark key="^" line="44" column="46" />
+        <mark key="." line="44" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1520995050045">
         <mark key="[" line="128" column="43" />
@@ -59,11 +87,24 @@
       <file name="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" timestamp="1522399663505">
         <mark key="'" line="40" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1522402572738">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
         <mark key="[" line="191" column="91" />
         <mark key="]" line="191" column="91" />
         <mark key="." line="191" column="91" />
         <mark key="^" line="191" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522399072523">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="74" />
+        <mark key="^" line="94" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1522303205370">
+        <mark key="'" line="9" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/ViewModel/BNIMenuItemViewModelFactory.m" timestamp="1522290970355">
         <mark key="[" line="27" column="0" />
@@ -71,11 +112,19 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" timestamp="1521799324271">
+        <mark key="'" line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/Router/BNIUrlRouter.h" timestamp="1522314514440">
         <mark key="[" line="35" column="22" />
         <mark key="]" line="35" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Error/BNIErrorCode.h" timestamp="1522219161542" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1522303564462">
+        <mark key="'" line="241" column="18" />
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="82" column="9" />
+        <mark key="." line="82" column="9" />
+      </file>
       <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationAction.h" timestamp="1521095012538">
         <mark key="[" line="49" column="4" />
         <mark key="]" line="49" column="32" />
@@ -92,10 +141,18 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIProductService.m" timestamp="1522062292962">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIReceiptService.m" timestamp="1522119029434">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/PullToRefresh/BNIPullToRefreshView.m" timestamp="1522303597261">
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="11" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPhoneMenuViewController.m" timestamp="1522381825414">
         <mark key="'" line="26" column="0" />
@@ -103,6 +160,10 @@
         <mark key="]" line="26" column="1" />
         <mark key="^" line="24" column="54" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/WhatsNew/WhatsNewService.swift" timestamp="1522234725346">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Extension/ViewController/UIViewController+Error.m" timestamp="1522229862848">
         <mark key="'" line="46" column="0" />
@@ -124,7 +185,15 @@
         <mark key="^" line="67" column="14" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/ViewModel/Error/BNIErrorViewModel.m" timestamp="1522229914979" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Service/BNILocationManager.m" timestamp="1522059658736">
+        <mark key="[" line="48" column="30" />
+        <mark key="]" line="48" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/BNIAppDelegate.m" timestamp="1522399471821">
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="102" />
+        <mark key="." line="302" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIInformationViewController.m" timestamp="1520231007300">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="85" />
@@ -139,80 +208,6 @@
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522142182995">
-        <mark key="'" line="98" column="26" />
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuCellAppearanceSpec.m" timestamp="1522325343216" />
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/Pods/ViewDeck/ViewDeck/IIViewDeckController.h" timestamp="1522394778553" />
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Help/BNIHelpCenterViewControllerFactory.m" timestamp="1522289542173">
-        <mark key="'" line="98" column="33" />
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="63" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuTableViewAppearanceSpec.m" timestamp="1522055972789">
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="39" column="46" />
-        <mark key="." line="39" column="46" />
-        <mark key="^" line="39" column="46" />
-      </file>
-      <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationDelegate.h" timestamp="1521438244998">
-        <mark key="'" line="73" column="77" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/BashoTop/BNIBashoTopViewController.m" timestamp="1522234995468" />
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Service/BNIUserService.m" timestamp="1522058833693">
-        <mark key="[" line="44" column="47" />
-        <mark key="]" line="44" column="46" />
-        <mark key="^" line="44" column="46" />
-        <mark key="." line="44" column="46" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1522394495870">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522399072523">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="74" />
-        <mark key="^" line="94" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1522303205370">
-        <mark key="'" line="9" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" timestamp="1521799324271">
-        <mark key="'" line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1522303564462">
-        <mark key="'" line="241" column="18" />
-        <mark key="[" line="82" column="9" />
-        <mark key="]" line="82" column="9" />
-        <mark key="." line="82" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIProductService.m" timestamp="1522062292962">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/PullToRefresh/BNIPullToRefreshView.m" timestamp="1522303597261">
-        <mark key="[" line="11" column="62" />
-        <mark key="]" line="11" column="88" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/WhatsNew/WhatsNewService.swift" timestamp="1522234725346">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Service/BNILocationManager.m" timestamp="1522059658736">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="48" column="58" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/BNIAppDelegate.m" timestamp="1522399471821">
-        <mark key="[" line="308" column="0" />
-        <mark key="]" line="308" column="102" />
-        <mark key="." line="302" column="58" />
       </file>
     </filemarks>
     <jumps>
@@ -368,25 +363,10 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>delegate</entry>
-        <entry>self.</entry>
-        <entry>loading</entry>
-        <entry>webView</entry>
-        <entry>finish</entry>
-        <entry>should</entry>
-        <entry>deside</entry>
-        <entry>decide</entry>
-        <entry>dev</entry>
-        <entry>dev-</entry>
-        <entry>kUrushiBaseUrl</entry>
-        <entry>policy</entry>
-        <entry>mock</entry>
-        <entry>play</entry>
-        <entry>playHistoryExpire</entry>
         <entry>viewDid</entry>
         <entry>viewdid</entry>
         <entry>SKRReceit</entry>
@@ -409,7 +389,6 @@
         <entry>p_confi</entry>
       </history-search>
       <history-cmd>
-        <entry>85</entry>
         <entry>dw</entry>
         <entry>170</entry>
         <entry>98</entry>
