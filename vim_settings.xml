@@ -62,10 +62,11 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" timestamp="1522397086797">
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="32" />
-        <mark key="." line="53" column="32" />
+      <file name="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" timestamp="1522397151848">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
         <mark key="^" line="53" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
@@ -226,13 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" />
-      <jump line="162" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" />
-      <jump line="140" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" />
-      <jump line="134" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" />
-      <jump line="139" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIStoreManager.m" />
-      <jump line="89" column="82" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="92" column="74" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="123" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="107" column="70" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
@@ -326,13 +320,20 @@
       <jump line="202" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPhoneMenuViewController.m" />
+      <jump line="53" column="32" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
+      <jump line="65" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>zendeskViewController</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>p_confi</text>
@@ -340,32 +341,32 @@
       <register name="0" type="4">
         <text>textView</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBsZXQ=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbWlkZGxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbTlNMYXlvdXRDb25zdHJhaW50IGFjdGl2YXRlQ29uc3RyYWludHM6QFsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LnRvcEFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy50b3BBbmNob3IgY29uc3RhbnQ6MzBdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcuYm90dG9tQW5jaG9yIGNvbnN0cmFpbnRFcXVhbFRvQW5jaG9yOmxnLmJvdHRvbUFuY2hvcl0sCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50cmFpbGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcudHJhaWxpbmdBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcubGVhZGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcubGVhZGluZ0FuY2hvciBjb25zdGFudDpsZWZ0TWFyZ2luXQogICAgICAgICAgICBdXTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWlkZGxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W05TTGF5b3V0Q29uc3RyYWludCBhY3RpdmF0ZUNvbnN0cmFpbnRzOkBbCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50b3BBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6bGcudG9wQW5jaG9yIGNvbnN0YW50OjMwXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmJvdHRvbUFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy5ib3R0b21BbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcudHJhaWxpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LnRyYWlsaW5nQW5jaG9yXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmxlYWRpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LmxlYWRpbmdBbmNob3IgY29uc3RhbnQ6bGVmdE1hcmdpbl0KICAgICAgICAgICAgXV0K</text>
+        <text encoding="base64">ICAgICAgICBbTlNMYXlvdXRDb25zdHJhaW50IGFjdGl2YXRlQ29uc3RyYWludHM6QFsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LnRvcEFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy50b3BBbmNob3IgY29uc3RhbnQ6MzBdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcuYm90dG9tQW5jaG9yIGNvbnN0cmFpbnRFcXVhbFRvQW5jaG9yOmxnLmJvdHRvbUFuY2hvcl0sCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50cmFpbGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcudHJhaWxpbmdBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcubGVhZGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcubGVhZGluZ0FuY2hvciBjb25zdGFudDpsZWZ0TWFyZ2luXQogICAgICAgICAgICBdXTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">W05TTGF5b3V0Q29uc3RyYWludCBhY3RpdmF0ZUNvbnN0cmFpbnRzOkBbCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50b3BBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6bGcudG9wQW5jaG9yIGNvbnN0YW50OjMwXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmJvdHRvbUFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy5ib3R0b21BbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcudHJhaWxpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LnRyYWlsaW5nQW5jaG9yXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmxlYWRpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LmxlYWRpbmdBbmNob3IgY29uc3RhbnQ6bGVmdE1hcmdpbl0KICAgICAgICAgICAgXV0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">W05TTGF5b3V0Q29uc3RyYWludCBhY3RpdmF0ZUNvbnN0cmFpbnRzOkBbCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50b3BBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6bGcudG9wQW5jaG9yIGNvbnN0YW50OjMwXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmJvdHRvbUFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy5ib3R0b21BbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcudHJhaWxpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LnRyYWlsaW5nQW5jaG9yXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmxlYWRpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LmxlYWRpbmdBbmNob3IgY29uc3RhbnQ6bGVmdE1hcmdpbl0KICAgICAgICAgICAgXV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
