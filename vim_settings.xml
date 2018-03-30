@@ -178,11 +178,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522326411617">
-        <mark key="[" line="60" column="17" />
-        <mark key="]" line="60" column="10" />
-        <mark key="^" line="60" column="10" />
-        <mark key="." line="60" column="10" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522393272532">
+        <mark key="[" line="98" column="126" />
+        <mark key="]" line="98" column="127" />
+        <mark key="^" line="98" column="127" />
+        <mark key="." line="98" column="127" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1522303205370">
         <mark key="'" line="9" column="25" />
@@ -325,7 +325,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>leftMargin</text>
       </register>
       <register name="/" type="4">
         <text>p_confi</text>
@@ -361,7 +361,7 @@
         <text encoding="base64">IAog</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -431,8 +431,8 @@
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
         <entry>call append(line('.'), '')</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
