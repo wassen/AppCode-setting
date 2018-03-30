@@ -62,12 +62,12 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" timestamp="1522397151848">
+      <file name="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" timestamp="1522399663505">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="53" column="32" />
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="75" column="40" />
+        <mark key="." line="75" column="40" />
+        <mark key="^" line="75" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
         <mark key="[" line="191" column="91" />
@@ -186,9 +186,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522395012020">
-        <mark key="[" line="98" column="116" />
-        <mark key="]" line="98" column="116" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522399072523">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="74" />
         <mark key="^" line="156" column="12" />
         <mark key="." line="98" column="116" />
       </file>
@@ -220,9 +220,9 @@
         <mark key="[" line="48" column="30" />
         <mark key="]" line="48" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/BNIAppDelegate.m" timestamp="1522325102106">
-        <mark key="[" line="302" column="57" />
-        <mark key="]" line="302" column="58" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/BNIAppDelegate.m" timestamp="1522399471821">
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="102" />
         <mark key="." line="302" column="58" />
       </file>
     </filemarks>
@@ -333,40 +333,40 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>IIViewDeckNoPanning</text>
       </register>
       <register name="/" type="4">
         <text>p_confi</text>
       </register>
-      <register name="0" type="4">
-        <text>textView</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlY2tDb250cm9sbGVyLmNlbnRlcmhpZGRlbkludGVyYWN0aXZpdHkgPSBJSVZpZXdEZWNrQ2VudGVySGlkZGVuTm90VXNlckludGVyYWN0aXZlV2l0aFRhcFRvQ2xvc2U7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBsZXQ=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsZyA9CiAgICAgICAgVUlMYXlvdXRHdWlkZSAqbGcgPSBzZWxmLnZpZXcuc2FmZUFyZWFMYXlvdXRHdWlkZTsKICAgICAgICBbTlNMYXlvdXRDb25zdHJhaW50IGFjdGl2YXRlQ29uc3RyYWludHM6QFsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LnRvcEFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy50b3BBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcuYm90dG9tQW5jaG9yIGNvbnN0cmFpbnRFcXVhbFRvQW5jaG9yOmxnLmJvdHRvbUFuY2hvcl0sCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50cmFpbGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcudHJhaWxpbmdBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcubGVhZGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcubGVhZGluZ0FuY2hvciBjb25zdGFudDpsZWZ0TWFyZ2luXQogICAgICAgICAgICBdXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi50YWJsZVZJZXcudHJhbnNsYXRlc0F1dG9yZXNpemluZ01hc2tJbnRvQ29uc3RyYWludHMgPSBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDR0Zsb2F0IGxlZnRNYXJnaW4gPSA0MC4wOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICB0Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBsZXQ=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbWlkZGxlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbTlNMYXlvdXRDb25zdHJhaW50IGFjdGl2YXRlQ29uc3RyYWludHM6QFsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LnRvcEFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy50b3BBbmNob3IgY29uc3RhbnQ6MzBdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcuYm90dG9tQW5jaG9yIGNvbnN0cmFpbnRFcXVhbFRvQW5jaG9yOmxnLmJvdHRvbUFuY2hvcl0sCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50cmFpbGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcudHJhaWxpbmdBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcubGVhZGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcubGVhZGluZ0FuY2hvciBjb25zdGFudDpsZWZ0TWFyZ2luXQogICAgICAgICAgICBdXTsK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W05TTGF5b3V0Q29uc3RyYWludCBhY3RpdmF0ZUNvbnN0cmFpbnRzOkBbCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50b3BBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6bGcudG9wQW5jaG9yIGNvbnN0YW50OjMwXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmJvdHRvbUFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy5ib3R0b21BbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcudHJhaWxpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LnRyYWlsaW5nQW5jaG9yXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmxlYWRpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LmxlYWRpbmdBbmNob3IgY29uc3RhbnQ6bGVmdE1hcmdpbl0KICAgICAgICAgICAgXV0K</text>
+        <text encoding="base64">CiAgICAgICAgawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W05TTGF5b3V0Q29uc3RyYWludCBhY3RpdmF0ZUNvbnN0cmFpbnRzOkBbCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50b3BBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6bGcudG9wQW5jaG9yIGNvbnN0YW50OjMwXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmJvdHRvbUFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy5ib3R0b21BbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcudHJhaWxpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LnRyYWlsaW5nQW5jaG9yXSwKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LmxlYWRpbmdBbmNob3IgY29uc3RyYWludEVxdWFsVG9BbmNob3I6c2VsZi52aWV3LmxlYWRpbmdBbmNob3IgY29uc3RhbnQ6bGVmdE1hcmdpbl0KICAgICAgICAgICAgXV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
