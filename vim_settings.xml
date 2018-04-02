@@ -54,11 +54,11 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522663760449">
-        <mark key="[" line="305" column="4" />
-        <mark key="]" line="305" column="4" />
-        <mark key="." line="305" column="4" />
-        <mark key="^" line="305" column="89" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522667190033">
+        <mark key="[" line="310" column="48" />
+        <mark key="]" line="310" column="54" />
+        <mark key="." line="310" column="54" />
+        <mark key="^" line="310" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521539862151">
         <mark key="'" line="44" column="0" />
@@ -93,7 +93,7 @@
       <file name="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" timestamp="1522399663505">
         <mark key="'" line="40" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522402572738">
+      <file name="/Dummy.txt" timestamp="1522666513401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -200,6 +200,14 @@
         <mark key="]" line="308" column="102" />
         <mark key="." line="302" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522666689396">
+        <mark key="p" line="287" column="11" />
+        <mark key="'" line="286" column="11" />
+        <mark key="[" line="285" column="8" />
+        <mark key="]" line="285" column="48" />
+        <mark key="^" line="287" column="72" />
+        <mark key="." line="287" column="72" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIInformationViewController.m" timestamp="1520231007300">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="85" />
@@ -217,9 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="74" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
-      <jump line="123" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
-      <jump line="107" column="70" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="106" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="101" column="22" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="99" column="30" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
@@ -317,46 +322,49 @@
       <jump line="49" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Menu/BNIMenuViewController.m" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Menu/BNIMenuViewController.m" />
+      <jump line="286" column="11" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Menu/BNIMenuViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>Dismiss</text>
       </register>
       <register name="/" type="4">
         <text>p_confi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlY2tDb250cm9sbGVyLmNlbnRlcmhpZGRlbkludGVyYWN0aXZpdHkgPSBJSVZpZXdEZWNrQ2VudGVySGlkZGVuTm90VXNlckludGVyYWN0aXZlV2l0aFRhcFRvQ2xvc2U7Cg==</text>
+        <text encoding="base64">ICAgIFNpZGVNZW51TWFuYWdlci5kZWZhdWx0TWFuYWdlci5tZW51QW5pbWF0aW9uRGlzbWlzc0R1cmF0aW9uID0gMC4zNTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1lbnVBbmltYXRpb25EaXNtaXNzRHVyYXRpb246IERvdWJsZSA9IDAuMzUK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZyA9CiAgICAgICAgVUlMYXlvdXRHdWlkZSAqbGcgPSBzZWxmLnZpZXcuc2FmZUFyZWFMYXlvdXRHdWlkZTsKICAgICAgICBbTlNMYXlvdXRDb25zdHJhaW50IGFjdGl2YXRlQ29uc3RyYWludHM6QFsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LnRvcEFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy50b3BBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcuYm90dG9tQW5jaG9yIGNvbnN0cmFpbnRFcXVhbFRvQW5jaG9yOmxnLmJvdHRvbUFuY2hvcl0sCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50cmFpbGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcudHJhaWxpbmdBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcubGVhZGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcubGVhZGluZ0FuY2hvciBjb25zdGFudDpsZWZ0TWFyZ2luXQogICAgICAgICAgICBdXTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi50YWJsZVZJZXcudHJhbnNsYXRlc0F1dG9yZXNpemluZ01hc2tJbnRvQ29uc3RyYWludHMgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBsZyA9CiAgICAgICAgVUlMYXlvdXRHdWlkZSAqbGcgPSBzZWxmLnZpZXcuc2FmZUFyZWFMYXlvdXRHdWlkZTsKICAgICAgICBbTlNMYXlvdXRDb25zdHJhaW50IGFjdGl2YXRlQ29uc3RyYWludHM6QFsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LnRvcEFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy50b3BBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcuYm90dG9tQW5jaG9yIGNvbnN0cmFpbnRFcXVhbFRvQW5jaG9yOmxnLmJvdHRvbUFuY2hvcl0sCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50cmFpbGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcudHJhaWxpbmdBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcubGVhZGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcubGVhZGluZ0FuY2hvciBjb25zdGFudDpsZWZ0TWFyZ2luXQogICAgICAgICAgICBdXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDR0Zsb2F0IGxlZnRNYXJnaW4gPSA0MC4wOwo=</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi50YWJsZVZJZXcudHJhbnNsYXRlc0F1dG9yZXNpemluZ01hc2tJbnRvQ29uc3RyYWludHMgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDR0Zsb2F0IGxlZnRNYXJnaW4gPSA0MC4wOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAKICAgICAgICBsZXQ=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
