@@ -54,11 +54,11 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522667190033">
-        <mark key="[" line="310" column="48" />
-        <mark key="]" line="310" column="54" />
-        <mark key="." line="310" column="54" />
-        <mark key="^" line="310" column="54" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522734944614">
+        <mark key="[" line="313" column="72" />
+        <mark key="]" line="313" column="71" />
+        <mark key="^" line="313" column="71" />
+        <mark key="." line="313" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521539862151">
         <mark key="'" line="44" column="0" />
@@ -331,13 +331,13 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Dismiss</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>p_confi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNpZGVNZW51TWFuYWdlci5kZWZhdWx0TWFuYWdlci5tZW51QW5pbWF0aW9uRGlzbWlzc0R1cmF0aW9uID0gMC4zNTsK</text>
+        <text encoding="base64">ICAgIFNpZGVNZW51TWFuYWdlci5kZWZhdWx0TWFuYWdlci5tZW51QW5pbWF0aW9uQ29tcGxldGVHZXN0dXJlRHVyYXRpb24gPSAwLjAxOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1lbnVBbmltYXRpb25EaXNtaXNzRHVyYXRpb246IERvdWJsZSA9IDAuMzUK</text>
