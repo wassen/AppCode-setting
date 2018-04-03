@@ -54,6 +54,13 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522752122932">
+        <mark key="'" line="25" column="12" />
+        <mark key="[" line="311" column="80" />
+        <mark key="]" line="311" column="85" />
+        <mark key="." line="311" column="85" />
+        <mark key="^" line="311" column="85" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521539862151">
         <mark key="'" line="44" column="0" />
       </file>
@@ -227,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
-      <jump line="101" column="22" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
-      <jump line="99" column="30" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="98" column="26" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" />
       <jump line="211" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" />
       <jump line="227" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" />
@@ -327,59 +331,62 @@
       <jump line="33" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Menu/BNIMenuViewController.m" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Menu/BNIMenuViewController.m" />
       <jump line="286" column="11" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Menu/BNIMenuViewController.m" />
+      <jump line="369" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
+      <jump line="81" column="92" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
+      <jump line="25" column="12" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>menuAddPanGestureToPresentToView</text>
       </register>
       <register name="/" type="4">
-        <text>p_confi</text>
+        <text>phone</text>
       </register>
       <register name="0" type="4">
-        <text>BNIKakuzukeSwipeTutorialViewController</text>
+        <text>menuAddScreenEdgePanGesturesToPresent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZiBwX2NvbmZpZ3VyZVNpZGVNZW51Q29udHJvbGxlckRlbGVnYXRlXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgaWYoIXBhcmVudCkgeyAvLyDliYrpmaTmmYIKLy8gICAgICAgIFtzZWxmIHBfY2xlYXJEZWNrQ29udHJvbGxlckRlbGVnYXRlXTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIFZpZXdEZWNrQ29udHJvbGxlcuOBrmRlbGVnYXRl44KS55m76YyyCiAqLwotICh2b2lkKXBfY29uZmlndXJlU2lkZU1lbnVDb250cm9sbGVyRGVsZWdhdGUgewogICAgU2lkZU1lbnVNYW5hZ2VyLmRlZmF1bHRNYW5hZ2VyLm1lbnVSaWdodE5hdmlnYXRpb25Db250cm9sbGVyLnNpZGVNZW51RGVsZWdhdGUgPSBzZWxmOwp9Cgo=</text>
+        <text encoding="base64">Ly8gICAgSUlWaWV3RGVja0NvbnRyb2xsZXIgKmRlY2tDb250cm9sbGVyID0gW1tJSVZpZXdEZWNrQ29udHJvbGxlciBhbGxvY10gaW5pdFdpdGhDZW50ZXJWaWV3Q29udHJvbGxlcjpuYXZpZ2F0aW9uQ29udHJvbGxlcgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGVmdFZpZXdDb250cm9sbGVyOm5pbAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByaWdodFZpZXdDb250cm9sbGVyOm1lbnVWaWV3Q29udHJvbGxlcl07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSAodm9pZClwX2NsZWFyU2lkZU1lbnVDb250cm9sbGVyRGVsZWdhdGUgewogICAgLy8g44GE44KL44Gu44GL44KP44GL44KJ44KTCiAgICAvLyBWaWV3RGVja+OBruaZguOBr+ODoeODouODquWPgueFp+OCqOODqeODvOOBjOWHuuOBn+OCieOBl+OBhOOBjAo=</text>
+        <text encoding="base64">ICAgIFNpZGVNZW51TWFuYWdlci5tZW51UmlnaHROYXZpZ2F0aW9uQ29udHJvbGxlciAgICAgPSBbW1VJU2lkZU1lbnVOYXZpZ2F0aW9uQ29udHJvbGxlciBhbGxvY10gaW5pdFdpdGhSb290Vmlld0NvbnRyb2xsZXI6bWVudVZpZXdDb250cm9sbGVyXTsKICAgIFNpZGVNZW51TWFuYWdlci5kZWZhdWx0TWFuYWdlci5tZW51UmlnaHROYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0aW9uQmFySGlkZGVuID0gWUVTOwogICAgU2lkZU1lbnVNYW5hZ2VyLmRlZmF1bHRNYW5hZ2VyLm1lbnVQcmVzZW50TW9kZSAgID0gTWVudVByZXNlbnRNb2RlVmlld1NsaWRlT3V0OwogICAgU2lkZU1lbnVNYW5hZ2VyLmRlZmF1bHRNYW5hZ2VyLm1lbnVGYWRlU3RhdHVzQmFyID0gTk87CiAgICAvLyBUT0RPOiBuYW9zZQogICAgU2lkZU1lbnVNYW5hZ2VyLmRlZmF1bHRNYW5hZ2VyLm1lbnVXaWR0aCAgICAgICAgID0gMzAwOwovLyAgICBTaWRlTWVudU1hbmFnZXIuZGVmYXVsdE1hbmFnZXIubWVudUFuaW1hdGlvblByZXNlbnREdXJhdGlvbiA9IDAuMTA7Ci8vICAgIFNpZGVNZW51TWFuYWdlci5kZWZhdWx0TWFuYWdlci5tZW51QW5pbWF0aW9uRGlzbWlzc0R1cmF0aW9uID0gMC4xMDsKLy8gICAgU2lkZU1lbnVNYW5hZ2VyLmRlZmF1bHRNYW5hZ2VyLm1lbnVBbmltYXRpb25Db21wbGV0ZUdlc3R1cmVEdXJhdGlvbiA9IDAuMDE7CiAgICBbU2lkZU1lbnVNYW5hZ2VyLmRlZmF1bHRNYW5hZ2VyIG1lbnVBZGRQYW5HZXN0dXJlVG9QcmVzZW50VG9WaWV3OnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIudmlld107Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgU2lkZU1lbnVNYW5hZ2VyLmRlZmF1bHRNYW5hZ2VyLm1lbnVSaWdodE5hdmlnYXRpb25Db250cm9sbGVyLnNpZGVNZW51RGVsZWdhdGUgPSBuaWw7Cn0K</text>
+        <text encoding="base64">Ly8gICAgZGVja0NvbnRyb2xsZXIuY2VudGVyaGlkZGVuSW50ZXJhY3Rpdml0eSA9IElJVmlld0RlY2tDZW50ZXJIaWRkZW5Ob3RVc2VySW50ZXJhY3RpdmVXaXRoVGFwVG9DbG9zZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vLSAodm9pZCl2aWV3RGVja0NvbnRyb2xsZXI6KElJVmlld0RlY2tDb250cm9sbGVyICopdmlld0RlY2tDb250cm9sbGVyIGRpZENsb3NlVmlld1NpZGU6KElJVmlld0RlY2tTaWRlKXZpZXdEZWNrU2lkZSBhbmltYXRlZDooQk9PTClhbmltYXRlZCB7Ci8vICAgIC8vIHZpZXdEZWNr5Yip55So5pmC44Gr44Gv44Kw44Ot44O844OQ44Or44Oh44OL44Ol44O844GM6ZaL6ZaJ44GX44Gf6Zqb44GrY29udGVudFZpZXfjgajjga7luqfmqJnjga7lt67nlbDjgYznmbrnlJ/jgZnjgovjga7jgafjgIHmoLzku5jjgZHjgYzmtojjgYjjgovml6jjga7ooajoqJjjga7kvY3nva7jgpLlho3oqr/mlbTjgZnjgovlv4XopoHjgYzjgYLjgosKLy8gICAgW3NlbGYgcF9hZGp1c3RLYWt1enVrZVN3aXBlRGVzY3JpcHRpb25WaWV3RnJhbWVdOwovL30K</text>
+        <text encoding="base64">ICAgIAovLyAgICBkZWNrQ29udHJvbGxlci5wYW5uaW5nTW9kZSA9IElJVmlld0RlY2tOb1Bhbm5pbmc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1lbnVBbmltYXRpb25EaXNtaXNzRHVyYXRpb246IERvdWJsZSA9IDAuMzUK</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZiBwX2NvbmZpZ3VyZVNpZGVNZW51Q29udHJvbGxlckRlbGVnYXRlXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgaWYoIXBhcmVudCkgeyAvLyDliYrpmaTmmYIKLy8gICAgICAgIFtzZWxmIHBfY2xlYXJEZWNrQ29udHJvbGxlckRlbGVnYXRlXTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>p_confi</last-search>
+      <last-search>phone</last-search>
       <last-offset />
-      <last-pattern>p_confi</last-pattern>
+      <last-pattern>phone</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -403,6 +410,7 @@
         <entry>@available</entry>
         <entry>p_</entry>
         <entry>p_confi</entry>
+        <entry>phone</entry>
       </history-search>
       <history-cmd>
         <entry>dw</entry>
@@ -423,8 +431,8 @@
         <entry>set nopaste</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>call append(line('.'), '')</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
