@@ -87,10 +87,16 @@
       <file name="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" timestamp="1522399663505">
         <mark key="'" line="40" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522666513401">
+      <file name="/Dummy.txt" timestamp="1522748083983">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipeTutorial/BNIKakuzukeSwipeTutorialViewController.h" timestamp="1522748559484">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="79" />
+        <mark key="." line="4" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
         <mark key="[" line="191" column="91" />
@@ -327,8 +333,8 @@
       <register name="/" type="4">
         <text>p_confi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFNpZGVNZW51TWFuYWdlci5kZWZhdWx0TWFuYWdlci5tZW51QW5pbWF0aW9uQ29tcGxldGVHZXN0dXJlRHVyYXRpb24gPSAwLjAxOwo=</text>
+      <register name="0" type="4">
+        <text>BNIKakuzukeSwipeTutorialViewController</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1lbnVBbmltYXRpb25EaXNtaXNzRHVyYXRpb246IERvdWJsZSA9IDAuMzUK</text>
