@@ -92,11 +92,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipeTutorial/BNIKakuzukeSwipeTutorialViewController.h" timestamp="1522748559484">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="48" />
-        <mark key="^" line="4" column="79" />
-        <mark key="." line="4" column="79" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipeTutorial/BNIKakuzukeSwipeTutorialViewController.h" timestamp="1522749910229">
+        <mark key="[" line="4" column="77" />
+        <mark key="]" line="4" column="77" />
+        <mark key="^" line="4" column="117" />
+        <mark key="." line="4" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
         <mark key="[" line="191" column="91" />
@@ -150,6 +150,11 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIProductService.m" timestamp="1522062292962">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipeTutorial/BNIKakuzukeSwipeTutorialViewController.m" timestamp="1522749901500">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNIReceiptService.m" timestamp="1522119029434">
         <mark key="[" line="14" column="0" />
@@ -337,34 +342,34 @@
         <text>BNIKakuzukeSwipeTutorialViewController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lbnVBbmltYXRpb25EaXNtaXNzRHVyYXRpb246IERvdWJsZSA9IDAuMzUK</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZiBwX2NvbmZpZ3VyZVNpZGVNZW51Q29udHJvbGxlckRlbGVnYXRlXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgaWYoIXBhcmVudCkgeyAvLyDliYrpmaTmmYIKLy8gICAgICAgIFtzZWxmIHBfY2xlYXJEZWNrQ29udHJvbGxlckRlbGVnYXRlXTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZyA9CiAgICAgICAgVUlMYXlvdXRHdWlkZSAqbGcgPSBzZWxmLnZpZXcuc2FmZUFyZWFMYXlvdXRHdWlkZTsKICAgICAgICBbTlNMYXlvdXRDb25zdHJhaW50IGFjdGl2YXRlQ29uc3RyYWludHM6QFsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3LnRvcEFuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpsZy50b3BBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcuYm90dG9tQW5jaG9yIGNvbnN0cmFpbnRFcXVhbFRvQW5jaG9yOmxnLmJvdHRvbUFuY2hvcl0sCiAgICAgICAgICAgIFtzZWxmLnRhYmxlVmlldy50cmFpbGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcudHJhaWxpbmdBbmNob3JdLAogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcubGVhZGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcubGVhZGluZ0FuY2hvciBjb25zdGFudDpsZWZ0TWFyZ2luXQogICAgICAgICAgICBdXTsK</text>
+        <text encoding="base64">LyoqCiAqIFZpZXdEZWNrQ29udHJvbGxlcuOBrmRlbGVnYXRl44KS55m76YyyCiAqLwotICh2b2lkKXBfY29uZmlndXJlU2lkZU1lbnVDb250cm9sbGVyRGVsZWdhdGUgewogICAgU2lkZU1lbnVNYW5hZ2VyLmRlZmF1bHRNYW5hZ2VyLm1lbnVSaWdodE5hdmlnYXRpb25Db250cm9sbGVyLnNpZGVNZW51RGVsZWdhdGUgPSBzZWxmOwp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi50YWJsZVZJZXcudHJhbnNsYXRlc0F1dG9yZXNpemluZ01hc2tJbnRvQ29uc3RyYWludHMgPSBmYWxzZTsK</text>
+        <text encoding="base64">LSAodm9pZClwX2NsZWFyU2lkZU1lbnVDb250cm9sbGVyRGVsZWdhdGUgewogICAgLy8g44GE44KL44Gu44GL44KP44GL44KJ44KTCiAgICAvLyBWaWV3RGVja+OBruaZguOBr+ODoeODouODquWPgueFp+OCqOODqeODvOOBjOWHuuOBn+OCieOBl+OBhOOBjAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDR0Zsb2F0IGxlZnRNYXJnaW4gPSA0MC4wOwo=</text>
+        <text encoding="base64">Ly8gICAgU2lkZU1lbnVNYW5hZ2VyLmRlZmF1bHRNYW5hZ2VyLm1lbnVSaWdodE5hdmlnYXRpb25Db250cm9sbGVyLnNpZGVNZW51RGVsZWdhdGUgPSBuaWw7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0Cg==</text>
+        <text encoding="base64">Ci8vLSAodm9pZCl2aWV3RGVja0NvbnRyb2xsZXI6KElJVmlld0RlY2tDb250cm9sbGVyICopdmlld0RlY2tDb250cm9sbGVyIGRpZENsb3NlVmlld1NpZGU6KElJVmlld0RlY2tTaWRlKXZpZXdEZWNrU2lkZSBhbmltYXRlZDooQk9PTClhbmltYXRlZCB7Ci8vICAgIC8vIHZpZXdEZWNr5Yip55So5pmC44Gr44Gv44Kw44Ot44O844OQ44Or44Oh44OL44Ol44O844GM6ZaL6ZaJ44GX44Gf6Zqb44GrY29udGVudFZpZXfjgajjga7luqfmqJnjga7lt67nlbDjgYznmbrnlJ/jgZnjgovjga7jgafjgIHmoLzku5jjgZHjgYzmtojjgYjjgovml6jjga7ooajoqJjjga7kvY3nva7jgpLlho3oqr/mlbTjgZnjgovlv4XopoHjgYzjgYLjgosKLy8gICAgW3NlbGYgcF9hZGp1c3RLYWt1enVrZVN3aXBlRGVzY3JpcHRpb25WaWV3RnJhbWVdOwovL30K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBsZXQ=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1lbnVBbmltYXRpb25EaXNtaXNzRHVyYXRpb246IERvdWJsZSA9IDAuMzUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -408,7 +413,6 @@
         <entry>x</entry>
         <entry>d</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>w;w</entry>
         <entry>bn</entry>
         <entry>25</entry>
@@ -420,6 +424,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
