@@ -66,6 +66,12 @@
       <file name="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" timestamp="1522399663505">
         <mark key="'" line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/BNITanimachiViewController.m" timestamp="1522824257557">
+        <mark key="[" line="104" column="15" />
+        <mark key="]" line="104" column="14" />
+        <mark key="." line="104" column="14" />
+        <mark key="^" line="104" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.m" timestamp="1521444848362">
         <mark key="[" line="191" column="91" />
         <mark key="]" line="191" column="91" />
@@ -358,7 +364,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>menuLeftNavigationController</text>
+        <text>showModalLoadingAnimation</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
