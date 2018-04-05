@@ -35,12 +35,12 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522898845337">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522907682044">
         <mark key="'" line="1" column="4" />
-        <mark key="[" line="312" column="108" />
-        <mark key="]" line="312" column="108" />
-        <mark key="." line="312" column="108" />
-        <mark key="^" line="312" column="46" />
+        <mark key="[" line="313" column="29" />
+        <mark key="]" line="313" column="31" />
+        <mark key="." line="313" column="31" />
+        <mark key="^" line="313" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521539862151">
         <mark key="'" line="44" column="0" />
@@ -134,8 +134,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" timestamp="1522904180516">
+      <file name="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" timestamp="1522907651208">
         <mark key="'" line="343" column="33" />
+        <mark key="[" line="348" column="40" />
+        <mark key="]" line="348" column="59" />
+        <mark key="." line="348" column="11" />
+        <mark key="^" line="348" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPhoneMenuViewController.m" timestamp="1522381825414">
         <mark key="'" line="26" column="0" />
@@ -375,13 +379,13 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>menuAdd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFVJU2NyZWVuLm1haW5TY3JlZW4K</text>
+      <register name="0" type="4">
+        <text>cancelsTouchesInView</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIuaW50ZXJhY3RpdmVQb3BHZXN0dXJlUmVjb2duaXplci5kZWxlZ2F0ZSA9IHNlbGY7Cg==</text>
