@@ -35,11 +35,11 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522898000979">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522898845337">
         <mark key="'" line="1" column="4" />
-        <mark key="[" line="312" column="47" />
-        <mark key="]" line="312" column="47" />
-        <mark key="." line="312" column="47" />
+        <mark key="[" line="312" column="108" />
+        <mark key="]" line="312" column="108" />
+        <mark key="." line="312" column="108" />
         <mark key="^" line="312" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521539862151">
@@ -377,7 +377,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>gesture</text>
