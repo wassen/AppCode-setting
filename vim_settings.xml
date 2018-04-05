@@ -234,7 +234,8 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" timestamp="1521799324271">
         <mark key="'" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.m" timestamp="1522911978730">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.m" timestamp="1522912667609">
+        <mark key="'" line="104" column="64" />
         <mark key="[" line="109" column="134" />
         <mark key="]" line="109" column="135" />
         <mark key="^" line="109" column="135" />
@@ -279,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="25" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
@@ -379,6 +379,7 @@
       <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" />
       <jump line="361" column="41" filename="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" />
       <jump line="343" column="33" filename="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" />
+      <jump line="104" column="64" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -388,7 +389,7 @@
         <text>interactivePopGestureRecognizer</text>
       </register>
       <register name="/" type="4">
-        <text>menuAdd</text>
+        <text>scro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbc2VsZi5rYWt1enVrZVNjcm9sbFZpZXcucGFuR2VzdHVyZVJlY29nbml6ZXIgcmVxdWlyZUdlc3R1cmVSZWNvZ25pemVyVG9GYWlsOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIuaW50ZXJhY3RpdmVQb3BHZXN0dXJlUmVjb2duaXplcl07CiAgICAgICAgW3NlbGYuY29udGVudFNjcm9sbFZpZXcucGFuR2VzdHVyZVJlY29nbml6ZXIgcmVxdWlyZUdlc3R1cmVSZWNvZ25pemVyVG9GYWlsOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIuaW50ZXJhY3RpdmVQb3BHZXN0dXJlUmVjb2duaXplcl07Cg==</text>
@@ -425,9 +426,9 @@
       </register>
     </registers>
     <search>
-      <last-search>menuAdd</last-search>
+      <last-search>scro</last-search>
       <last-offset />
-      <last-pattern>menuAdd</last-pattern>
+      <last-pattern>scro</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -465,6 +466,7 @@
         <entry encoding="base64">TlNEYXRhIA==</entry>
         <entry>gesture</entry>
         <entry>menuAdd</entry>
+        <entry>scro</entry>
       </history-search>
       <history-cmd>
         <entry>dw</entry>
