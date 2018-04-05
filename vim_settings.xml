@@ -134,6 +134,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" timestamp="1522904180516">
+        <mark key="'" line="343" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPhoneMenuViewController.m" timestamp="1522381825414">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="26" column="0" />
@@ -216,11 +219,6 @@
         <mark key="^" line="4" column="117" />
         <mark key="." line="4" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522399072523">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="74" />
-        <mark key="^" line="94" column="12" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1522303205370">
         <mark key="'" line="9" column="25" />
       </file>
@@ -271,9 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" />
-      <jump line="26" column="52" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" />
       <jump line="9" column="25" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
@@ -371,6 +366,9 @@
       <jump line="84" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
       <jump line="117" column="57" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
       <jump line="116" column="39" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" />
+      <jump line="361" column="41" filename="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" />
+      <jump line="343" column="33" filename="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -380,7 +378,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>gesture</text>
+        <text>menuAdd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVJU2NyZWVuLm1haW5TY3JlZW4K</text>
@@ -417,9 +415,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gesture</last-search>
+      <last-search>menuAdd</last-search>
       <last-offset />
-      <last-pattern>gesture</last-pattern>
+      <last-pattern>menuAdd</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -456,6 +454,7 @@
         <entry>size</entry>
         <entry encoding="base64">TlNEYXRhIA==</entry>
         <entry>gesture</entry>
+        <entry>menuAdd</entry>
       </history-search>
       <history-cmd>
         <entry>dw</entry>
