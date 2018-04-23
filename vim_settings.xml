@@ -69,6 +69,9 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="89" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" timestamp="1524476083263">
+        <mark key="'" line="34" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/Router/BNIUrlRouter.m" timestamp="1522314209845">
         <mark key="[" line="30" column="70" />
         <mark key="]" line="30" column="3" />
@@ -166,6 +169,11 @@
         <mark key="^" line="67" column="14" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Tracking/TrackerWrapper.swift" timestamp="1524476529728">
+        <mark key="[" line="75" column="54" />
+        <mark key="]" line="75" column="54" />
+        <mark key="." line="75" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/BNIInformationViewController.m" timestamp="1520231007300">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="85" />
@@ -217,7 +225,6 @@
         <mark key="^" line="44" column="46" />
         <mark key="." line="44" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/NotificationService/NotificationService.swift" timestamp="1522834337337" />
       <file name="/Dummy.txt" timestamp="1522916024327">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -232,7 +239,6 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1522303205370">
         <mark key="'" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Repository/BNIUrushiApiRepository.m" timestamp="1522825689959" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.swift" timestamp="1522918793077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -289,28 +295,11 @@
         <mark key="]" line="308" column="102" />
         <mark key="." line="302" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1522810440638">
-        <mark key="p" line="13" column="11" />
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="79" />
-        <mark key="^" line="220" column="77" />
-        <mark key="." line="220" column="77" />
-      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Util/Http/BNIJsonHttpRequest.m" timestamp="1522825865726">
         <mark key="'" line="32" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="92" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="80" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="218" column="5" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="130" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="242" column="42" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="37" column="28" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="82" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="119" column="59" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
@@ -402,16 +391,25 @@
       <jump line="7" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/NavigationController+extension.swift" />
       <jump line="20" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
       <jump line="9" column="11" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.h" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
+      <jump line="19" column="23" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
+      <jump line="21" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
+      <jump line="25" column="9" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
+      <jump line="26" column="66" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
+      <jump line="29" column="29" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
+      <jump line="30" column="70" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
+      <jump line="33" column="31" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
+      <jump line="34" column="68" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>shouldBeRequiredToFailBy</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>gesture</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jIGdlc3R1cmVSZWNvZ25pemVyKF8gZ2VzdHVyZVJlY29nbml6ZXI6IFVJR2VzdHVyZVJlY29nbml6ZXIsIHNob3VsZEJlUmVxdWlyZWRUb0ZhaWxCeSBvdGhlckdlc3R1cmVSZWNvZ25pemVyOiBVSUdlc3R1cmVSZWNvZ25pemVyKSAtPiBCb29sIHsKICAgICAgICByZXR1cm4gdHJ1ZQogICAgfQo=</text>
@@ -448,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gesture</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>gesture</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -458,17 +456,6 @@
     </search>
     <history>
       <history-search>
-        <entry>viewDid</entry>
-        <entry>viewdid</entry>
-        <entry>SKRReceit</entry>
-        <entry>SKRReceipt</entry>
-        <entry>receipt</entry>
-        <entry>SVProgressHUD</entry>
-        <entry>unregister</entry>
-        <entry>DWM</entry>
-        <entry>bninetwork</entry>
-        <entry>bni</entry>
-        <entry>dwm</entry>
         <entry>SSPullToRefreshView</entry>
         <entry>SSPull</entry>
         <entry>SS</entry>
@@ -489,9 +476,9 @@
         <entry>menuAdd</entry>
         <entry>scro</entry>
         <entry>gesture</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
-        <entry>dw</entry>
         <entry>170</entry>
         <entry>98</entry>
         <entry>!gs</entry>
