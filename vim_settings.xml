@@ -51,6 +51,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Operation/OperationManager.swift" timestamp="1524554225337" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/CommonFramework/Module/Http/JsonHttpRequestOperation.swift" timestamp="1522826564578">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="55" />
@@ -169,6 +170,12 @@
         <mark key="^" line="67" column="14" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" timestamp="1524554032046">
+        <mark key="'" line="37" column="64" />
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="8" />
+        <mark key="." line="71" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Tracking/TrackerWrapper.swift" timestamp="1524476529728">
         <mark key="[" line="75" column="54" />
         <mark key="]" line="75" column="54" />
@@ -225,7 +232,7 @@
         <mark key="^" line="44" column="46" />
         <mark key="." line="44" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522916024327">
+      <file name="/Dummy.txt" timestamp="1524554248747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -300,9 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="28" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="82" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="119" column="59" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="126" column="42" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="241" column="18" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
       <jump line="130" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
@@ -400,16 +404,19 @@
       <jump line="30" column="70" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
       <jump line="33" column="31" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
       <jump line="34" column="68" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
+      <jump line="36" column="25" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
+      <jump line="71" column="39" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
+      <jump line="37" column="64" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>as!</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jIGdlc3R1cmVSZWNvZ25pemVyKF8gZ2VzdHVyZVJlY29nbml6ZXI6IFVJR2VzdHVyZVJlY29nbml6ZXIsIHNob3VsZEJlUmVxdWlyZWRUb0ZhaWxCeSBvdGhlckdlc3R1cmVSZWNvZ25pemVyOiBVSUdlc3R1cmVSZWNvZ25pemVyKSAtPiBCb29sIHsKICAgICAgICByZXR1cm4gdHJ1ZQogICAgfQo=</text>
@@ -446,9 +453,9 @@
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>as!</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>as!</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SSPullToRefreshView</entry>
         <entry>SSPull</entry>
         <entry>SS</entry>
         <entry>SSP</entry>
@@ -477,6 +483,7 @@
         <entry>scro</entry>
         <entry>gesture</entry>
         <entry>id</entry>
+        <entry>as!</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
@@ -498,6 +505,7 @@
         <entry>wq</entry>
         <entry>8</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>BLAME</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
