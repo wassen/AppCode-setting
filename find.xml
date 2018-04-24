@@ -3,11 +3,8 @@
     <option name="customScope" value="Project and Frameworks" />
     <option name="defaultScopeName" value="Project and Frameworks" />
     <option name="SEARCH_SCOPE" value="Project and Frameworks" />
+    <option name="FILE_MASK" value="*.swift" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
-      <mask>*.x</mask>
       <mask>*.xc</mask>
       <mask>*.xccon</mask>
       <mask>*.xcconfig</mask>
@@ -32,8 +29,12 @@
       <mask>*.m, *,</mask>
       <mask>*.m,</mask>
       <mask>*.m</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.swif</mask>
+      <mask>.swift</mask>
+      <mask>*.swift</mask>
     </recentFileMasks>
   </component>
 </application>
