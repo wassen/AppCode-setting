@@ -38,6 +38,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1524567283847">
+        <mark key="[" line="122" column="4" />
+        <mark key="]" line="122" column="6" />
+        <mark key="." line="122" column="6" />
+        <mark key="^" line="122" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" timestamp="1524555495565">
         <mark key="'" line="41" column="23" />
       </file>
@@ -174,8 +180,12 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" timestamp="1524555379607">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" timestamp="1524567457510">
         <mark key="'" line="31" column="20" />
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Tracking/TrackerWrapper.swift" timestamp="1524476529728">
         <mark key="[" line="75" column="54" />
@@ -235,7 +245,7 @@
         <mark key="]" line="259" column="39" />
         <mark key="." line="259" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524564674432">
+      <file name="/Dummy.txt" timestamp="1524567186397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -293,6 +303,12 @@
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="102" />
         <mark key="." line="302" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Base/ColumnTableViewSection.swift" timestamp="1524567442087">
+        <mark key="[" line="145" column="10" />
+        <mark key="]" line="145" column="12" />
+        <mark key="." line="145" column="12" />
+        <mark key="^" line="145" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Util/Http/BNIJsonHttpRequest.m" timestamp="1522825865726">
         <mark key="'" line="32" column="0" />
@@ -405,7 +421,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>delegate</text>
