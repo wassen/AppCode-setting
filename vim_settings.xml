@@ -35,6 +35,9 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" timestamp="1524555495565">
+        <mark key="'" line="41" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522907682044">
         <mark key="'" line="1" column="4" />
         <mark key="[" line="313" column="29" />
@@ -170,11 +173,14 @@
         <mark key="^" line="67" column="14" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" timestamp="1524554032046">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" timestamp="1524555714604">
         <mark key="'" line="37" column="64" />
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="8" />
-        <mark key="." line="71" column="8" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" timestamp="1524555379607">
+        <mark key="'" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Tracking/TrackerWrapper.swift" timestamp="1524476529728">
         <mark key="[" line="75" column="54" />
@@ -216,6 +222,9 @@
       <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h" timestamp="1522810323310">
         <mark key="'" line="71" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" timestamp="1524555181656">
+        <mark key="'" line="33" column="90" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Purchase/BNIStoreManager.m" timestamp="1522825002660">
         <mark key="'" line="140" column="0" />
       </file>
@@ -232,7 +241,7 @@
         <mark key="^" line="44" column="46" />
         <mark key="." line="44" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524554248747">
+      <file name="/Dummy.txt" timestamp="1524555663042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -261,6 +270,11 @@
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.h" timestamp="1521799324271">
         <mark key="'" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Tracking/TimingMeasurer.swift" timestamp="1524555660403">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.h" timestamp="1522919321279">
         <mark key="'" line="22" column="30" />
@@ -307,12 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="42" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="241" column="18" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/Base/BNIWebViewController.m" />
-      <jump line="130" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
-      <jump line="170" column="21" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
-      <jump line="171" column="42" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
-      <jump line="196" column="15" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
       <jump line="199" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
       <jump line="217" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
       <jump line="202" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Video/BNIVideoPlayerViewController.m" />
@@ -407,6 +415,12 @@
       <jump line="36" column="25" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
       <jump line="71" column="39" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
       <jump line="37" column="64" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
+      <jump line="33" column="90" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
+      <jump line="24" column="106" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
+      <jump line="31" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" />
+      <jump line="41" column="23" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -416,7 +430,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>as!</text>
+        <text>Route</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jIGdlc3R1cmVSZWNvZ25pemVyKF8gZ2VzdHVyZVJlY29nbml6ZXI6IFVJR2VzdHVyZVJlY29nbml6ZXIsIHNob3VsZEJlUmVxdWlyZWRUb0ZhaWxCeSBvdGhlckdlc3R1cmVSZWNvZ25pemVyOiBVSUdlc3R1cmVSZWNvZ25pemVyKSAtPiBCb29sIHsKICAgICAgICByZXR1cm4gdHJ1ZQogICAgfQo=</text>
@@ -453,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>as!</last-search>
+      <last-search>Route</last-search>
       <last-offset />
-      <last-pattern>as!</last-pattern>
+      <last-pattern>Route</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -475,7 +489,6 @@
         <entry>p_setLeftButtonHidden</entry>
         <entry>delegate</entry>
         <entry>BNIAppDelegate</entry>
-        <entry>cell</entry>
         <entry>width</entry>
         <entry>size</entry>
         <entry encoding="base64">TlNEYXRhIA==</entry>
@@ -484,6 +497,9 @@
         <entry>gesture</entry>
         <entry>id</entry>
         <entry>as!</entry>
+        <entry>Cell</entry>
+        <entry>cell</entry>
+        <entry>Route</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
