@@ -46,6 +46,12 @@
         <mark key="." line="121" column="62" />
         <mark key="^" line="121" column="81" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumoTests/Module/Gohiiki/List/GohiikiHeyaBirthplaceListCellViewModelSpec.swift" timestamp="1524641553853">
+        <mark key="[" line="39" column="89" />
+        <mark key="]" line="39" column="124" />
+        <mark key="^" line="39" column="124" />
+        <mark key="." line="39" column="124" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" timestamp="1524555495565">
         <mark key="'" line="41" column="23" />
       </file>
@@ -55,6 +61,12 @@
         <mark key="]" line="313" column="31" />
         <mark key="." line="313" column="31" />
         <mark key="^" line="313" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumoTests/Service/GohiikiTorikumiServiceSpec.swift" timestamp="1524641488822">
+        <mark key="[" line="34" column="77" />
+        <mark key="]" line="34" column="111" />
+        <mark key="^" line="34" column="111" />
+        <mark key="." line="34" column="111" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Service/BNIVideoService.m" timestamp="1521539862151">
         <mark key="'" line="44" column="0" />
@@ -247,7 +259,7 @@
         <mark key="]" line="259" column="39" />
         <mark key="." line="259" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524624873969">
+      <file name="/Dummy.txt" timestamp="1524641550858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -433,8 +445,8 @@
       <register name="/" type="4">
         <text>let delegate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jIGdlc3R1cmVSZWNvZ25pemVyKF8gZ2VzdHVyZVJlY29nbml6ZXI6IFVJR2VzdHVyZVJlY29nbml6ZXIsIHNob3VsZEJlUmVxdWlyZWRUb0ZhaWxCeSBvdGhlckdlc3R1cmVSZWNvZ25pemVyOiBVSUdlc3R1cmVSZWNvZ25pemVyKSAtPiBCb29sIHsKICAgICAgICByZXR1cm4gdHJ1ZQogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>// swiftlint:disable:this force_try</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIHN3aWZ0bGludDpkaXNhYmxlIG5leHQgd2Vha19kZWxlZ2F0ZQo=</text>
