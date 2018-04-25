@@ -313,15 +313,31 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/CommonFramework/Module/Operation/GroupOperation.swift" timestamp="1524643524500">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="45" />
+        <mark key="." line="25" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" timestamp="1524640121483">
         <mark key="[" line="17" column="58" />
         <mark key="]" line="17" column="59" />
         <mark key="." line="17" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/CommonFrameworkTests/Module/Http/JsonHttpRequestOperationSpec.swift" timestamp="1524643617952">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="71" />
+        <mark key="^" line="8" column="71" />
+        <mark key="." line="8" column="71" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/BNIAppDelegate.m" timestamp="1522399471821">
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="102" />
         <mark key="." line="302" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/CommonFramework/Module/Http/JsonHttpRequestOperation.swift" timestamp="1524643689047">
+        <mark key="[" line="72" column="43" />
+        <mark key="]" line="72" column="43" />
+        <mark key="." line="72" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Base/ColumnTableViewSection.swift" timestamp="1524624866848">
         <mark key="'" line="46" column="61" />
@@ -440,7 +456,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>let delegate</text>
