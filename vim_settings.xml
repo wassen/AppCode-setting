@@ -38,11 +38,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1524567283847">
-        <mark key="[" line="122" column="4" />
-        <mark key="]" line="122" column="6" />
-        <mark key="." line="122" column="6" />
-        <mark key="^" line="122" column="6" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1524624953915">
+        <mark key="'" line="14" column="20" />
+        <mark key="[" line="121" column="62" />
+        <mark key="]" line="121" column="62" />
+        <mark key="." line="121" column="62" />
+        <mark key="^" line="121" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" timestamp="1524555495565">
         <mark key="'" line="41" column="23" />
@@ -245,7 +246,7 @@
         <mark key="]" line="259" column="39" />
         <mark key="." line="259" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524567186397">
+      <file name="/Dummy.txt" timestamp="1524624873969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -304,19 +305,17 @@
         <mark key="]" line="308" column="102" />
         <mark key="." line="302" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Base/ColumnTableViewSection.swift" timestamp="1524567442087">
-        <mark key="[" line="145" column="10" />
-        <mark key="]" line="145" column="12" />
-        <mark key="." line="145" column="12" />
-        <mark key="^" line="145" column="12" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Base/ColumnTableViewSection.swift" timestamp="1524624866848">
+        <mark key="'" line="46" column="61" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Util/Http/BNIJsonHttpRequest.m" timestamp="1522825865726">
         <mark key="'" line="32" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPhoneMenuViewController.m" />
       <jump line="53" column="32" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/zendesk/zendesk/ViewController.swift" />
@@ -415,6 +414,8 @@
       <jump line="8" column="11" filename="/WebKit.WKWebView.swift" />
       <jump line="16" column="44" filename="/WebKit.WKWebView.swift" />
       <jump line="17" column="50" filename="/WebKit.WKWebView.swift" />
+      <jump line="45" column="61" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Base/ColumnTableViewSection.swift" />
+      <jump line="14" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -424,46 +425,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>delegate</text>
+        <text>let delegate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jIGdlc3R1cmVSZWNvZ25pemVyKF8gZ2VzdHVyZVJlY29nbml6ZXI6IFVJR2VzdHVyZVJlY29nbml6ZXIsIHNob3VsZEJlUmVxdWlyZWRUb0ZhaWxCeSBvdGhlckdlc3R1cmVSZWNvZ25pemVyOiBVSUdlc3R1cmVSZWNvZ25pemVyKSAtPiBCb29sIHsKICAgICAgICByZXR1cm4gdHJ1ZQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vICAgIHB1YmxpYyBmdW5jIGdlc3R1cmVSZWNvZ25pemVyKF8gZ2VzdHVyZVJlY29nbml6ZXI6IFVJR2VzdHVyZVJlY29nbml6ZXIsIHNob3VsZFJlY29nbml6ZVNpbXVsdGFuZW91c2x5V2l0aCBvdGhlckdlc3R1cmVSZWNvZ25pemVyOiBVSUdlc3R1cmVSZWNvZ25pemVyKSAtPiBCb29sIHsKLy8gICAgICAgIHJldHVybiB0cnVlCi8vICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIHN3aWZ0bGludDpkaXNhYmxlIG5leHQgd2Vha19kZWxlZ2F0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8qKgogKiBzY3JvbGwgdmlld+OBrnBhbiBnZXN0dXJl44GoaW50ZXJhY3RpdmVQb3BHZXN0dXJlUmVjb2duaXplcuihneeqgeOBl+OBpuOAgWludGVyYWN0aXZlUG9wR2VzdHVyZVJlY29nbml6ZXLjgYzlirnjgYvjgarjgY/jgarjgovllY/poYzop6PmtogKICovCi0gKHZvaWQpcF9hZGp1c3RtZW50R2VzdHVyZSB7CiAgICBpZiAoW3NlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIgcmVzcG9uZHNUb1NlbGVjdG9yOkBzZWxlY3RvcihpbnRlcmFjdGl2ZVBvcEdlc3R1cmVSZWNvZ25pemVyKV0pIHsKICAgICAgICBbc2VsZi5rYWt1enVrZVNjcm9sbFZpZXcucGFuR2VzdHVyZVJlY29nbml6ZXIgcmVxdWlyZUdlc3R1cmVSZWNvZ25pemVyVG9GYWlsOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIuaW50ZXJhY3RpdmVQb3BHZXN0dXJlUmVjb2duaXplcl07CiAgICAgICAgW3NlbGYuY29udGVudFNjcm9sbFZpZXcucGFuR2VzdHVyZVJlY29nbml6ZXIgcmVxdWlyZUdlc3R1cmVSZWNvZ25pemVyVG9GYWlsOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIuaW50ZXJhY3RpdmVQb3BHZXN0dXJlUmVjb2duaXplcl07CiAgICB9Cn0K</text>
+        <text encoding="base64">Ci8vICAgIHB1YmxpYyBmdW5jIGdlc3R1cmVSZWNvZ25pemVyKF8gZ2VzdHVyZVJlY29nbml6ZXI6IFVJR2VzdHVyZVJlY29nbml6ZXIsIHNob3VsZFJlY29nbml6ZVNpbXVsdGFuZW91c2x5V2l0aCBvdGhlckdlc3R1cmVSZWNvZ25pemVyOiBVSUdlc3R1cmVSZWNvZ25pemVyKSAtPiBCb29sIHsKLy8gICAgICAgIHJldHVybiB0cnVlCi8vICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgW3NlbGYgcF9hZGp1c3RtZW50R2VzdHVyZV07Cg==</text>
+        <text encoding="base64">Ci8qKgogKiBzY3JvbGwgdmlld+OBrnBhbiBnZXN0dXJl44GoaW50ZXJhY3RpdmVQb3BHZXN0dXJlUmVjb2duaXplcuihneeqgeOBl+OBpuOAgWludGVyYWN0aXZlUG9wR2VzdHVyZVJlY29nbml6ZXLjgYzlirnjgYvjgarjgY/jgarjgovllY/poYzop6PmtogKICovCi0gKHZvaWQpcF9hZGp1c3RtZW50R2VzdHVyZSB7CiAgICBpZiAoW3NlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIgcmVzcG9uZHNUb1NlbGVjdG9yOkBzZWxlY3RvcihpbnRlcmFjdGl2ZVBvcEdlc3R1cmVSZWNvZ25pemVyKV0pIHsKICAgICAgICBbc2VsZi5rYWt1enVrZVNjcm9sbFZpZXcucGFuR2VzdHVyZVJlY29nbml6ZXIgcmVxdWlyZUdlc3R1cmVSZWNvZ25pemVyVG9GYWlsOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIuaW50ZXJhY3RpdmVQb3BHZXN0dXJlUmVjb2duaXplcl07CiAgICAgICAgW3NlbGYuY29udGVudFNjcm9sbFZpZXcucGFuR2VzdHVyZVJlY29nbml6ZXIgcmVxdWlyZUdlc3R1cmVSZWNvZ25pemVyVG9GYWlsOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXIuaW50ZXJhY3RpdmVQb3BHZXN0dXJlUmVjb2duaXplcl07CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtzZWxmIHBfYWRqdXN0bWVudEdlc3R1cmVdOwo=</text>
+        <text encoding="base64">Ly8gICAgW3NlbGYgcF9hZGp1c3RtZW50R2VzdHVyZV07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CihfOjopCg==</text>
+        <text encoding="base64">ICAgIFtzZWxmIHBfYWRqdXN0bWVudEdlc3R1cmVdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">CihfOjopCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBmdW5jIHNldERlbGVnYXRlVG9QYW5HZXN0dXJlT2ZTY3JvbGxWaWV3cygpIHsKICAgICAgICBbc2VsZi5rYWt1enVrZVNjcm9sbFZpZXcsIHNlbGYuY29udGVudFNjcm9sbFZpZXddLmZvckVhY2ggewogICAgICAgICAgICAkMC5wYW5HZXN0dXJlUmVjb2duaXplci5kZWxlZ2F0ZSA9IHNlbGYKICAgICAgICB9CiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBAb2JqYyBleHRlbnNpb24gQk5JS2FrdXp1a2VTd2lwZVZpZXdDb250cm9sbGVyOiAgewo=</text>
+        <text encoding="base64">CiAgICBmdW5jIHNldERlbGVnYXRlVG9QYW5HZXN0dXJlT2ZTY3JvbGxWaWV3cygpIHsKICAgICAgICBbc2VsZi5rYWt1enVrZVNjcm9sbFZpZXcsIHNlbGYuY29udGVudFNjcm9sbFZpZXddLmZvckVhY2ggewogICAgICAgICAgICAkMC5wYW5HZXN0dXJlUmVjb2duaXplci5kZWxlZ2F0ZSA9IHNlbGYKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delegate</last-search>
+      <last-search>let delegate</last-search>
       <last-offset />
-      <last-pattern>delegate</last-pattern>
+      <last-pattern>let delegate</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -494,6 +495,7 @@
         <entry>cell</entry>
         <entry>Route</entry>
         <entry>delegate</entry>
+        <entry>let delegate</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
