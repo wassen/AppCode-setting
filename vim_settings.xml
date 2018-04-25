@@ -38,6 +38,7 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/CommonFramework/Module/Operation/AsyncOperation.swift" timestamp="1524639842764" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1524624953915">
         <mark key="'" line="14" column="20" />
         <mark key="[" line="121" column="62" />
@@ -300,6 +301,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" timestamp="1524640121483">
+        <mark key="[" line="42" column="58" />
+        <mark key="]" line="42" column="59" />
+        <mark key="." line="42" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/BNIAppDelegate.m" timestamp="1522399471821">
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="102" />
@@ -422,7 +428,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>let delegate</text>
