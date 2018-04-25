@@ -9,6 +9,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewModel.swift" timestamp="1524646512628">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Rikishi/GohiikiRikishiRegisterViewModel.swift" timestamp="1524559258504">
         <mark key="[" line="49" column="45" />
         <mark key="]" line="49" column="45" />
@@ -217,6 +222,11 @@
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Heya/GohiikiHeyaRegisterViewModel.swift" timestamp="1524646578485">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522142182995">
         <mark key="'" line="98" column="26" />
         <mark key="[" line="17" column="36" />
@@ -241,12 +251,6 @@
       </file>
       <file name="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers/WKNavigationDelegate.h" timestamp="1521438244998">
         <mark key="'" line="73" column="77" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/View/ArticleContentTableViewCell.swift" timestamp="1524558032292">
-        <mark key="[" line="38" column="73" />
-        <mark key="]" line="38" column="74" />
-        <mark key="^" line="38" column="74" />
-        <mark key="." line="38" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Service/BNIUserService.m" timestamp="1522058833693">
         <mark key="[" line="44" column="47" />
@@ -293,6 +297,11 @@
         <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/GohiikiRegisterViewModel.swift" timestamp="1524646633518">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="8" />
+        <mark key="." line="89" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.h" timestamp="1522919321279">
         <mark key="'" line="22" column="30" />
@@ -552,6 +561,11 @@
         <entry>8</entry>
         <entry>call append(line('.'), '')</entry>
         <entry>BLAME</entry>
+        <entry>94</entry>
+        <entry>42</entry>
+        <entry>43</entry>
+        <entry>58</entry>
+        <entry>90</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
