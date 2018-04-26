@@ -136,6 +136,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Edit/Rikishi/GohiikiRikishiEditViewController.swift" timestamp="1524710900862">
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="69" column="11" />
+        <mark key="^" line="69" column="11" />
+        <mark key="." line="69" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" timestamp="1522922146358">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="84" column="44" />
@@ -193,23 +199,26 @@
         <mark key="^" line="67" column="14" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" timestamp="1524555714604">
-        <mark key="'" line="37" column="64" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" timestamp="1524711007672">
+        <mark key="'" line="73" column="89" />
+        <mark key="[" line="74" column="19" />
+        <mark key="]" line="75" column="7" />
+        <mark key="." line="75" column="7" />
+        <mark key="^" line="75" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" timestamp="1524648618729">
-        <mark key="'" line="39" column="69" />
-        <mark key="[" line="99" column="76" />
-        <mark key="]" line="99" column="76" />
-        <mark key="." line="99" column="76" />
-        <mark key="^" line="99" column="76" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" timestamp="1524711025942">
+        <mark key="'" line="119" column="32" />
+        <mark key="[" line="159" column="19" />
+        <mark key="]" line="160" column="7" />
+        <mark key="." line="160" column="7" />
+        <mark key="^" line="160" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Tracking/TrackerWrapper.swift" timestamp="1524476529728">
-        <mark key="[" line="75" column="54" />
-        <mark key="]" line="75" column="54" />
-        <mark key="." line="75" column="54" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Tracking/TrackerWrapper.swift" timestamp="1524711039572">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="126" column="19" />
+        <mark key="]" line="127" column="7" />
+        <mark key="." line="127" column="7" />
+        <mark key="^" line="127" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/View/ViewController/BNITanimachiViewController.m" timestamp="1522119314453">
         <mark key="[" line="70" column="0" />
@@ -298,6 +307,12 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Rikishi/ViewModel/GohiikiRikishiListViewModel.swift" timestamp="1524710958912">
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="76" column="24" />
+        <mark key="^" line="76" column="24" />
+        <mark key="." line="76" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/GohiikiRegisterViewModel.swift" timestamp="1524649022144">
         <mark key="'" line="143" column="52" />
         <mark key="[" line="131" column="37" />
@@ -329,10 +344,12 @@
         <mark key="]" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" timestamp="1524640121483">
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="17" column="59" />
-        <mark key="." line="17" column="59" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" timestamp="1524711061053">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="159" column="23" />
+        <mark key="]" line="160" column="11" />
+        <mark key="." line="160" column="11" />
+        <mark key="^" line="160" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/CommonFrameworkTests/Module/Http/JsonHttpRequestOperationSpec.swift" timestamp="1524643617952">
         <mark key="[" line="8" column="46" />
@@ -361,11 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="369" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
-      <jump line="81" column="92" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
-      <jump line="25" column="12" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
-      <jump line="119" column="14" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
       <jump line="50" column="10" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
       <jump line="109" column="75" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
       <jump line="104" column="67" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
@@ -437,7 +449,6 @@
       <jump line="30" column="70" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
       <jump line="33" column="31" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
       <jump line="34" column="68" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
-      <jump line="36" column="25" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
       <jump line="71" column="39" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
       <jump line="37" column="64" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
       <jump line="33" column="90" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" />
@@ -461,16 +472,22 @@
       <jump line="107" column="42" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/GohiikiRegisterViewModel.swift" />
       <jump line="105" column="64" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/GohiikiRegisterViewModel.swift" />
       <jump line="142" column="52" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/GohiikiRegisterViewModel.swift" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
+      <jump line="36" column="7" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
+      <jump line="73" column="89" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
+      <jump line="119" column="32" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Tracking/TrackerWrapper.swift" />
+      <jump line="28" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ilter</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>filter {</text>
+        <text>{ return</text>
       </register>
       <register name="0" type="4">
         <text>// swiftlint:disable:this force_try</text>
@@ -507,9 +524,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filter {</last-search>
+      <last-search>{ return</last-search>
       <last-offset />
-      <last-pattern>filter {</last-pattern>
+      <last-pattern>{ return</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -543,6 +560,7 @@
         <entry>let delegate</entry>
         <entry>first</entry>
         <entry>filter {</entry>
+        <entry>{ return</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
@@ -568,9 +586,11 @@
         <entry>42</entry>
         <entry>43</entry>
         <entry>58</entry>
-        <entry>90</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>9</entry>
+        <entry>68</entry>
+        <entry>call append(line('.'), '')</entry>
+        <entry>90</entry>
+        <entry>76</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
