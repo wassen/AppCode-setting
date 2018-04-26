@@ -44,11 +44,11 @@
         <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/CommonFramework/Module/Operation/AsyncOperation.swift" timestamp="1524639842764" />
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1524624953915">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1524713298569">
         <mark key="'" line="14" column="20" />
-        <mark key="[" line="121" column="62" />
-        <mark key="]" line="121" column="62" />
-        <mark key="." line="121" column="62" />
+        <mark key="[" line="138" column="4" />
+        <mark key="]" line="138" column="4" />
+        <mark key="." line="138" column="4" />
         <mark key="^" line="121" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumoTests/Module/Gohiiki/List/GohiikiHeyaBirthplaceListCellViewModelSpec.swift" timestamp="1524641553853">
@@ -344,8 +344,8 @@
         <mark key="]" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" timestamp="1524711061053">
-        <mark key="'" line="28" column="16" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" timestamp="1524712976557">
+        <mark key="'" line="19" column="47" />
         <mark key="[" line="159" column="23" />
         <mark key="]" line="160" column="11" />
         <mark key="." line="160" column="11" />
@@ -378,13 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="10" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
-      <jump line="109" column="75" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
-      <jump line="104" column="67" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
-      <jump line="10" column="15" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
-      <jump line="25" column="13" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
-      <jump line="48" column="80" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
-      <jump line="97" column="37" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
       <jump line="312" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
       <jump line="57" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
       <jump line="1" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
@@ -478,16 +471,23 @@
       <jump line="119" column="32" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Tracking/TrackerWrapper.swift" />
       <jump line="28" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
+      <jump line="56" column="47" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
+      <jump line="54" column="47" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
+      <jump line="51" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
+      <jump line="50" column="26" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
+      <jump line="33" column="13" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
+      <jump line="30" column="17" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
+      <jump line="19" column="47" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>{ return</text>
+        <text>widget</text>
       </register>
       <register name="0" type="4">
         <text>// swiftlint:disable:this force_try</text>
@@ -524,9 +524,9 @@
       </register>
     </registers>
     <search>
-      <last-search>{ return</last-search>
+      <last-search>widget</last-search>
       <last-offset />
-      <last-pattern>{ return</last-pattern>
+      <last-pattern>widget</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -561,6 +561,7 @@
         <entry>first</entry>
         <entry>filter {</entry>
         <entry>{ return</entry>
+        <entry>widget</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
@@ -591,6 +592,8 @@
         <entry>call append(line('.'), '')</entry>
         <entry>90</entry>
         <entry>76</entry>
+        <entry>20</entry>
+        <entry>139</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
