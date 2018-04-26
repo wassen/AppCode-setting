@@ -88,6 +88,7 @@
         <mark key="]" line="51" column="16" />
         <mark key="." line="51" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/WhatsNew/WhatsNewService.swift" timestamp="1524739491884" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1520995050045">
         <mark key="[" line="128" column="43" />
         <mark key="]" line="128" column="41" />
@@ -249,7 +250,7 @@
         <mark key="]" line="259" column="39" />
         <mark key="." line="259" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524641550858">
+      <file name="/Dummy.txt" timestamp="1524739339921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -338,12 +339,6 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Base/ColumnTableViewSection.swift" timestamp="1524624866848">
-        <mark key="'" line="46" column="61" />
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
       </file>
     </filemarks>
     <jumps>
