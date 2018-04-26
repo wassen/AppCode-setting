@@ -315,8 +315,8 @@
         <mark key="]" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" timestamp="1524712976557">
-        <mark key="'" line="19" column="47" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" timestamp="1524721271218">
+        <mark key="'" line="37" column="37" />
         <mark key="[" line="159" column="23" />
         <mark key="]" line="160" column="11" />
         <mark key="." line="160" column="11" />
@@ -346,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
       <jump line="57" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
       <jump line="1" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
@@ -446,6 +445,7 @@
       <jump line="33" column="13" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
       <jump line="30" column="17" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
       <jump line="19" column="47" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
+      <jump line="37" column="37" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -455,7 +455,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>widget</text>
+        <text>fileprivate</text>
       </register>
       <register name="0" type="4">
         <text>// swiftlint:disable:this force_try</text>
@@ -492,9 +492,9 @@
       </register>
     </registers>
     <search>
-      <last-search>widget</last-search>
+      <last-search>fileprivate</last-search>
       <last-offset />
-      <last-pattern>widget</last-pattern>
+      <last-pattern>fileprivate</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -530,6 +530,7 @@
         <entry>filter {</entry>
         <entry>{ return</entry>
         <entry>widget</entry>
+        <entry>fileprivate</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
