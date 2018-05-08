@@ -43,7 +43,6 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/CommonFramework/Module/Operation/AsyncOperation.swift" timestamp="1524639842764" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1524713298569">
         <mark key="'" line="14" column="20" />
         <mark key="[" line="138" column="4" />
@@ -76,7 +75,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Operation/OperationManager.swift" timestamp="1524554225337" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/CommonFramework/Module/Http/JsonHttpRequestOperation.swift" timestamp="1522826564578">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="55" />
@@ -88,7 +86,6 @@
         <mark key="]" line="51" column="16" />
         <mark key="." line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/WhatsNew/WhatsNewService.swift" timestamp="1524739491884" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1520995050045">
         <mark key="[" line="128" column="43" />
         <mark key="]" line="128" column="41" />
@@ -250,7 +247,7 @@
         <mark key="]" line="259" column="39" />
         <mark key="." line="259" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524739339921">
+      <file name="/Dummy.txt" timestamp="1525763320251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -494,20 +491,10 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SSPull</entry>
-        <entry>SS</entry>
-        <entry>SSP</entry>
-        <entry>pullTo</entry>
-        <entry>image</entry>
-        <entry>@available</entry>
-        <entry>p_</entry>
-        <entry>p_confi</entry>
-        <entry>phone</entry>
-        <entry>p_setLeftButtonHidden</entry>
         <entry>BNIAppDelegate</entry>
         <entry>width</entry>
         <entry>size</entry>
@@ -530,19 +517,6 @@
         <entry>catch</entry>
       </history-search>
       <history-cmd>
-        <entry>170</entry>
-        <entry>98</entry>
-        <entry>!gs</entry>
-        <entry>!git status</entry>
-        <entry>x</entry>
-        <entry>d</entry>
-        <entry>e</entry>
-        <entry>w;w</entry>
-        <entry>bn</entry>
-        <entry>25</entry>
-        <entry>28</entry>
-        <entry>bp</entry>
-        <entry>q</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
         <entry encoding="base64">JzwsJz53</entry>
