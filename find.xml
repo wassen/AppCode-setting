@@ -3,7 +3,6 @@
     <option name="customScope" value="Project and Frameworks" />
     <option name="defaultScopeName" value="Project and Frameworks" />
     <option name="SEARCH_SCOPE" value="Project and Frameworks" />
-    <option name="FILE_MASK" value="*.swift" />
     <recentFileMasks>
       <mask>*.xc</mask>
       <mask>*.xccon</mask>
