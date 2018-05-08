@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Frameworks" />
-    <option name="defaultScopeName" value="Project and Frameworks" />
-    <option name="SEARCH_SCOPE" value="Project and Frameworks" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Current File" />
     <recentFileMasks>
       <mask>*.xc</mask>
       <mask>*.xccon</mask>
