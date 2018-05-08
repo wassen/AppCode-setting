@@ -247,7 +247,7 @@
         <mark key="]" line="259" column="39" />
         <mark key="." line="259" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525773889038">
+      <file name="/Dummy.txt" timestamp="1525777433220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -336,6 +336,11 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/sumo/Module/Operation/OperationManager.swift" timestamp="1525777497553">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="36" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -445,7 +450,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">IEBhdmFpbGFibGUoaU9TIDkuMCwgKik=</text>
       </register>
       <register name="/" type="4">
         <text>catch</text>
@@ -535,8 +540,8 @@
         <entry>126</entry>
         <entry>97</entry>
         <entry>58</entry>
-        <entry>w</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
