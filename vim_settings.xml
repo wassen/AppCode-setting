@@ -160,7 +160,8 @@
         <mark key="." line="348" column="11" />
         <mark key="^" line="348" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" timestamp="1525942683767">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" timestamp="1525944527725">
+        <mark key="'" line="11" column="0" />
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="30" />
       </file>
@@ -350,12 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="67" filename="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h" />
-      <jump line="45" column="102" filename="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h" />
-      <jump line="48" column="37" filename="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h" />
-      <jump line="65" column="62" filename="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h" />
-      <jump line="71" column="40" filename="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h" />
-      <jump line="155" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Purchase/BNIStoreManager.m" />
       <jump line="162" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Purchase/BNIStoreManager.m" />
       <jump line="158" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Purchase/BNIStoreManager.m" />
       <jump line="140" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Purchase/BNIStoreManager.m" />
@@ -450,6 +445,12 @@
       <jump line="76" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" />
     </jumps>
     <registers>
       <register name="*" type="2">
