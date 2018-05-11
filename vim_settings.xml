@@ -241,6 +241,11 @@
         <mark key="]" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Operation/OperationManager.swift" timestamp="1526030958064">
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="10" />
+        <mark key="." line="36" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/Layout/BNIMenuTableViewAppearanceSpec.m" timestamp="1522055972789">
         <mark key="[" line="39" column="44" />
         <mark key="]" line="39" column="46" />
@@ -260,12 +265,17 @@
         <mark key="^" line="44" column="46" />
         <mark key="." line="44" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Service/QuickActionManager.swift" timestamp="1526031053934">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/GohiikiRegisterBaseTableViewController.swift" timestamp="1524559234201">
         <mark key="[" line="259" column="39" />
         <mark key="]" line="259" column="39" />
         <mark key="." line="259" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526030247560">
+      <file name="/Dummy.txt" timestamp="1526031216490">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -484,40 +494,40 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>@available(iOS 9.0, *)</text>
       </register>
       <register name="/" type="4">
         <text>tableView:</text>
       </register>
       <register name="0" type="4">
-        <text>BNIMenuTableViewCell</text>
+        <text>QuickActionManager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBjZWxsLnRpdGxlTGFiZWwudGV4dCA9IEAiYWhvb28iOwo=</text>
+        <text encoding="base64">QGF2YWlsYWJsZShpT1MgOS4wLCAqKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhPy5ib3R0b21BbmNob3IK</text>
+        <text encoding="base64">QGF2YWlsYWJsZShpT1MgOS4wLCAqKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBhOiBVSVZpZXc/CiAgICBhLgo=</text>
+        <text encoding="base64">CiAgICBjZWxsLnRpdGxlTGFiZWwudGV4dCA9IEAiYWhvb28iOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhPy5ib3R0b21BbmNob3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgiZ29oaWlraVJpa2lzaGlUb3Jpa3VtaSIpIHsK</text>
+        <text encoding="base64">ICAgIHZhciBhOiBVSVZpZXc/CiAgICBhLgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgCgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgiZ29oaWlraVJpa2lzaGlUb3Jpa3VtaSIpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHN3aWZ0bGludDpkaXNhYmxlIG5leHQgd2Vha19kZWxlZ2F0ZQo=</text>
+        <text encoding="base64">ICAgCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vICAgIHB1YmxpYyBmdW5jIGdlc3R1cmVSZWNvZ25pemVyKF8gZ2VzdHVyZVJlY29nbml6ZXI6IFVJR2VzdHVyZVJlY29nbml6ZXIsIHNob3VsZFJlY29nbml6ZVNpbXVsdGFuZW91c2x5V2l0aCBvdGhlckdlc3R1cmVSZWNvZ25pemVyOiBVSUdlc3R1cmVSZWNvZ25pemVyKSAtPiBCb29sIHsKLy8gICAgICAgIHJldHVybiB0cnVlCi8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -530,16 +540,10 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>BNIAppDelegate</entry>
-        <entry>width</entry>
-        <entry>size</entry>
-        <entry encoding="base64">TlNEYXRhIA==</entry>
-        <entry>menuAdd</entry>
-        <entry>scro</entry>
         <entry>gesture</entry>
         <entry>id</entry>
         <entry>as!</entry>
