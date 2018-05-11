@@ -185,8 +185,8 @@
         <mark key="." line="248" column="0" />
         <mark key="^" line="252" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" timestamp="1525942611057">
-        <mark key="'" line="80" column="0" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" timestamp="1526009318256">
+        <mark key="'" line="75" column="17" />
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="34" />
         <mark key="^" line="67" column="14" />
@@ -270,6 +270,9 @@
         <mark key="]" line="4" column="77" />
         <mark key="^" line="4" column="117" />
         <mark key="." line="4" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1526009439993">
+        <mark key="'" line="47" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.swift" timestamp="1522918793077">
         <mark key="[" line="0" column="0" />
@@ -367,8 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Purchase/BNIStoreManager.m" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Purchase/BNIStoreManager.m" />
       <jump line="140" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/Purchase/BNIStoreManager.m" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Util/Http/BNIJsonHttpRequest.m" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Util/Http/BNIJsonHttpRequest.m" />
@@ -446,12 +447,7 @@
       <jump line="3" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
       <jump line="8" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
       <jump line="32" column="42" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
-      <jump line="33" column="63" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
       <jump line="34" column="71" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
-      <jump line="47" column="9" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
-      <jump line="54" column="10" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
-      <jump line="64" column="29" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
-      <jump line="75" column="17" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
       <jump line="77" column="21" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
       <jump line="78" column="64" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
@@ -467,6 +463,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" />
+      <jump line="33" column="55" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
+      <jump line="38" column="15" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
+      <jump line="47" column="9" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
+      <jump line="54" column="10" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
+      <jump line="64" column="29" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
+      <jump line="75" column="17" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIPadMenuViewController.m" />
+      <jump line="47" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -545,9 +548,9 @@
         <entry>catch</entry>
         <entry>kTableViewLandscapeHeightPad</entry>
         <entry>icon</entry>
-        <entry>table</entry>
         <entry>tableVIew</entry>
         <entry>tableView</entry>
+        <entry>table</entry>
         <entry>tableView:</entry>
       </history-search>
       <history-cmd>
@@ -569,8 +572,8 @@
         <entry>126</entry>
         <entry>97</entry>
         <entry>58</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
+        <entry>call append(line('.'), '')</entry>
       </history-cmd>
       <history-expr />
       <history-input />
