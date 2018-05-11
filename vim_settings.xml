@@ -271,12 +271,12 @@
         <mark key="^" line="4" column="117" />
         <mark key="." line="4" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1526014904098">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1526016304102">
         <mark key="'" line="47" column="16" />
-        <mark key="[" line="201" column="48" />
-        <mark key="]" line="201" column="49" />
-        <mark key="." line="201" column="49" />
-        <mark key="^" line="201" column="49" />
+        <mark key="[" line="208" column="35" />
+        <mark key="]" line="208" column="35" />
+        <mark key="." line="208" column="35" />
+        <mark key="^" line="208" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.swift" timestamp="1522918793077">
         <mark key="[" line="0" column="0" />
@@ -480,7 +480,7 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>YES</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tableView:</text>
