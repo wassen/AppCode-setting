@@ -53,6 +53,9 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" timestamp="1526289598439">
+        <mark key="'" line="148" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1524713298569">
         <mark key="'" line="14" column="20" />
         <mark key="[" line="138" column="4" />
@@ -108,6 +111,7 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="89" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/ViewModel/BNIMenuItemViewModel.h" timestamp="1526289829284" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/Router/BNIUrlRouter.m" timestamp="1522314209845">
         <mark key="[" line="30" column="70" />
         <mark key="]" line="30" column="3" />
@@ -222,6 +226,7 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="70" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/ViewModel/BNIMenuSectionViewModel.m" timestamp="1526289253668" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" timestamp="1522231553598">
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
@@ -231,6 +236,12 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="8" />
         <mark key="." line="42" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/ViewModel/BNIPadMenuTableViewModel.m" timestamp="1526289416497">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1522142182995">
         <mark key="'" line="98" column="26" />
@@ -281,6 +292,11 @@
         <mark key="[" line="259" column="39" />
         <mark key="]" line="259" column="39" />
         <mark key="." line="259" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/CommonFramework/Module/Localiztion/BNILocalizedString.m" timestamp="1526289961688">
+        <mark key="'" line="248" column="8" />
+        <mark key="[" line="263" column="14" />
+        <mark key="]" line="263" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1526288922457">
         <mark key="[" line="0" column="0" />
@@ -344,6 +360,9 @@
         <mark key="^" line="105" column="51" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" timestamp="1526289526777">
+        <mark key="'" line="289" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipeTutorial/BNIKakuzukeSwipeTutorialViewController.m" timestamp="1522749901500">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -405,21 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="33" filename="$USER_HOME$/workspace/github.com/jonkykong/SideMenu/Pod/Classes/SideMenuManager.swift" />
-      <jump line="104" column="64" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.m" />
-      <jump line="58" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.m" />
-      <jump line="22" column="30" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.h" />
-      <jump line="145" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.m" />
-      <jump line="7" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/NavigationController+extension.swift" />
-      <jump line="20" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.m" />
-      <jump line="9" column="11" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/UI/View/ViewController/Common/BNINavigationController.h" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
-      <jump line="19" column="23" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
-      <jump line="21" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
-      <jump line="25" column="9" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
-      <jump line="26" column="66" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
-      <jump line="29" column="29" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
-      <jump line="30" column="70" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
       <jump line="33" column="31" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
       <jump line="34" column="68" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Birthplace/GohiikiBirthplaceRegisterViewController.swift" />
       <jump line="71" column="39" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
@@ -505,19 +509,34 @@
       <jump line="153" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/BashoTop/BNIBashoTopViewController.m" />
       <jump line="143" column="30" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/BashoTop/BNIBashoTopViewController.m" />
       <jump line="176" column="46" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/BashoTop/BNIBashoTopViewController.m" />
+      <jump line="265" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" />
+      <jump line="283" column="6" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" />
+      <jump line="287" column="10" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" />
+      <jump line="300" column="6" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" />
+      <jump line="289" column="30" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" />
+      <jump line="47" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" />
+      <jump line="154" column="31" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" />
+      <jump line="159" column="12" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" />
+      <jump line="189" column="11" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" />
+      <jump line="195" column="21" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" />
+      <jump line="242" column="11" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" />
+      <jump line="246" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" />
+      <jump line="250" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" />
+      <jump line="148" column="13" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" />
+      <jump line="248" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/CommonFramework/Module/Localiztion/BNILocalizedString.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>@available(iOS 9.0, *)</text>
+        <text>BNIMenuSectionViewModel</text>
       </register>
       <register name="/" type="4">
-        <text>delegate</text>
+        <text>help</text>
       </register>
       <register name="0" type="4">
-        <text>tableView</text>
+        <text>menuHelp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGF2YWlsYWJsZShpT1MgOS4wLCAqKQo=</text>
@@ -551,9 +570,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delegate</last-search>
+      <last-search>help</last-search>
       <last-offset />
-      <last-pattern>delegate</last-pattern>
+      <last-pattern>help</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
@@ -579,10 +598,12 @@
         <entry>tableVIew</entry>
         <entry>tableView</entry>
         <entry>table</entry>
-        <entry>tableView:</entry>
-        <entry>zen</entry>
         <entry>kGetMeta</entry>
         <entry>delegate</entry>
+        <entry>menu</entry>
+        <entry>tableView:</entry>
+        <entry>zen</entry>
+        <entry>help</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
