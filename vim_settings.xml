@@ -241,6 +241,10 @@
         <mark key="]" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPadMenuViewController.m" timestamp="1526270252332">
+        <mark key="[" line="77" column="21" />
+        <mark key="]" line="77" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Operation/OperationManager.swift" timestamp="1526030958064">
         <mark key="[" line="36" column="10" />
         <mark key="]" line="36" column="10" />
@@ -500,7 +504,7 @@
         <text>tableView:</text>
       </register>
       <register name="0" type="4">
-        <text>QuickActionManager</text>
+        <text>tableView</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGF2YWlsYWJsZShpT1MgOS4wLCAqKQo=</text>
