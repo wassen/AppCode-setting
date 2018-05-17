@@ -111,7 +111,6 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="89" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/ViewModel/BNIMenuItemViewModel.h" timestamp="1526289829284" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/UI/Router/BNIUrlRouter.m" timestamp="1522314209845">
         <mark key="[" line="30" column="70" />
         <mark key="]" line="30" column="3" />
@@ -226,7 +225,6 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="70" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/ViewModel/BNIMenuSectionViewModel.m" timestamp="1526289253668" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" timestamp="1522231553598">
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
@@ -298,7 +296,7 @@
         <mark key="[" line="263" column="14" />
         <mark key="]" line="263" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526294185039">
+      <file name="/Dummy.txt" timestamp="1526531830948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -576,14 +574,10 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gesture</entry>
-        <entry>id</entry>
-        <entry>as!</entry>
-        <entry>Cell</entry>
         <entry>cell</entry>
         <entry>Route</entry>
         <entry>let delegate</entry>
