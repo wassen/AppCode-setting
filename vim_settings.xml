@@ -69,6 +69,9 @@
         <mark key="^" line="39" column="124" />
         <mark key="." line="39" column="124" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" timestamp="1526545300213">
+        <mark key="'" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522907682044">
         <mark key="'" line="1" column="4" />
         <mark key="[" line="313" column="29" />
@@ -299,7 +302,7 @@
         <mark key="[" line="263" column="14" />
         <mark key="]" line="263" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526543064137">
+      <file name="/Dummy.txt" timestamp="1526545119079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -425,9 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="39" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
-      <jump line="37" column="64" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Service/QuickActionManager.swift" />
-      <jump line="33" column="90" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Edit/Base/GohiikiEditBaseViewController.swift" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
       <jump line="24" column="106" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
       <jump line="31" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
@@ -525,6 +525,9 @@
       <jump line="248" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/CommonFramework/Module/Localiztion/BNILocalizedString.m" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/Beni/JsonModel/BNIAccessTokenModel.m" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/Beni/JsonModel/BNIAccessTokenModel.m" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
