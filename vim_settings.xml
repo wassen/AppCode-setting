@@ -69,8 +69,10 @@
         <mark key="^" line="39" column="124" />
         <mark key="." line="39" column="124" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" timestamp="1526545300213">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" timestamp="1526547139188">
         <mark key="'" line="30" column="0" />
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/BNIAppDelegate.m" timestamp="1522907682044">
         <mark key="'" line="1" column="4" />
@@ -302,7 +304,7 @@
         <mark key="[" line="263" column="14" />
         <mark key="]" line="263" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526545119079">
+      <file name="/Dummy.txt" timestamp="1526546534204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -540,7 +542,7 @@
         <text>help</text>
       </register>
       <register name="0" type="4">
-        <text>menuHelp</text>
+        <text>%02.2hhX</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGF2YWlsYWJsZShpT1MgOS4wLCAqKQo=</text>
