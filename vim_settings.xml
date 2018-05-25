@@ -283,6 +283,12 @@
         <mark key="." line="133" column="24" />
         <mark key="^" line="133" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" timestamp="1527240374392">
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="42" />
+        <mark key="." line="37" column="42" />
+        <mark key="^" line="37" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Service/BNIUserService.m" timestamp="1522058833693">
         <mark key="[" line="44" column="47" />
         <mark key="]" line="44" column="46" />
@@ -310,7 +316,7 @@
         <mark key="[" line="263" column="14" />
         <mark key="]" line="263" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527233583110">
+      <file name="/Dummy.txt" timestamp="1527239606272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -372,8 +378,12 @@
         <mark key="^" line="105" column="51" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" timestamp="1526289526777">
-        <mark key="'" line="289" column="30" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" timestamp="1527240096428">
+        <mark key="'" line="301" column="4" />
+        <mark key="[" line="307" column="55" />
+        <mark key="]" line="307" column="57" />
+        <mark key="." line="307" column="57" />
+        <mark key="^" line="307" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipeTutorial/BNIKakuzukeSwipeTutorialViewController.m" timestamp="1522749901500">
         <mark key="[" line="23" column="0" />
@@ -436,8 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
-      <jump line="24" column="106" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
       <jump line="31" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" />
       <jump line="41" column="23" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" />
@@ -536,19 +544,21 @@
       <jump line="43" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" />
+      <jump line="40" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" />
+      <jump line="301" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BNIMenuSectionViewModel</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>help</text>
+        <text>sidemenu</text>
       </register>
-      <register name="0" type="4">
-        <text>%02.2hhX</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNlbGYudmlldy5iYWNrZ3JvdW5kQ29sb3IgPSBbQk5JQ29sb3IgbWVudUJhY2tncm91bmRDb2xvcl07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGF2YWlsYWJsZShpT1MgOS4wLCAqKQo=</text>
@@ -578,17 +588,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>help</last-search>
+      <last-search>sidemenu</last-search>
       <last-offset />
-      <last-pattern>help</last-pattern>
+      <last-pattern>sidemenu</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -612,6 +622,8 @@
         <entry>tableView:</entry>
         <entry>zen</entry>
         <entry>help</entry>
+        <entry>Sidemenu</entry>
+        <entry>sidemenu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -630,10 +642,10 @@
         <entry>126</entry>
         <entry>97</entry>
         <entry>58</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>set nopaste</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
