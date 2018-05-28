@@ -23,6 +23,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Pods/SLAVPlayerViewController/SLAVPlayerViewController/SLAVPlayerViewController+Fullscreen.m" timestamp="1527491934677" />
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/Rikishi/GohiikiRikishiRegisterViewModel.swift" timestamp="1524559258504">
         <mark key="[" line="49" column="45" />
         <mark key="]" line="49" column="45" />
@@ -286,11 +287,7 @@
         <mark key="^" line="133" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" timestamp="1527489141907">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="44" column="3" />
-        <mark key="." line="21" column="0" />
+        <mark key="'" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Service/BNIUserService.m" timestamp="1522058833693">
         <mark key="[" line="44" column="47" />
@@ -309,6 +306,9 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/TorikumiDetail/BNITorikumiDetailViewController.m" timestamp="1527491600722">
+        <mark key="'" line="223" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/GohiikiRegisterBaseTableViewController.swift" timestamp="1524559234201">
         <mark key="[" line="259" column="39" />
         <mark key="]" line="259" column="39" />
@@ -319,7 +319,7 @@
         <mark key="[" line="263" column="14" />
         <mark key="]" line="263" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527239606272">
+      <file name="/Dummy.txt" timestamp="1527492240733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -449,11 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="44" filename="/WebKit.WKWebView.swift" />
-      <jump line="17" column="50" filename="/WebKit.WKWebView.swift" />
-      <jump line="45" column="61" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Base/ColumnTableViewSection.swift" />
-      <jump line="14" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
       <jump line="99" column="78" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
       <jump line="39" column="69" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
       <jump line="88" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/Register/GohiikiRegisterViewModel.swift" />
@@ -549,6 +544,11 @@
       <jump line="41" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" />
+      <jump line="76" column="64" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
+      <jump line="156" column="14" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
+      <jump line="166" column="25" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
+      <jump line="222" column="15" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
+      <jump line="223" column="19" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/TorikumiDetail/BNITorikumiDetailViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
@@ -558,7 +558,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sidemenu</text>
+        <text>video</text>
       </register>
       <register name="0" type="4">
         <text>BNIPhoneMenuViewController</text>
@@ -595,13 +595,13 @@
       </register>
     </registers>
     <search>
-      <last-search>sidemenu</last-search>
+      <last-search>video</last-search>
       <last-offset />
-      <last-pattern>sidemenu</last-pattern>
+      <last-pattern>video</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -625,6 +625,7 @@
         <entry>help</entry>
         <entry>Sidemenu</entry>
         <entry>sidemenu</entry>
+        <entry>video</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
