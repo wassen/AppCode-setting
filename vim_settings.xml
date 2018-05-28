@@ -53,8 +53,10 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" timestamp="1526289598439">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIMenuViewController.m" timestamp="1527486422926">
         <mark key="'" line="148" column="13" />
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Article/ArticleSection.swift" timestamp="1524713298569">
         <mark key="'" line="14" column="20" />
@@ -283,11 +285,12 @@
         <mark key="." line="133" column="24" />
         <mark key="^" line="133" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" timestamp="1527240374392">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="37" column="42" />
-        <mark key="." line="37" column="42" />
-        <mark key="^" line="37" column="43" />
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" timestamp="1527487628583">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Service/BNIUserService.m" timestamp="1522058833693">
         <mark key="[" line="44" column="47" />
@@ -446,10 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="20" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Base/GohiikiListBaseViewController.swift" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" />
-      <jump line="41" column="23" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Gohiiki/List/Birthplace/GohiikiBirthplaceListViewController.swift" />
-      <jump line="8" column="11" filename="/WebKit.WKWebView.swift" />
       <jump line="16" column="44" filename="/WebKit.WKWebView.swift" />
       <jump line="17" column="50" filename="/WebKit.WKWebView.swift" />
       <jump line="45" column="61" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/sumo/Module/Column/Base/ColumnTableViewSection.swift" />
@@ -546,46 +545,50 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Repository/BNIAccessTokenRepository.m" />
       <jump line="40" column="8" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" />
       <jump line="301" column="4" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/BNIAppDelegate.m" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Menu/BNIPhoneMenuViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>sidemenu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbGYudmlldy5iYWNrZ3JvdW5kQ29sb3IgPSBbQk5JQ29sb3IgbWVudUJhY2tncm91bmRDb2xvcl07Cg==</text>
+      <register name="0" type="4">
+        <text>BNIPhoneMenuViewController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGF2YWlsYWJsZShpT1MgOS4wLCAqKQo=</text>
+        <text encoding="base64">ICAgIFVJVmlldyAqdCA9IFtVSVZpZXcgbmV3XTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGF2YWlsYWJsZShpT1MgOS4wLCAqKQo=</text>
+        <text encoding="base64">CiAgICAvLyBzZWxmLnRhYmxlVmlldy5mcmFtZSA9IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBjZWxsLnRpdGxlTGFiZWwudGV4dCA9IEAiYWhvb28iOwo=</text>
+        <text encoding="base64">ICAgIFtzZWxmLnRhYmxlVmlldy50cmFpbGluZ0FuY2hvciBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcudHJhaWxpbmdBbmNob3JdLmFjdGl2ZSA9IFlFUzsKICAgIFtzZWxmLnRhYmxlVmlldy5sZWFkaW5nQW5jaG9yICBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcubGVhZGluZ0FuY2hvciBdLmFjdGl2ZSA9IFlFUzsKICAgIFtzZWxmLnRhYmxlVmlldy5ib3R0b21BbmNob3IgICBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcuYm90dG9tQW5jaG9yICBdLmFjdGl2ZSA9IFlFUzsKICAgIFtzZWxmLnRhYmxlVmlldy50b3BBbmNob3IgICAgICBjb25zdHJhaW50RXF1YWxUb0FuY2hvcjpzZWxmLnZpZXcudG9wQW5jaG9yICAgICBdLmFjdGl2ZSA9IFlFUzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhPy5ib3R0b21BbmNob3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBhOiBVSVZpZXc/CiAgICBhLgo=</text>
+        <text encoding="base64">CiAgICBbc2VsZi52aWV3IGFkZFN1YnZpZXc6c2VsZi50YWJsZVZpZXddOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFtzZWxmLnZpZXcgYWRkU3VidmlldzpzZWxmLnRhYmxlVmlld107Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgiZ29oaWlraVJpa2lzaGlUb3Jpa3VtaSIpIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCgo=</text>
+        <text encoding="base64">ICAgIHNlbGYudGFibGVWaWV3ID0gW1VJVGFibGVWaWV3IG5ld107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vc2VsZi50YWJsZVZpZXcuZnJhbWUgPSBDR1JlY3RNYWtlKDAsIDUwLCAzMjAsIDIwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -598,12 +601,10 @@
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cell</entry>
-        <entry>Route</entry>
         <entry>let delegate</entry>
         <entry>first</entry>
         <entry>filter {</entry>
