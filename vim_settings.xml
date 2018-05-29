@@ -333,12 +333,6 @@
         <mark key="^" line="4" column="117" />
         <mark key="." line="4" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/BNIMenuViewController.m" timestamp="1526018927932">
-        <mark key="'" line="47" column="16" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.swift" timestamp="1522918793077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -377,11 +371,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Pods/SLAVPlayerViewController/SLAVPlayerViewController/SLAVPlayerView.m" timestamp="1527574010381">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Pods/SLAVPlayerViewController/SLAVPlayerViewController/SLAVPlayerView.m" timestamp="1527574991096">
         <mark key="'" line="46" column="76" />
-        <mark key="[" line="105" column="18" />
-        <mark key="]" line="105" column="18" />
-        <mark key="." line="105" column="18" />
+        <mark key="[" line="46" column="66" />
+        <mark key="]" line="46" column="92" />
+        <mark key="." line="46" column="66" />
+        <mark key="^" line="46" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/menu-merikomi/sumo/Module/KakuzukeSwipe/BNIKakuzukeSwipeViewController.m" timestamp="1522923914870">
         <mark key="'" line="145" column="0" />
@@ -429,12 +424,6 @@
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="102" />
         <mark key="." line="302" column="58" />
-      </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/CommonFramework/Module/Http/JsonHttpRequestOperation.swift" timestamp="1524723726303">
-        <mark key="'" line="45" column="14" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/BashoTop/BNIBashoTopViewController.m" timestamp="1526288883420">
         <mark key="'" line="176" column="46" />
@@ -564,13 +553,13 @@
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>super</text>
       </register>
       <register name="/" type="4">
         <text>full</text>
       </register>
       <register name="0" type="4">
-        <text>BNIPhoneMenuViewController</text>
+        <text>SLAVPlayerFullscreenControl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LSAodm9pZClsb2FkVmlldyB7Cgo=</text>
