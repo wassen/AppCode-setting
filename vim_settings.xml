@@ -158,6 +158,9 @@
         <mark key="^" line="85" column="32" />
         <mark key="." line="85" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" timestamp="1527848918405">
+        <mark key="'" line="103" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/workspace/sumo/UI/View/ViewController/Base/BNIWebViewController.h" timestamp="1521444841926">
         <mark key="[" line="58" column="91" />
         <mark key="]" line="58" column="91" />
@@ -189,6 +192,12 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Service/Error/BNIStoreManagerError.m" timestamp="1527846339498">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Purchase/BNITanimachiStatusManager.m" timestamp="1527849452994">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="46" column="14" />
+        <mark key="^" line="46" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/topic-fix-ipad-menu-on-landscape/sumo/Module/Menu/View/BNIMenuTableViewCell.h" timestamp="1525944527725">
         <mark key="'" line="11" column="0" />
@@ -329,7 +338,7 @@
         <mark key="[" line="263" column="14" />
         <mark key="]" line="263" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527846602797">
+      <file name="/Dummy.txt" timestamp="1527849293483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -450,10 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="16" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
-      <jump line="50" column="26" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
-      <jump line="33" column="13" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
-      <jump line="30" column="17" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
       <jump line="19" column="47" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
       <jump line="37" column="37" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/TorikumiWidget/Modules/GohiikiRikishiTorikumi/UI/GohiikiRikishiTorikumiViewController.swift" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/worktree/swiftlint/CommonFramework/Module/Http/JsonHttpRequestOperation.swift" />
@@ -550,16 +555,20 @@
       <jump line="273" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Purchase/BNIStoreManager.m" />
       <jump line="271" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Purchase/BNIStoreManager.m" />
       <jump line="246" column="0" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/Purchase/BNIStoreManager.m" />
+      <jump line="56" column="22" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" />
+      <jump line="64" column="38" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" />
+      <jump line="84" column="51" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" />
+      <jump line="103" column="60" filename="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/UI/View/ViewController/BNIKantoSeishinRikishiVotingViewController.m" />
     </jumps>
     <registers>
       <register name="*" type="2">
         <text encoding="base64">Ci0gKEJPT0wpcHJlZmVyc1N0YXR1c0JhckhpZGRlbiB7CiAgICByZXR1cm4gWUVTOwp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>super</text>
+        <text>self.tanimachiByNumber.boolValue;</text>
       </register>
       <register name="/" type="4">
-        <text>full</text>
+        <text>qr</text>
       </register>
       <register name="0" type="4">
         <text>purchaseUnknownError</text>
@@ -596,13 +605,13 @@
       </register>
     </registers>
     <search>
-      <last-search>full</last-search>
+      <last-search>qr</last-search>
       <last-offset />
-      <last-pattern>full</last-pattern>
+      <last-pattern>qr</last-pattern>
       <last-replace>\.fqdn</last-replace>
       <last-substitute>\.url</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -626,6 +635,10 @@
         <entry>viewcontroller</entry>
         <entry>enter</entry>
         <entry>full</entry>
+        <entry>tanimachi</entry>
+        <entry>tani</entry>
+        <entry>qe</entry>
+        <entry>qr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
