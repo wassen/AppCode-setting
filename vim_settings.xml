@@ -338,7 +338,7 @@
         <mark key="[" line="263" column="14" />
         <mark key="]" line="263" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527849293483">
+      <file name="/Dummy.txt" timestamp="1527851188195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -440,10 +440,10 @@
       <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/Beni/Module/BashoTop/BNIBashoTopViewController.m" timestamp="1526288883420">
         <mark key="'" line="176" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/CommonFramework/Module/Environment/BNIEnvironment.m" timestamp="1526287826341">
+      <file name="$USER_HOME$/workspace/github.com/dwango-mobile/sumo-beni/CommonFramework/Module/Environment/BNIEnvironment.m" timestamp="1527851381740">
         <mark key="'" line="225" column="56" />
-        <mark key="[" line="222" column="33" />
-        <mark key="]" line="438" column="14" />
+        <mark key="[" line="269" column="13" />
+        <mark key="]" line="269" column="20" />
         <mark key="^" line="438" column="14" />
         <mark key="." line="438" column="14" />
       </file>
@@ -571,7 +571,7 @@
         <text>qr</text>
       </register>
       <register name="0" type="4">
-        <text>purchaseUnknownError</text>
+        <text>ENV_TEST</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIF9mdWxsc2NyZWVuUGxheWVyQ29udHJvbCA9IFtzZWxmIHBfcGxheWVyQ29udHJvbFdpdGhOaWJOYW1lOkAiU0xBVlBsYXllckZ1bGxzY3JlZW5Db250cm9sIl07Cg==</text>
